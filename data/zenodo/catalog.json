@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-04-20T05:33:53+00:00",
+  "generated_at": "2026-04-20T06:09:35+00:00",
   "records": [
     {
       "creators": [
         "Tran Thi Thuy, Tien"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.5061/dryad.18931zcvg",
       "files": {
         "committed_count": 1,
@@ -16,13 +18,22 @@
       "keywords": [],
       "last_synced": "2026-04-20T04:39:22+00:00",
       "license": "cc-zero",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "corrosion",
+        "biofilm"
+      ],
+      "mes_relevance": "adjacent",
       "paper_doi": null,
       "publication_date": "2020-09-03",
       "related_slugs": {
-        "materials": [],
-        "parameters": []
+        "materials": [
+          "stainless_steel"
+        ],
+        "parameters": [
+          "biofilm_adhesion_strength",
+          "chloride_ion_concentration",
+          "sulfate_ion_concentration"
+        ]
       },
       "source": "zenodo",
       "title": "Data from:  A study of bacteria adhesion and microbial corrosion on different stainless steels in environment containing Desulfovibrio vulgaris manuscript"
@@ -37,7 +48,10 @@
         "Diederik P.L. Rousseau",
         "Korneel Rabaey"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental",
+        "genomic"
+      ],
       "doi": "10.5281/zenodo.4310338",
       "files": {
         "committed_count": 1,
@@ -50,13 +64,19 @@
       ],
       "last_synced": "2026-04-20T04:48:56+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "mes_general",
+        "mec",
+        "biofilm"
+      ],
+      "mes_relevance": "core",
       "paper_doi": null,
       "publication_date": "2021-02-08",
       "related_slugs": {
         "materials": [],
-        "parameters": []
+        "parameters": [
+          "current_density"
+        ]
       },
       "source": "zenodo",
       "title": "Production of concentrated hydrogen peroxide in bioelectrochemical systems negatively affects microbial current generation"
@@ -68,7 +88,9 @@
         "Carlos A. Arias",
         "Abraham Esteve-Núñez"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.5281/zenodo.4529615",
       "files": {
         "committed_count": 1,
@@ -85,13 +107,19 @@
       ],
       "last_synced": "2026-04-20T04:49:56+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "mes_general",
+        "wastewater",
+        "bioremediation"
+      ],
+      "mes_relevance": "core",
       "paper_doi": "10.1016/j.scitotenv.2020.139522",
       "publication_date": "2020-05-16",
       "related_slugs": {
         "materials": [],
-        "parameters": []
+        "parameters": [
+          "current_density"
+        ]
       },
       "source": "zenodo",
       "title": "Novel bioelectrochemical strategies for domesticating the electron flow in constructed wetlands"
@@ -103,7 +131,9 @@
         "A. Berná",
         "A. Esteve-Núñez"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.5281/zenodo.4531295",
       "files": {
         "committed_count": 1,
@@ -119,13 +149,23 @@
       ],
       "last_synced": "2026-04-20T04:49:58+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "mes_general",
+        "mfc"
+      ],
+      "mes_relevance": "core",
       "paper_doi": "10.1016/j.carbon.2019.02.038",
       "publication_date": "2020-08-01",
       "related_slugs": {
-        "materials": [],
-        "parameters": []
+        "materials": [
+          "carbon_felt",
+          "carbon_cloth"
+        ],
+        "parameters": [
+          "current_density",
+          "electrode_surface_area",
+          "electrode_porosity"
+        ]
       },
       "source": "zenodo",
       "title": "Simultaneous characterization of porous and non-porous electrodes in microbial electrochemical systems"
@@ -138,7 +178,11 @@
         "Harnisch, Falk",
         "Musat, Niculina"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental",
+        "spectroscopy",
+        "image"
+      ],
       "doi": "10.5061/dryad.8sc52",
       "files": {
         "committed_count": 1,
@@ -158,13 +202,18 @@
       ],
       "last_synced": "2026-04-20T04:38:28+00:00",
       "license": "cc-zero",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "biofilm",
+        "mes_general"
+      ],
+      "mes_relevance": "core",
       "paper_doi": null,
       "publication_date": "2016-12-28",
       "related_slugs": {
         "materials": [],
-        "parameters": []
+        "parameters": [
+          "biofilm_thickness"
+        ]
       },
       "source": "zenodo",
       "title": "Data from: In situ analysis of a silver nanoparticle-precipitating Shewanella biofilm by surface enhanced confocal Raman microscopy"
@@ -175,7 +224,10 @@
         "Wood, Toby S",
         "Heidrich, Elizabeth S"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "simulation",
+        "benchmark"
+      ],
       "doi": "10.5281/zenodo.6827450",
       "files": {
         "committed_count": 2,
@@ -186,13 +238,17 @@
       "keywords": [],
       "last_synced": "2026-04-20T04:49:43+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "mes_general"
+      ],
+      "mes_relevance": "core",
       "paper_doi": null,
       "publication_date": "2022-07-13",
       "related_slugs": {
         "materials": [],
-        "parameters": []
+        "parameters": [
+          "current_density"
+        ]
       },
       "source": "zenodo",
       "title": "Optimising bioelectrochemical systems using Hartree HPC Datasets"
@@ -207,7 +263,9 @@
         "Guisasola, Albert",
         "Borràs, Eduard"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.5281/zenodo.6882123",
       "files": {
         "committed_count": 1,
@@ -223,13 +281,21 @@
       ],
       "last_synced": "2026-04-20T04:49:01+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "mec",
+        "wastewater",
+        "mes_general"
+      ],
+      "mes_relevance": "core",
       "paper_doi": null,
       "publication_date": "2022-07-22",
       "related_slugs": {
         "materials": [],
-        "parameters": []
+        "parameters": [
+          "current_density",
+          "nitrogen_concentration",
+          "nitrogen_removal"
+        ]
       },
       "source": "zenodo",
       "title": "Dataset: Development and optimization of a bioelectrochemical system for ammonium recovery from wastewater as fertilizer"
@@ -241,7 +307,12 @@
         "Imamura, Gaku",
         "Okamoto, Akihiro"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental",
+        "time_series",
+        "benchmark",
+        "code"
+      ],
       "doi": "10.5281/zenodo.7050972",
       "files": {
         "committed_count": 4,
@@ -252,13 +323,19 @@
       "keywords": [],
       "last_synced": "2026-04-20T04:39:27+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "mes_general",
+        "mfc"
+      ],
+      "mes_relevance": "core",
       "paper_doi": null,
       "publication_date": "2022-09-09",
       "related_slugs": {
         "materials": [],
-        "parameters": []
+        "parameters": [
+          "current_density",
+          "coulombic_efficiency"
+        ]
       },
       "source": "zenodo",
       "title": "Bayesian Estimation on Microbial Electrochemical Time Profiles obtained by a High-Throughput Bioelectrochemical Device"
@@ -268,7 +345,9 @@
         "Viktória Feigl",
         "Mónika Molnár"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.5281/zenodo.7415472",
       "files": {
         "committed_count": 1,
@@ -285,8 +364,11 @@
       ],
       "last_synced": "2026-04-20T04:38:30+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "bioremediation",
+        "mes_general"
+      ],
+      "mes_relevance": "core",
       "paper_doi": "10.1016/j.scitotenv.2022.157325",
       "publication_date": "2022-12-08",
       "related_slugs": {
@@ -303,7 +385,9 @@
         "Zsófia Berkl",
         "Imre Németh"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.5281/zenodo.7415636",
       "files": {
         "committed_count": 1,
@@ -319,8 +403,12 @@
       ],
       "last_synced": "2026-04-20T04:48:59+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "bioremediation",
+        "mes_general",
+        "wastewater"
+      ],
+      "mes_relevance": "core",
       "paper_doi": "10.1016/j.jwpe.2022.103101",
       "publication_date": "2022-12-08",
       "related_slugs": {
@@ -338,7 +426,9 @@
         "Mari Lundström",
         "Kirsi Yliniemi"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.5281/zenodo.7660056",
       "files": {
         "committed_count": 0,
@@ -354,8 +444,11 @@
       ],
       "last_synced": "2026-04-20T04:35:36+00:00",
       "license": "cc-by-nc-nd-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "electrocatalysis",
+        "other"
+      ],
+      "mes_relevance": "tangential",
       "paper_doi": null,
       "publication_date": "2023-08-03",
       "related_slugs": {
@@ -369,7 +462,9 @@
       "creators": [
         "Grieco, Rebecca"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.5281/zenodo.7970574",
       "files": {
         "committed_count": 0,
@@ -382,13 +477,19 @@
       ],
       "last_synced": "2026-04-20T04:34:39+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "energy_storage",
+        "electrocatalysis"
+      ],
+      "mes_relevance": "tangential",
       "paper_doi": null,
       "publication_date": "2023-05-25",
       "related_slugs": {
         "materials": [],
-        "parameters": []
+        "parameters": [
+          "current_density",
+          "energy_density"
+        ]
       },
       "source": "zenodo",
       "title": "DataSet for \"Hybrid Based on Phenazine Conjugated Microporous Polymer as a High-Performance Organic Electrode in Aqueous Electrolytes\""
@@ -401,7 +502,10 @@
         "Anna Hankin",
         "Stephen J Skinner"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental",
+        "image"
+      ],
       "doi": "10.1088/2515-7655/aceeb5",
       "files": {
         "committed_count": 74,
@@ -412,13 +516,20 @@
       "keywords": [],
       "last_synced": "2026-04-20T04:35:31+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "electrocatalysis",
+        "energy_storage"
+      ],
+      "mes_relevance": "tangential",
       "paper_doi": null,
       "publication_date": "2023-08-25",
       "related_slugs": {
         "materials": [],
-        "parameters": []
+        "parameters": [
+          "current_density",
+          "charge_transfer_resistance",
+          "impedance_magnitude"
+        ]
       },
       "source": "zenodo",
       "title": "High performance composite Pr4Ni3O—Ce0.75Gd0.1Pr0.15O solid oxide cell air electrode"
@@ -427,7 +538,9 @@
       "creators": [
         "Muroyama, Alexander"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.5281/zenodo.10517218",
       "files": {
         "committed_count": 4,
@@ -438,13 +551,19 @@
       "keywords": [],
       "last_synced": "2026-04-20T04:30:32+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "co2_capture"
+      ],
+      "mes_relevance": "adjacent",
       "paper_doi": null,
       "publication_date": "2024-01-04",
       "related_slugs": {
         "materials": [],
-        "parameters": []
+        "parameters": [
+          "current_density",
+          "faradaic_efficiency_co2",
+          "co2_capture_rate"
+        ]
       },
       "source": "zenodo",
       "title": "Dataset: Performance Enhancement of a Membrane Electrochemical Cell for CO2 Capture"
@@ -456,7 +575,9 @@
         "Palkovits, Stefan",
         "Palkovits, Regina"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.5281/zenodo.10669811",
       "files": {
         "committed_count": 0,
@@ -467,13 +588,20 @@
       "keywords": [],
       "last_synced": "2026-04-20T04:34:56+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "electrocatalysis"
+      ],
+      "mes_relevance": "adjacent",
       "paper_doi": null,
       "publication_date": "2024-02-16",
       "related_slugs": {
         "materials": [],
-        "parameters": []
+        "parameters": [
+          "current_density",
+          "overpotential",
+          "tafel_slope",
+          "electrode_surface_area"
+        ]
       },
       "source": "zenodo",
       "title": "Dataset for the publication: Nickel and Commercially Available Nickel-Containing Alloys as Electrodes for the Electrochemical Oxygen Evolution"
@@ -484,7 +612,9 @@
         "Ilyassov, Baurzhan",
         "Tessler, Nir"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.5281/zenodo.10987633",
       "files": {
         "committed_count": 0,
@@ -495,8 +625,10 @@
       "keywords": [],
       "last_synced": "2026-04-20T04:35:11+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "oect"
+      ],
+      "mes_relevance": "tangential",
       "paper_doi": null,
       "publication_date": "2024-04-17",
       "related_slugs": {
@@ -516,7 +648,9 @@
         "Hofmann, Jan P.",
         "Mechler, Anna K."
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.5281/zenodo.13347935",
       "files": {
         "committed_count": 0,
@@ -534,13 +668,19 @@
       ],
       "last_synced": "2026-04-20T04:39:20+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "electrocatalysis"
+      ],
+      "mes_relevance": "adjacent",
       "paper_doi": "10.1002/celc.202400318",
       "publication_date": "2025-01-20",
       "related_slugs": {
         "materials": [],
-        "parameters": []
+        "parameters": [
+          "current_density",
+          "overpotential",
+          "tafel_slope"
+        ]
       },
       "source": "zenodo",
       "title": "Dataset for Publication: Boosting the Oxygen Evolution Reaction Performance of Ni-Fe-Electrodes by Tailored Conditioning"
@@ -550,7 +690,9 @@
         "Bisquert, Juan",
         "Tessler, Nir"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.5281/zenodo.13903078",
       "files": {
         "committed_count": 0,
@@ -561,8 +703,10 @@
       "keywords": [],
       "last_synced": "2026-04-20T04:35:01+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "oect"
+      ],
+      "mes_relevance": "tangential",
       "paper_doi": null,
       "publication_date": "2024-10-08",
       "related_slugs": {
@@ -577,7 +721,9 @@
         "Bisquert, Juan",
         "Keene, Scott T."
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.5281/zenodo.14000203",
       "files": {
         "committed_count": 0,
@@ -588,8 +734,10 @@
       "keywords": [],
       "last_synced": "2026-04-20T04:30:35+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "oect"
+      ],
+      "mes_relevance": "tangential",
       "paper_doi": null,
       "publication_date": "2024-10-28",
       "related_slugs": {
@@ -603,7 +751,10 @@
       "creators": [
         "Ashraf, Talal"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental",
+        "spectroscopy"
+      ],
       "doi": "10.5281/zenodo.14886857",
       "files": {
         "committed_count": 0,
@@ -614,8 +765,10 @@
       "keywords": [],
       "last_synced": "2026-04-20T04:34:53+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "electrocatalysis"
+      ],
+      "mes_relevance": "tangential",
       "paper_doi": null,
       "publication_date": "2025-02-18",
       "related_slugs": {
@@ -630,7 +783,10 @@
         "Bisquert, Juan",
         "Tessler, Nir"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental",
+        "simulation"
+      ],
       "doi": "10.5281/zenodo.15244569",
       "files": {
         "committed_count": 0,
@@ -645,8 +801,10 @@
       ],
       "last_synced": "2026-04-20T04:39:31+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "oect"
+      ],
+      "mes_relevance": "tangential",
       "paper_doi": null,
       "publication_date": "2025-04-19",
       "related_slugs": {
@@ -661,7 +819,10 @@
         "Leitat Technological Center",
         "University of Girona"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental",
+        "time_series"
+      ],
       "doi": "10.5281/zenodo.15275012",
       "files": {
         "committed_count": 1,
@@ -678,13 +839,21 @@
       ],
       "last_synced": "2026-04-20T04:48:58+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "mec",
+        "mes_general",
+        "co2_capture"
+      ],
+      "mes_relevance": "core",
       "paper_doi": null,
       "publication_date": "2025-04-24",
       "related_slugs": {
         "materials": [],
-        "parameters": []
+        "parameters": [
+          "current_density",
+          "cell_voltage",
+          "stack_voltage"
+        ]
       },
       "source": "zenodo",
       "title": "Dataset_Stabilising methane production in a series-stack of bioelectrochemical systems"
@@ -693,7 +862,11 @@
       "creators": [
         "Mba Wright, Mark"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental",
+        "simulation",
+        "code"
+      ],
       "doi": "10.5281/zenodo.15300087",
       "files": {
         "committed_count": 1,
@@ -704,13 +877,19 @@
       "keywords": [],
       "last_synced": "2026-04-20T04:35:39+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "wastewater",
+        "mes_general"
+      ],
+      "mes_relevance": "core",
       "paper_doi": null,
       "publication_date": "2025-04-29",
       "related_slugs": {
         "materials": [],
-        "parameters": []
+        "parameters": [
+          "current_density",
+          "wastewater_type"
+        ]
       },
       "source": "zenodo",
       "title": "ELECTROCHEMICAL SYSTEMS AND MACHINE LEARNING FOR SUSTAINABLE WASTEWATER TREATMENT"
@@ -722,7 +901,9 @@
         "Paušová, Šárka",
         "Bouzek, Karel"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.5281/zenodo.15682546",
       "files": {
         "committed_count": 1,
@@ -741,13 +922,19 @@
       ],
       "last_synced": "2026-04-20T04:35:00+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "electrocatalysis"
+      ],
+      "mes_relevance": "adjacent",
       "paper_doi": null,
       "publication_date": "2025-06-17",
       "related_slugs": {
         "materials": [],
-        "parameters": []
+        "parameters": [
+          "current_density",
+          "overpotential",
+          "tafel_slope"
+        ]
       },
       "source": "zenodo",
       "title": "Dataset of \"Electrodeposition as an attractive method of NiCoP cathode catalyst for alkaline membrane water electrolysis production\""
@@ -756,7 +943,10 @@
       "creators": [
         "Paci, Marco Maria"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental",
+        "spectroscopy"
+      ],
       "doi": "10.5281/zenodo.15993211",
       "files": {
         "committed_count": 6,
@@ -767,13 +957,18 @@
       "keywords": [],
       "last_synced": "2026-04-20T04:39:30+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "electrocatalysis"
+      ],
+      "mes_relevance": "tangential",
       "paper_doi": null,
       "publication_date": "2025-07-16",
       "related_slugs": {
         "materials": [],
-        "parameters": []
+        "parameters": [
+          "charge_transfer_resistance",
+          "impedance_magnitude"
+        ]
       },
       "source": "zenodo",
       "title": "Electrochemical characterization of the nanofluidic membrane"
@@ -785,7 +980,9 @@
         "Ortiz-Martínez, Víctor Manuel",
         "Salar-García, María José"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.5281/zenodo.17091337",
       "files": {
         "committed_count": 0,
@@ -802,13 +999,23 @@
       ],
       "last_synced": "2026-04-20T04:30:29+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "mfc",
+        "mes_general"
+      ],
+      "mes_relevance": "core",
       "paper_doi": null,
       "publication_date": "2025-05-15",
       "related_slugs": {
-        "materials": [],
-        "parameters": []
+        "materials": [
+          "polymer_separator"
+        ],
+        "parameters": [
+          "coulombic_efficiency",
+          "current_density",
+          "power_density",
+          "internal_resistance"
+        ]
       },
       "source": "zenodo",
       "title": "DATA: Polymeric membranes functionalized with deep eutectic solvents as separators in microbial fuel cells"
@@ -817,7 +1024,9 @@
       "creators": [
         "Wong, Andrew"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.5281/zenodo.17462189",
       "files": {
         "committed_count": 0,
@@ -831,13 +1040,19 @@
       ],
       "last_synced": "2026-04-20T04:49:55+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "mes_general",
+        "mec"
+      ],
+      "mes_relevance": "core",
       "paper_doi": null,
       "publication_date": "2025-10-28",
       "related_slugs": {
         "materials": [],
-        "parameters": []
+        "parameters": [
+          "current_density",
+          "nitrogen_concentration"
+        ]
       },
       "source": "zenodo",
       "title": "Data supporting \"Bioelectrochemical Nitrogen Fixation Towards Sustainable Hydroponics\""
@@ -846,7 +1061,11 @@
       "creators": [
         "Marrero, Denise"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental",
+        "image",
+        "simulation"
+      ],
       "doi": "10.5281/zenodo.17804246",
       "files": {
         "committed_count": 0,
@@ -857,13 +1076,19 @@
       "keywords": [],
       "last_synced": "2026-04-20T04:35:09+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "sensor"
+      ],
+      "mes_relevance": "tangential",
       "paper_doi": null,
       "publication_date": "2025-12-03",
       "related_slugs": {
         "materials": [],
-        "parameters": []
+        "parameters": [
+          "dissolved_oxygen",
+          "oxygen_concentration",
+          "current_density"
+        ]
       },
       "source": "zenodo",
       "title": "Low-temperature inkjet-printed electrochemical sensors on OSTE+ microfluidics for oxygen monitoring and scavenging"
@@ -872,7 +1097,9 @@
       "creators": [
         "Ranjani Palanisamy, Rupa"
       ],
-      "data_kinds": [],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.5281/zenodo.18385300",
       "files": {
         "committed_count": 0,
@@ -883,13 +1110,18 @@
       "keywords": [],
       "last_synced": "2026-04-20T04:30:39+00:00",
       "license": "cc-by-4.0",
-      "mes_domains": [],
-      "mes_relevance": null,
+      "mes_domains": [
+        "energy_storage"
+      ],
+      "mes_relevance": "tangential",
       "paper_doi": null,
       "publication_date": "2026-01-27",
       "related_slugs": {
         "materials": [],
-        "parameters": []
+        "parameters": [
+          "energy_density",
+          "current_density"
+        ]
       },
       "source": "zenodo",
       "title": "Data related to Dual-functionality of NiSe2-CoSe2 nanowires for electrochemical charge storage and efficient thermal energy conversion"

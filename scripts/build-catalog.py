@@ -21,7 +21,24 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Callable
 
+import yaml
+
 from _common import DATA_DIR, write_json
+
+
+CLASSIFICATIONS_PATH = DATA_DIR / "classifications.yaml"
+
+
+def load_yaml_classifications() -> dict[str, dict[str, Any]]:
+    """Return {<source>:<id> -> classification dict} from the YAML."""
+    if not CLASSIFICATIONS_PATH.exists():
+        return {}
+    with CLASSIFICATIONS_PATH.open("r", encoding="utf-8") as fh:
+        data = yaml.safe_load(fh) or {}
+    entries = data.get("entries") or {}
+    if not isinstance(entries, dict):
+        return {}
+    return {k: v for k, v in entries.items() if isinstance(v, dict)}
 
 
 SOURCES: list[tuple[str, Path, Callable[[dict, dict], dict]]] = []
@@ -56,7 +73,28 @@ def summarize_files(manifest: dict) -> dict[str, int]:
     }
 
 
-def build_zenodo_record(rec_dir: Path, prior: dict[str, dict[str, Any]]) -> dict[str, Any] | None:
+def _resolve_classification(
+    key: str,
+    prior: dict[str, dict[str, Any]],
+    yaml_entries: dict[str, dict[str, Any]],
+) -> dict[str, Any]:
+    """YAML is the human source of truth; prior catalog is a fallback."""
+    if key in yaml_entries:
+        y = yaml_entries[key]
+        return {
+            "mes_relevance": y.get("mes_relevance", None),
+            "mes_domains": list(y.get("mes_domains") or []),
+            "data_kinds": list(y.get("data_kinds") or []),
+            "related_slugs": y.get("related_slugs") or {"parameters": [], "materials": []},
+        }
+    return prior.get(key, {})
+
+
+def build_zenodo_record(
+    rec_dir: Path,
+    prior: dict[str, dict[str, Any]],
+    yaml_entries: dict[str, dict[str, Any]],
+) -> dict[str, Any] | None:
     meta_path = rec_dir / "metadata.json"
     manifest_path = rec_dir / "manifest.json"
     if not meta_path.exists() or not manifest_path.exists():
@@ -65,7 +103,7 @@ def build_zenodo_record(rec_dir: Path, prior: dict[str, dict[str, Any]]) -> dict
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     m = meta.get("metadata", {}) or {}
     record_id = rec_dir.name
-    p = prior.get(f"zenodo:{record_id}", {})
+    p = _resolve_classification(f"zenodo:{record_id}", prior, yaml_entries)
 
     # Try to pull a paper DOI from related_identifiers (relation ~ isSupplementTo).
     paper_doi = None
@@ -101,7 +139,11 @@ def build_zenodo_record(rec_dir: Path, prior: dict[str, dict[str, Any]]) -> dict
     }
 
 
-def build_figshare_record(rec_dir: Path, prior: dict[str, dict[str, Any]]) -> dict[str, Any] | None:
+def build_figshare_record(
+    rec_dir: Path,
+    prior: dict[str, dict[str, Any]],
+    yaml_entries: dict[str, dict[str, Any]],
+) -> dict[str, Any] | None:
     meta_path = rec_dir / "metadata.json"
     manifest_path = rec_dir / "manifest.json"
     if not meta_path.exists() or not manifest_path.exists():
@@ -109,7 +151,7 @@ def build_figshare_record(rec_dir: Path, prior: dict[str, dict[str, Any]]) -> di
     meta = json.loads(meta_path.read_text(encoding="utf-8"))
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     record_id = rec_dir.name
-    p = prior.get(f"figshare:{record_id}", {})
+    p = _resolve_classification(f"figshare:{record_id}", prior, yaml_entries)
 
     authors = [
         a.get("full_name") for a in (meta.get("authors") or [])
@@ -138,7 +180,7 @@ def build_figshare_record(rec_dir: Path, prior: dict[str, dict[str, Any]]) -> di
     }
 
 
-SOURCE_BUILDERS: dict[str, Callable[[Path, dict], dict | None]] = {
+SOURCE_BUILDERS: dict[str, Callable[[Path, dict, dict], dict | None]] = {
     "zenodo": build_zenodo_record,
     "figshare": build_figshare_record,
 }
@@ -164,12 +206,14 @@ def scan_source(source: str) -> list[dict[str, Any]]:
         **load_prior_classifications(unified_catalog),
     }
 
+    yaml_entries = load_yaml_classifications()
+
     builder = SOURCE_BUILDERS[source]
     records: list[dict[str, Any]] = []
     for child in sorted(source_dir.iterdir()):
         if not child.is_dir() or child.name.startswith("."):
             continue
-        rec = builder(child, prior)
+        rec = builder(child, prior, yaml_entries)
         if rec:
             records.append(rec)
     records.sort(key=stable_sort_key)

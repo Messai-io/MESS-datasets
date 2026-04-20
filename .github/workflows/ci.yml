@@ -1,0 +1,130 @@
+name: CI
+
+on:
+  push:
+    branches: [main, dev]
+  pull_request:
+    branches: [main, dev]
+
+jobs:
+  validate-schemas:
+    name: Validate JSON Schemas
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Validate every catalog + manifest + metadata snapshot
+        run: |
+          python - <<'PY'
+          import json, sys
+          from pathlib import Path
+          from jsonschema import validate, ValidationError
+
+          catalog_schema  = json.loads(Path('schemas/dataset-catalog.schema.json').read_text())
+          manifest_schema = json.loads(Path('schemas/dataset-manifest.schema.json').read_text())
+          zenodo_schema   = json.loads(Path('schemas/zenodo-record.schema.json').read_text())
+
+          errors = 0
+          for p in [Path('data/catalog.json'),
+                    *sorted(Path('data').glob('*/catalog.json'))]:
+              try:
+                  validate(json.loads(p.read_text()), catalog_schema)
+                  print(f"OK  {p}")
+              except ValidationError as e:
+                  errors += 1
+                  print(f"FAIL {p}: {e.message}")
+
+          for p in sorted(Path('data').glob('*/*/manifest.json')):
+              try:
+                  validate(json.loads(p.read_text()), manifest_schema)
+              except ValidationError as e:
+                  errors += 1
+                  print(f"FAIL {p}: {e.message}")
+          print(f"OK  all manifests ({len(list(Path('data').glob('*/*/manifest.json')))} files)")
+
+          for p in sorted(Path('data/zenodo').glob('*/metadata.json')):
+              try:
+                  validate(json.loads(p.read_text()), zenodo_schema)
+              except ValidationError as e:
+                  errors += 1
+                  print(f"FAIL {p}: {e.message}")
+          print(f"OK  all zenodo metadata snapshots")
+
+          sys.exit(0 if errors == 0 else 1)
+          PY
+
+  validate-references:
+    name: Validate Slug References
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Cache slug sources
+        uses: actions/cache@v4
+        with:
+          path: ci/.slug-cache
+          key: slug-cache-${{ hashFiles('scripts/_slug_sources.py') }}
+          restore-keys: slug-cache-
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run validate-references
+        run: python scripts/validate-references.py
+
+  build-catalog-drift:
+    name: Catalog Drift Check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Rebuild catalogs and compare
+        run: |
+          # Save committed state, rebuild, diff. If classifications.yaml
+          # agrees with the committed catalog.json, the rebuild is a noop.
+          # Ignore generated_at timestamps.
+          for f in data/catalog.json data/zenodo/catalog.json data/figshare/catalog.json; do
+            cp "$f" "$f.committed"
+          done
+          python scripts/build-catalog.py
+          for f in data/catalog.json data/zenodo/catalog.json data/figshare/catalog.json; do
+            python -c "
+          import json, sys
+          c = json.loads(open('$f.committed').read())
+          r = json.loads(open('$f').read())
+          c.pop('generated_at', None); r.pop('generated_at', None)
+          for rec in c.get('records', []): rec.pop('last_synced', None)
+          for rec in r.get('records', []): rec.pop('last_synced', None)
+          if c != r:
+              print('DRIFT in $f — rebuild differs from committed state')
+              sys.exit(1)
+          print('OK  $f rebuild matches committed')
+          "
+          done
