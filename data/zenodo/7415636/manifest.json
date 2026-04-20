@@ -1,0 +1,17 @@
+{
+  "doi": "10.5281/zenodo.7415636",
+  "fetched_at": "2026-04-20T04:48:59+00:00",
+  "files": [
+    {
+      "checksum": "md5:b1c5f74c8714f798ce9d69f48d4a81f7",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/7415636/files/DellArmi_2022_ELECTRA_paper_ecotox_dataset.xlsx/content",
+      "key": "DellArmi_2022_ELECTRA_paper_ecotox_dataset.xlsx",
+      "local_path": "files/DellArmi_2022_ELECTRA_paper_ecotox_dataset.xlsx",
+      "size": 99339,
+      "skipped_reason": null
+    }
+  ],
+  "id": "7415636",
+  "source": "zenodo"
+}

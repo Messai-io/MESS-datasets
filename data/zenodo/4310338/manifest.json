@@ -1,0 +1,17 @@
+{
+  "doi": "10.5281/zenodo.4310338",
+  "fetched_at": "2026-04-20T04:48:56+00:00",
+  "files": [
+    {
+      "checksum": "md5:f2ab49cfa340802c8de945e570926d39",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/4310338/files/Microbial%20community%20analysis.xlsx/content",
+      "key": "Microbial community analysis.xlsx",
+      "local_path": "files/Microbial community analysis.xlsx",
+      "size": 377320,
+      "skipped_reason": null
+    }
+  ],
+  "id": "4310338",
+  "source": "zenodo"
+}

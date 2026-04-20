@@ -11,6 +11,10 @@ search_provenance:
     onetab: "https://www.one-tab.com/page/qWa1gQvhTDCdldCelNvMMA"
     query: "microbial electrochemical"
     added: "2026-04-20"
+  - source: "user-curated"
+    query: "bioelectrochemical systems"
+    added: "2026-04-20"
+    note: "User-supplied Zenodo URLs covering BES-specific topics: H2O2 production, methane stack, CAH remediation, ammonium recovery, HPC optimization, nitrogen fixation, constructed wetlands, porous/non-porous electrode characterization."
 
 records:
   - id: "17091337"
@@ -55,3 +59,21 @@ records:
     note: "Electrochemical characterization of nanofluidic membrane"
   - id: "15244569"
     note: "One-transistor OECT self-sustained oscillator for neuromorphic networks"
+
+  # Batch 2 — bioelectrochemical systems, user-curated 2026-04-20
+  - id: "4310338"
+    note: "H2O2 production in BES negatively affects microbial current generation"
+  - id: "15275012"
+    note: "Stabilising methane production in a series-stack of BES"
+  - id: "7415636"
+    note: "Ecotox results — bioelectrochemical reductive/oxidative CAH removal from groundwater"
+  - id: "6882123"
+    note: "BES for ammonium recovery from wastewater as fertilizer"
+  - id: "6827450"
+    note: "Optimising BES using Hartree HPC datasets"
+  - id: "17462189"
+    note: "Bioelectrochemical nitrogen fixation for sustainable hydroponics"
+  - id: "4529615"
+    note: "BES strategies for domesticating electron flow in constructed wetlands"
+  - id: "4531295"
+    note: "Simultaneous characterization of porous + non-porous electrodes in MES"

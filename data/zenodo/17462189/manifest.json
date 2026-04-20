@@ -1,0 +1,17 @@
+{
+  "doi": "10.5281/zenodo.17462189",
+  "fetched_at": "2026-04-20T04:49:55+00:00",
+  "files": [
+    {
+      "checksum": "md5:22ce660a6c961bafdbce3f0a08902c98",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/17462189/files/Epi-farm_original.zip/content",
+      "key": "Epi-farm_original.zip",
+      "local_path": ".source/Epi-farm_original.zip",
+      "size": 248038390,
+      "skipped_reason": null
+    }
+  ],
+  "id": "17462189",
+  "source": "zenodo"
+}

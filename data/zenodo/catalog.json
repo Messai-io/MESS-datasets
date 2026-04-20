@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T04:39:49+00:00",
+  "generated_at": "2026-04-20T04:50:08+00:00",
   "records": [
     {
       "creators": [
@@ -25,6 +25,106 @@
       },
       "source": "zenodo",
       "title": "Data from:  A study of bacteria adhesion and microbial corrosion on different stainless steels in environment containing Desulfovibrio vulgaris manuscript"
+    },
+    {
+      "creators": [
+        "Suanny Mosquera",
+        "Antonin Prevoteau",
+        "Inka Vanwonterghem",
+        "Jan B. A. Arends",
+        "Luis Dominguez",
+        "Diederik P.L. Rousseau",
+        "Korneel Rabaey"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.4310338",
+      "files": {
+        "committed_count": 1,
+        "count": 1,
+        "total_bytes": 377320
+      },
+      "id": "4310338",
+      "keywords": [
+        "EABS sequencing"
+      ],
+      "last_synced": "2026-04-20T04:48:56+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2021-02-08",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Production of concentrated hydrogen peroxide in bioelectrochemical systems negatively affects microbial current generation"
+    },
+    {
+      "creators": [
+        "Amanda Prado",
+        "Carlos A. Ramírez-Vargas",
+        "Carlos A. Arias",
+        "Abraham Esteve-Núñez"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.4529615",
+      "files": {
+        "committed_count": 1,
+        "count": 1,
+        "total_bytes": 27738
+      },
+      "id": "4529615",
+      "keywords": [
+        "Constructed wetland",
+        "METland®",
+        "Microbial electrochemical technologies",
+        "Electroactive bacteria",
+        "Ec-biochar"
+      ],
+      "last_synced": "2026-04-20T04:49:56+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2020-05-16",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Novel bioelectrochemical strategies for domesticating the electron flow in constructed wetlands"
+    },
+    {
+      "creators": [
+        "A. Prado",
+        "R. Berenguer",
+        "A. Berná",
+        "A. Esteve-Núñez"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.4531295",
+      "files": {
+        "committed_count": 1,
+        "count": 1,
+        "total_bytes": 552734
+      },
+      "id": "4531295",
+      "keywords": [
+        "Electrode materials",
+        "Electroactive biofilms",
+        "Bioelectrochemical systems",
+        "Porous and non-porous electrodes"
+      ],
+      "last_synced": "2026-04-20T04:49:58+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2020-08-01",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Simultaneous characterization of porous and non-porous electrodes in microbial electrochemical systems"
     },
     {
       "creators": [
@@ -63,6 +163,69 @@
       },
       "source": "zenodo",
       "title": "Data from: In situ analysis of a silver nanoparticle-precipitating Shewanella biofilm by surface enhanced confocal Raman microscopy"
+    },
+    {
+      "creators": [
+        "Day, Jordan R",
+        "Wood, Toby S",
+        "Heidrich, Elizabeth S"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.6827450",
+      "files": {
+        "committed_count": 2,
+        "count": 29,
+        "total_bytes": 606897904
+      },
+      "id": "6827450",
+      "keywords": [],
+      "last_synced": "2026-04-20T04:49:43+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2022-07-13",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Optimising bioelectrochemical systems using Hartree HPC Datasets"
+    },
+    {
+      "creators": [
+        "Losantos, Diana",
+        "Aliaguilla, Martí",
+        "Molognoni, Daniele",
+        "González, Miguel",
+        "Bosch-Jimenez, Pau",
+        "Guisasola, Albert",
+        "Borràs, Eduard"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.6882123",
+      "files": {
+        "committed_count": 1,
+        "count": 1,
+        "total_bytes": 155542
+      },
+      "id": "6882123",
+      "keywords": [
+        "Electroactive bacteria",
+        "Microbial electrolysis cells",
+        "Nitrogen recovery",
+        "Blackwater"
+      ],
+      "last_synced": "2026-04-20T04:49:01+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2022-07-22",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Dataset: Development and optimization of a bioelectrochemical system for ammonium recovery from wastewater as fertilizer"
     },
     {
       "creators": [
@@ -123,6 +286,39 @@
       },
       "source": "zenodo",
       "title": "Ecotoxicity test results for the paper entitled \"Passive electrobioremediation approaches for enhancing hydrocarbons biodegradation in contaminated soils\""
+    },
+    {
+      "creators": [
+        "Viktória Feigl",
+        "Mónika Molnár",
+        "Zsófia Berkl",
+        "Imre Németh"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.7415636",
+      "files": {
+        "committed_count": 1,
+        "count": 1,
+        "total_bytes": 99339
+      },
+      "id": "7415636",
+      "keywords": [
+        "ecotoxicity",
+        "ecotoxicity test battery",
+        "water ecotoxicity testing",
+        "bioelectrochemical treatment"
+      ],
+      "last_synced": "2026-04-20T04:48:59+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2022-12-08",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Ecotoxicity test results for the paper entitled \"Evaluation of a bioelectrochemical reductive/oxidative sequential process for chlorinated aliphatic hydrocarbons (CAHs) removal from a real contaminated groundwater\""
     },
     {
       "creators": [
@@ -441,6 +637,38 @@
     },
     {
       "creators": [
+        "Leitat Technological Center",
+        "University of Girona"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.15275012",
+      "files": {
+        "committed_count": 1,
+        "count": 1,
+        "total_bytes": 437182
+      },
+      "id": "15275012",
+      "keywords": [
+        "Cell Balance System",
+        "Diodes",
+        "Electromethanogenesis",
+        "Methanogens",
+        "Power-to-gas"
+      ],
+      "last_synced": "2026-04-20T04:48:58+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2025-04-24",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Dataset_Stabilising methane production in a series-stack of bioelectrochemical systems"
+    },
+    {
+      "creators": [
         "Mba Wright, Mark"
       ],
       "data_kinds": [],
@@ -558,6 +786,34 @@
       },
       "source": "zenodo",
       "title": "DATA: Polymeric membranes functionalized with deep eutectic solvents as separators in microbial fuel cells"
+    },
+    {
+      "creators": [
+        "Wong, Andrew"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.17462189",
+      "files": {
+        "committed_count": 0,
+        "count": 1,
+        "total_bytes": 248038390
+      },
+      "id": "17462189",
+      "keywords": [
+        "bioelectrochemistry",
+        "nitrogen fixation"
+      ],
+      "last_synced": "2026-04-20T04:49:55+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2025-10-28",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Data supporting \"Bioelectrochemical Nitrogen Fixation Towards Sustainable Hydroponics\""
     },
     {
       "creators": [

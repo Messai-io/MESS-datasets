@@ -1,0 +1,169 @@
+{
+  "conceptdoi": "10.5281/zenodo.6882122",
+  "conceptrecid": "6882122",
+  "created": "2022-07-22T09:43:53.390901+00:00",
+  "doi": "10.5281/zenodo.6882123",
+  "doi_url": "https://doi.org/10.5281/zenodo.6882123",
+  "files": [
+    {
+      "checksum": "md5:136036e16c0c381651dcfe2495acb877",
+      "id": "c0385dbb-6429-4ac2-b801-e2c26a289c2c",
+      "key": "Dataset Losantosetal.xlsx",
+      "links": {
+        "self": "https://zenodo.org/api/records/6882123/files/Dataset%20Losantosetal.xlsx/content"
+      },
+      "size": 155542
+    }
+  ],
+  "id": 6882123,
+  "links": {
+    "access": "https://zenodo.org/api/records/6882123/access",
+    "access_grants": "https://zenodo.org/api/records/6882123/access/grants",
+    "access_links": "https://zenodo.org/api/records/6882123/access/links",
+    "access_request": "https://zenodo.org/api/records/6882123/access/request",
+    "access_users": "https://zenodo.org/api/records/6882123/access/users",
+    "archive": "https://zenodo.org/api/records/6882123/files-archive",
+    "archive_media": "https://zenodo.org/api/records/6882123/media-files-archive",
+    "communities": "https://zenodo.org/api/records/6882123/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/6882123/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.6882123",
+    "draft": "https://zenodo.org/api/records/6882123/draft",
+    "file_modification": "https://zenodo.org/api/records/6882123/file-modification",
+    "files": "https://zenodo.org/api/records/6882123/files",
+    "latest": "https://zenodo.org/api/records/6882123/versions/latest",
+    "latest_html": "https://zenodo.org/records/6882123/latest",
+    "media_files": "https://zenodo.org/api/records/6882123/media-files",
+    "parent": "https://zenodo.org/api/records/6882122",
+    "parent_doi": "https://doi.org/10.5281/zenodo.6882122",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6882122",
+    "parent_html": "https://zenodo.org/records/6882122",
+    "preview_html": "https://zenodo.org/records/6882123?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/6882123/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/6882123/request-deletion",
+    "requests": "https://zenodo.org/api/records/6882123/requests",
+    "reserve_doi": "https://zenodo.org/api/records/6882123/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/6882123",
+    "self_doi": "https://doi.org/10.5281/zenodo.6882123",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6882123",
+    "self_html": "https://zenodo.org/records/6882123",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:6882123/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:6882123/sequence/default",
+    "versions": "https://zenodo.org/api/records/6882123/versions"
+  },
+  "metadata": {
+    "access_right": "open",
+    "communities": [
+      {
+        "id": "run4life"
+      },
+      {
+        "id": "eu"
+      }
+    ],
+    "creators": [
+      {
+        "affiliation": "Leitat Technological Center",
+        "name": "Losantos, Diana"
+      },
+      {
+        "affiliation": "Leitat Technological Center",
+        "name": "Aliaguilla, Martí"
+      },
+      {
+        "affiliation": "Leitat Technological Center",
+        "name": "Molognoni, Daniele"
+      },
+      {
+        "affiliation": "Leitat Technological Center",
+        "name": "González, Miguel"
+      },
+      {
+        "affiliation": "Leitat Technological Center",
+        "name": "Bosch-Jimenez, Pau"
+      },
+      {
+        "affiliation": "Universitat Autònoma de Barcelona",
+        "name": "Guisasola, Albert"
+      },
+      {
+        "affiliation": "Leitat Technological Center",
+        "name": "Borràs, Eduard"
+      }
+    ],
+    "description": "<p>Dataset of Development and optimization of a bioelectrochemical system for ammonium recovery from wastewater as fertilizer</p>\n\n<p><a href=\"https://doi.org/10.1016/j.clet.2021.100142\">https://doi.org/10.1016/j.clet.2021.100142</a></p>\n\n<p><a href=\"https://www.sciencedirect.com/journal/cleaner-engineering-and-technology\">Cleaner Engineering and Technology</a> <a href=\"https://www.sciencedirect.com/journal/cleaner-engineering-and-technology/vol/4/suppl/C\">Volume 4</a>, October 2021, 100142</p>",
+    "doi": "10.5281/zenodo.6882123",
+    "grants": [
+      {
+        "acronym": "RUN4LIFE",
+        "code": "730285",
+        "funder": {
+          "acronym": "EC",
+          "doi": "10.13039/501100000780",
+          "name": "European Commission"
+        },
+        "internal_id": "10.13039/501100000780::730285",
+        "program": "H2020-EU.3.5.",
+        "title": "RECOVERY AND UTILIZATION OF NUTRIENTS 4 LOW IMPACT FERTILIZER",
+        "url": "https://cordis.europa.eu/projects/730285"
+      }
+    ],
+    "journal": {
+      "issue": "October 2021",
+      "pages": "100142",
+      "title": "Cleaner Engineering and Technology",
+      "volume": "4"
+    },
+    "keywords": [
+      "Electroactive bacteria",
+      "Microbial electrolysis cells",
+      "Nitrogen recovery",
+      "Blackwater"
+    ],
+    "language": "eng",
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "publication_date": "2022-07-22",
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "6882122"
+          }
+        }
+      ]
+    },
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "title": "Dataset: Development and optimization of a bioelectrochemical system for ammonium recovery from wastewater as fertilizer"
+  },
+  "modified": "2022-08-15T08:08:50.725276+00:00",
+  "owners": [
+    {
+      "id": "302806"
+    }
+  ],
+  "recid": "6882123",
+  "revision": 3,
+  "state": "done",
+  "stats": {
+    "downloads": 62,
+    "unique_downloads": 61,
+    "unique_views": 401,
+    "version_downloads": 61,
+    "version_unique_downloads": 60,
+    "version_unique_views": 391,
+    "version_views": 396,
+    "views": 406
+  },
+  "status": "published",
+  "submitted": true,
+  "swh": {},
+  "title": "Dataset: Development and optimization of a bioelectrochemical system for ammonium recovery from wastewater as fertilizer",
+  "updated": "2022-08-15T08:08:50.725276+00:00"
+}

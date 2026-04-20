@@ -1,0 +1,17 @@
+{
+  "doi": "10.5281/zenodo.4531295",
+  "fetched_at": "2026-04-20T04:49:58+00:00",
+  "files": [
+    {
+      "checksum": "md5:099cd3f75c1588543a3ec744946447ed",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/4531295/files/Simultaneous%20characterization%20of%20porous%20and%20non-porous%20electrodes%20in%20microbial%20electrochemical%20systems.xlsx/content",
+      "key": "Simultaneous characterization of porous and non-porous electrodes in microbial electrochemical systems.xlsx",
+      "local_path": "files/Simultaneous characterization of porous and non-porous electrodes in microbial electrochemical systems.xlsx",
+      "size": 552734,
+      "skipped_reason": null
+    }
+  ],
+  "id": "4531295",
+  "source": "zenodo"
+}
