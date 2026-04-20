@@ -1,0 +1,41 @@
+# Environment / secrets — NEVER commit
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node
+node_modules/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs / coverage
+*.log
+coverage/
+
+# Large intermediate dataset artifacts — stage under data/.cache/
+data/.cache/
+
+# Misc
+.claude/
+.claude-flow/
