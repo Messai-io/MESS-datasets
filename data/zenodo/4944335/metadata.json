@@ -1,0 +1,199 @@
+{
+  "conceptrecid": "4944334",
+  "created": "2021-06-14T10:55:32.155835+00:00",
+  "doi": "10.5061/dryad.8sc52",
+  "doi_url": "https://doi.org/10.5061/dryad.8sc52",
+  "files": [
+    {
+      "checksum": "md5:800420d9591c61541494dba7a5e82adb",
+      "id": "da1b9202-a971-48c5-b166-2228bdbcda7a",
+      "key": "Proxy component spectra.WIP",
+      "links": {
+        "self": "https://zenodo.org/api/records/4944335/files/Proxy%20component%20spectra.WIP/content"
+      },
+      "size": 673643
+    },
+    {
+      "checksum": "md5:f20d9d846e1ccd4ec8860a59a3fb2ad3",
+      "id": "0462bad0-090f-4c72-8d96-9862e8783655",
+      "key": "Min_CRM2_9d_ac_z0_VidIm15_Scan_002_Spec.Data_1_F_CRR.txt",
+      "links": {
+        "self": "https://zenodo.org/api/records/4944335/files/Min_CRM2_9d_ac_z0_VidIm15_Scan_002_Spec.Data_1_F_CRR.txt/content"
+      },
+      "size": 1310422400
+    },
+    {
+      "checksum": "md5:1492336482030c1dc3d00531b8e1d87e",
+      "id": "9d648f18-8f6f-407d-ace1-9217dbd0240f",
+      "key": "6d CRM2 VidIm14 Scan9 CRR.WID",
+      "links": {
+        "self": "https://zenodo.org/api/records/4944335/files/6d%20CRM2%20VidIm14%20Scan9%20CRR.WID/content"
+      },
+      "size": 403206475
+    },
+    {
+      "checksum": "md5:63183aa266932541390693405ee2d602",
+      "id": "c2d1ca2c-ba28-406b-ad66-6368e5a078ae",
+      "key": "35d CRM2 Scan1 CRR.WID",
+      "links": {
+        "self": "https://zenodo.org/api/records/4944335/files/35d%20CRM2%20Scan1%20CRR.WID/content"
+      },
+      "size": 403206108
+    },
+    {
+      "checksum": "md5:e40a4232d38f60706bae252d4dc86cf0",
+      "id": "256893ea-2fcb-4eab-a008-84dbc1ca004f",
+      "key": "9d CRM2 VidIm15 Scan2 CRR.WID",
+      "links": {
+        "self": "https://zenodo.org/api/records/4944335/files/9d%20CRM2%20VidIm15%20Scan2%20CRR.WID/content"
+      },
+      "size": 403206456
+    },
+    {
+      "checksum": "md5:f311be83c80cc8298a19e6e1a3f6be9e",
+      "id": "a989f05c-96dc-4592-9fbb-cb4589986c9e",
+      "key": "Min_CRM2_6d_ac_z0_VidIm14_ImageScan_009_Spec.Data_1_F_CRR.txt",
+      "links": {
+        "self": "https://zenodo.org/api/records/4944335/files/Min_CRM2_6d_ac_z0_VidIm14_ImageScan_009_Spec.Data_1_F_CRR.txt/content"
+      },
+      "size": 1310422400
+    },
+    {
+      "checksum": "md5:1cfede999efbcbfddb2edf9c472ec922",
+      "id": "9a08fa35-76df-43ac-a5e4-04fb736038f4",
+      "key": "35d_CRM2_Scan1_CRR.txt",
+      "links": {
+        "self": "https://zenodo.org/api/records/4944335/files/35d_CRM2_Scan1_CRR.txt/content"
+      },
+      "size": 1310422400
+    }
+  ],
+  "id": 4944335,
+  "links": {
+    "access": "https://zenodo.org/api/records/4944335/access",
+    "access_grants": "https://zenodo.org/api/records/4944335/access/grants",
+    "access_links": "https://zenodo.org/api/records/4944335/access/links",
+    "access_request": "https://zenodo.org/api/records/4944335/access/request",
+    "access_users": "https://zenodo.org/api/records/4944335/access/users",
+    "archive": "https://zenodo.org/api/records/4944335/files-archive",
+    "archive_media": "https://zenodo.org/api/records/4944335/media-files-archive",
+    "communities": "https://zenodo.org/api/records/4944335/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/4944335/communities-suggestions",
+    "doi": "https://doi.org/10.5061/dryad.8sc52",
+    "draft": "https://zenodo.org/api/records/4944335/draft",
+    "file_modification": "https://zenodo.org/api/records/4944335/file-modification",
+    "files": "https://zenodo.org/api/records/4944335/files",
+    "latest": "https://zenodo.org/api/records/4944335/versions/latest",
+    "latest_html": "https://zenodo.org/records/4944335/latest",
+    "media_files": "https://zenodo.org/api/records/4944335/media-files",
+    "parent": "https://zenodo.org/api/records/4944334",
+    "parent_html": "https://zenodo.org/records/4944334",
+    "preview_html": "https://zenodo.org/records/4944335?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/4944335/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/4944335/request-deletion",
+    "requests": "https://zenodo.org/api/records/4944335/requests",
+    "reserve_doi": "https://zenodo.org/api/records/4944335/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/4944335",
+    "self_doi": "https://doi.org/10.5061/dryad.8sc52",
+    "self_doi_html": "https://zenodo.org/doi/10.5061/dryad.8sc52",
+    "self_html": "https://zenodo.org/records/4944335",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:4944335/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:4944335/sequence/default",
+    "versions": "https://zenodo.org/api/records/4944335/versions"
+  },
+  "metadata": {
+    "access_right": "open",
+    "communities": [
+      {
+        "id": "dryad"
+      }
+    ],
+    "creators": [
+      {
+        "affiliation": "Helmholtz Centre for Environmental Research",
+        "name": "Schkolnik, Gal"
+      },
+      {
+        "affiliation": "Helmholtz Centre for Environmental Research",
+        "name": "Schmidt, Matthias"
+      },
+      {
+        "affiliation": null,
+        "name": "Mazza, Marco G."
+      },
+      {
+        "affiliation": "Helmholtz Centre for Environmental Research",
+        "name": "Harnisch, Falk"
+      },
+      {
+        "affiliation": "Helmholtz Centre for Environmental Research",
+        "name": "Musat, Niculina"
+      }
+    ],
+    "description": "Shewanella oneidensis MR-1 is an electroactive bacterium, capable of reducing extracellular insoluble electron acceptors, making it important for both nutrient cycling in nature and microbial electrochemical technologies, such as microbial fuel cells and microbial electrosynthesis. When allowed to anaerobically colonize an Ag/AgCl solid interface, S. oneidensis has precipitated silver nanoparticles (AgNp), thus providing the means for a surface enhanced confocal Raman microscopy (SECRaM) investigation of its biofilm. The result is the in-situ chemical mapping of the biofilm as it developed over time, where the distribution of cytochromes, reduced and oxidized flavins, polysaccharides and phosphate in the undisturbed biofilm is monitored. Utilizing AgNp bio-produced by the bacteria colonizing the Ag/AgCl interface, we could perform SECRaM while avoiding the use of a patterned or roughened support or the introduction of noble metal salts and reducing agents. This new method will allow a spatially and temporally resolved chemical investigation not only of Shewanella biofilms at an insoluble electron acceptor, but also of other noble metal nanoparticle-precipitating bacteria in laboratory cultures or in complex microbial communities in their natural habitats.",
+    "doi": "10.5061/dryad.8sc52",
+    "keywords": [
+      "6 day old biofilm",
+      "Confocal Raman Microscopy",
+      "biofilm image scans",
+      "Biofilm image scan",
+      "proxy component spectra",
+      "Shewanella oneidensis biofilm",
+      "Shewanella oneidensis",
+      "WiTec Alpha300"
+    ],
+    "license": {
+      "id": "cc-zero"
+    },
+    "notes": "<div class=\"o-metadata__file-usage-entry\">Proxy component spectra<div class=\"o-metadata__file-description\">This is a WiTec Project file with spectra obtained under the same conditions as for biofilm measurements, of pure proxy components with colloidal Ag. From M&amp;M: In order to identify the individual SERS spectra of pertinent components of the S. oneidensis biofilm, we first performed SECRaM analysis on several component proxies mixed with colloidal silver (Sigma Aldrich, Hamburg, Germany). The proxy component-colloidal silver mixture was analyzed under the same working conditions as the ones applied for biofilm analysis. The same excitation wavelength, laser intensity and setup were used, however without a Ag/AgCl patch. This was done, separately, for the following expected component proxies: horse heart cytochrome c (hhcytc) (Sigma Aldrich, Hamburg, Germany) in Phosphate buffer solution (PBS) (Roth, Karlsruhe, Germany); riboflavin phosphate (Sigma Aldrich, Hamburg, Germany) in PBS; hhcytc in PBS with excess sodium dithionite (Merck, Darmstadt, Germany); hhcytc in PBS with excess potassium hexacyanoferrate (III) (Sigma Aldrich, Hamburg, Germany); riboflavin phosphate in PBS with excess sodium dithionite; riboflavin phosphate in PBS with excess potassium hexacyanoferrate; an aqueous solution of sodium alginate (Sigma Aldrich, Hamburg, Germany); pure PBS; PBS with sodium dithionite; and PBS with potassium hexacyanoferrate. Sodium dithionite and potassium hexacyanoferrate, respectively, were used to obtain reduced and oxidized cytochrome and flavin species.</div><div class=\"o-metadata__file-name\"></div></div><div class=\"o-metadata__file-usage-entry\">CRM image scan of 6 day old biofilm, cosmic ray corrected<div class=\"o-metadata__file-description\">WiTec Project file of a CRM image scan of the 6 day old Shewanella oneidensis biofilm. From M&amp;M: The measurement was performed on a WITec alpha300 confocal Raman microscope, using a 50 µm pinhole and a Zeiss LD plan-NEOFLUAR 20×/0.4 corr air objective with coverslip correction. 20× magnification was used in order to keep as many bacteria as possible in the focal plane while still resolving individual bacteria. The excitation wavelength was 532 nm, with laser power of 3 mW at the focal plane. The Raman detector was a newton EMCCD camera cooled to -60o C with a 600 g/mm grating. Integration time was 1 second and lateral resolution 2 pixel/µm.</div><div class=\"o-metadata__file-name\">6d CRM2 VidIm14 Scan9 CRR.WID<br></div></div><div class=\"o-metadata__file-usage-entry\">CRM image scan of 6 day old biofilm, cosmic ray corrected, exported in ASCII format<div class=\"o-metadata__file-description\">WiTec Project file of a CRM image scan of the 6 day old Shewanella oneidensis biofilm. From M&amp;M: The measurement was performed on a WITec alpha300 confocal Raman microscope, using a 50 µm pinhole and a Zeiss LD plan-NEOFLUAR 20×/0.4 corr air objective with coverslip correction. 20× magnification was used in order to keep as many bacteria as possible in the focal plane while still resolving individual bacteria. The excitation wavelength was 532 nm, with laser power of 3 mW at the focal plane. The Raman detector was a newton EMCCD camera cooled to -60o C with a 600 g/mm grating. Integration time was 1 second and lateral resolution 2 pixel/µm. The file was exported in ASCII format.</div><div class=\"o-metadata__file-name\">Min_CRM2_6d_ac_z0_VidIm14_ImageScan_009_Spec.Data_1_F_CRR.txt<br></div></div><div class=\"o-metadata__file-usage-entry\">CRM image scan of 9 day old biofilm, cosmic ray corrected<div class=\"o-metadata__file-description\">WiTec Project file of a CRM image scan of the 9 day old Shewanella oneidensis biofilm. From M&amp;M: The measurement was performed on a WITec alpha300 confocal Raman microscope, using a 50 µm pinhole and a Zeiss LD plan-NEOFLUAR 20×/0.4 corr air objective with coverslip correction. 20× magnification was used in order to keep as many bacteria as possible in the focal plane while still resolving individual bacteria. The excitation wavelength was 532 nm, with laser power of 3 mW at the focal plane. The Raman detector was a newton EMCCD camera cooled to -60o C with a 600 g/mm grating. Integration time was 1 second and lateral resolution 2 pixel/µm.</div><div class=\"o-metadata__file-name\">9d CRM2 VidIm15 Scan2 CRR.WID<br></div></div><div class=\"o-metadata__file-usage-entry\">CRM image scan of 9 day old biofilm, cosmic ray corrected, exported in ASCII format<div class=\"o-metadata__file-description\">WiTec Project file of a CRM image scan of the 9 day old Shewanella oneidensis biofilm. From M&amp;M: The measurement was performed on a WITec alpha300 confocal Raman microscope, using a 50 µm pinhole and a Zeiss LD plan-NEOFLUAR 20×/0.4 corr air objective with coverslip correction. 20× magnification was used in order to keep as many bacteria as possible in the focal plane while still resolving individual bacteria. The excitation wavelength was 532 nm, with laser power of 3 mW at the focal plane. The Raman detector was a newton EMCCD camera cooled to -60o C with a 600 g/mm grating. Integration time was 1 second and lateral resolution 2 pixel/µm. The file was exported in ASCII format.</div><div class=\"o-metadata__file-name\">Min_CRM2_9d_ac_z0_VidIm15_Scan_002_Spec.Data_1_F_CRR.txt<br></div></div><div class=\"o-metadata__file-usage-entry\">CRM image scan of 35 day old biofilm, cosmic ray corrected<div class=\"o-metadata__file-description\">WiTec Project file of a CRM image scan of the 35 day old Shewanella oneidensis biofilm. From M&amp;M: The measurement was performed on a WITec alpha300 confocal Raman microscope, using a 50 µm pinhole and a Zeiss LD plan-NEOFLUAR 20×/0.4 corr air objective with coverslip correction. 20× magnification was used in order to keep as many bacteria as possible in the focal plane while still resolving individual bacteria. The excitation wavelength was 532 nm, with laser power of 3 mW at the focal plane. The Raman detector was a newton EMCCD camera cooled to -60o C with a 600 g/mm grating. Integration time was 1 second and lateral resolution 2 pixel/µm.</div><div class=\"o-metadata__file-name\">35d CRM2 Scan1 CRR.WID<br></div></div><div class=\"o-metadata__file-usage-entry\">CRM image scan of 35 day old biofilm, cosmic ray corrected, exported in ASCII format<div class=\"o-metadata__file-description\">WiTec Project file of a CRM image scan of the 35 day old Shewanella oneidensis biofilm. From M&amp;M: The measurement was performed on a WITec alpha300 confocal Raman microscope, using a 50 µm pinhole and a Zeiss LD plan-NEOFLUAR 20×/0.4 corr air objective with coverslip correction. 20× magnification was used in order to keep as many bacteria as possible in the focal plane while still resolving individual bacteria. The excitation wavelength was 532 nm, with laser power of 3 mW at the focal plane. The Raman detector was a newton EMCCD camera cooled to -60o C with a 600 g/mm grating. Integration time was 1 second and lateral resolution 2 pixel/µm. The file was exported in ASCII format.</div><div class=\"o-metadata__file-name\">35d_CRM2_Scan1_CRR.txt<br></div></div>",
+    "publication_date": "2016-12-28",
+    "related_identifiers": [
+      {
+        "identifier": "10.1371/journal.pone.0145871",
+        "relation": "isCitedBy",
+        "scheme": "doi"
+      }
+    ],
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "4944334"
+          }
+        }
+      ]
+    },
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "title": "Data from: In situ analysis of a silver nanoparticle-precipitating Shewanella biofilm by surface enhanced confocal Raman microscopy"
+  },
+  "modified": "2022-05-28T04:37:18.232251+00:00",
+  "owners": [
+    {
+      "id": "90070"
+    }
+  ],
+  "recid": "4944335",
+  "revision": 3,
+  "state": "done",
+  "stats": {
+    "downloads": 1524,
+    "unique_downloads": 1517,
+    "unique_views": 202,
+    "version_downloads": 1211,
+    "version_unique_downloads": 1204,
+    "version_unique_views": 202,
+    "version_views": 202,
+    "views": 202
+  },
+  "status": "published",
+  "submitted": true,
+  "swh": {},
+  "title": "Data from: In situ analysis of a silver nanoparticle-precipitating Shewanella biofilm by surface enhanced confocal Raman microscopy",
+  "updated": "2022-05-28T04:37:18.232251+00:00"
+}

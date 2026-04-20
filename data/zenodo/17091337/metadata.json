@@ -1,0 +1,144 @@
+{
+  "conceptdoi": "10.5281/zenodo.17091336",
+  "conceptrecid": "17091336",
+  "created": "2025-09-10T08:50:50.579860+00:00",
+  "doi": "10.5281/zenodo.17091337",
+  "doi_url": "https://doi.org/10.5281/zenodo.17091337",
+  "files": [
+    {
+      "checksum": "md5:d89e2231fb0b3b956e8321d9ea6635f0",
+      "id": "3cfdd7f8-390e-4617-bf32-cc8844e1b499",
+      "key": "Journal of Power Sources_Hamalova_2025_data.zip",
+      "links": {
+        "self": "https://zenodo.org/api/records/17091337/files/Journal%20of%20Power%20Sources_Hamalova_2025_data.zip/content"
+      },
+      "size": 1142287
+    }
+  ],
+  "id": 17091337,
+  "links": {
+    "access": "https://zenodo.org/api/records/17091337/access",
+    "access_grants": "https://zenodo.org/api/records/17091337/access/grants",
+    "access_links": "https://zenodo.org/api/records/17091337/access/links",
+    "access_request": "https://zenodo.org/api/records/17091337/access/request",
+    "access_users": "https://zenodo.org/api/records/17091337/access/users",
+    "archive": "https://zenodo.org/api/records/17091337/files-archive",
+    "archive_media": "https://zenodo.org/api/records/17091337/media-files-archive",
+    "communities": "https://zenodo.org/api/records/17091337/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/17091337/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.17091337",
+    "draft": "https://zenodo.org/api/records/17091337/draft",
+    "file_modification": "https://zenodo.org/api/records/17091337/file-modification",
+    "files": "https://zenodo.org/api/records/17091337/files",
+    "latest": "https://zenodo.org/api/records/17091337/versions/latest",
+    "latest_html": "https://zenodo.org/records/17091337/latest",
+    "media_files": "https://zenodo.org/api/records/17091337/media-files",
+    "parent": "https://zenodo.org/api/records/17091336",
+    "parent_doi": "https://doi.org/10.5281/zenodo.17091336",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17091336",
+    "parent_html": "https://zenodo.org/records/17091336",
+    "preview_html": "https://zenodo.org/records/17091337?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/17091337/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/17091337/request-deletion",
+    "requests": "https://zenodo.org/api/records/17091337/requests",
+    "reserve_doi": "https://zenodo.org/api/records/17091337/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/17091337",
+    "self_doi": "https://doi.org/10.5281/zenodo.17091337",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17091337",
+    "self_html": "https://zenodo.org/records/17091337",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17091337/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17091337/sequence/default",
+    "versions": "https://zenodo.org/api/records/17091337/versions"
+  },
+  "metadata": {
+    "access_right": "open",
+    "communities": [
+      {
+        "id": "amulet_npiofcas"
+      }
+    ],
+    "creators": [
+      {
+        "affiliation": "Centre for Nanomaterials and Biotechnology, Faculty of Science, J. E. Purkyně University in Ústí nad Labem, 400 96 Ústí nad Labem, Czech Republic",
+        "name": "Hamalová, Kateřina"
+      },
+      {
+        "affiliation": "Department of Chemical and Environmental Engineering, Technical University of Cartagena (UPCT), Campus Muralla Del Mar, 30202, Cartagena, Spain",
+        "name": "Sánchez-Segado, Sergio"
+      },
+      {
+        "affiliation": "Department of Chemical and Environmental Engineering, Technical University of Cartagena (UPCT), Campus Muralla Del Mar, 30202, Cartagena, Spain",
+        "name": "Ortiz-Martínez, Víctor Manuel"
+      },
+      {
+        "affiliation": "Department of Chemical and Environmental Engineering, Technical University of Cartagena (UPCT), Campus Alfonso XIII, Aulario C, 30203, Cartagena, Spain",
+        "name": "Salar-García, María José"
+      }
+    ],
+    "description": "<div>*****Description of the data and analysis information provided in the frame of the manuscript entitled \"Polymeric membranes functionalized with deep eutectic solvents as separators in microbial fuel cells\"*****</div>\n<div>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</div>\n<div>&nbsp;</div>\n<div>Authors: Katerina Hamalov&aacute; (1), Sergio S&aacute;nchez Segado (2), V&iacute;ctor Manuel Ortiz-Mart&iacute;nez (2,*), Mar&iacute;a Jos&eacute; Salar-Garc&iacute;a (3,*)&nbsp;</div>\n<div>&nbsp;</div>\n<div>(1) Centre for Nanomaterials and Biotechnology, Faculty of Science, J. E. Purkyně University in &Uacute;st&iacute; nad Labem, 400 96 &Uacute;st&iacute; nad Labem, Czech Republic&nbsp;</div>\n<div>&nbsp;</div>\n<div>(2) Department of Chemical and Environmental Engineering, Technical University of Cartagena (UPCT), Campus Muralla del Mar, 30202 Cartagena, Spain&nbsp;</div>\n<div>&nbsp;</div>\n<div>(3) Department of Chemical and Environmental Engineering, Technical University of Cartagena (UPCT), Campus Alfonso XIII, Aulario C, 30203 Cartagena, Spain&nbsp;</div>\n<div>&nbsp;</div>\n<div>Contact information (*):mariajose.salar@upct.es; victor.ortiz@upct.es</div>\n<div>&nbsp;</div>\n<div>Data were collected between January 2024-January 2025</div>\n<div>&nbsp;</div>\n<div>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</div>\n<div>&nbsp;</div>\n<div>Relevant abreviations for the methodology:</div>\n<div>&nbsp;</div>\n<div>-SEM: Scanning electron microscopy</div>\n<div>-EDX: Energy Dispersive X-ray spectroscopy</div>\n<div>-EIS-FRA: Electrochemical Impedance Spectroscopy-Frequency Response Analysis</div>\n<div>-LSV: Linear Sweep Voltammetry</div>\n<div>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</div>\n<div>Description of units:</div>\n<div>&nbsp;</div>\n<div>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</div>\n<div>Definiton of codes used to record the data:</div>\n<div>&nbsp;</div>\n<div>-PVC100%: Membrane containing only PVC.</div>\n<div>-DES30%: Membrane containing 30% of DES and 70% of PVC.</div>\n<div>-DES50%: Membrane containing 50% of DES and 50% of PVC.</div>\n<div>-DES70%: Membrane containing 70% of DES and 30% of PVC.</div>\n<div>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</div>\n<div>&nbsp;</div>\n<div>File name structure:</div>\n<div>&nbsp;</div>\n<div>The following repository contains .zip folders which are distinguished accordingly to the chosen type of analysis.</div>\n<div>&nbsp;</div>\n<div>&nbsp;A sub-folder labeled \"EDX\" containing EDX spectra in .text file format named \"EDX_Spectra\"</div>\n<div>&nbsp;A sub-folder labeled \"SEM\" containing the images of the membranes surface obtained by SEM in .TIFF format named using the codes described above.</div>\n<div>&nbsp;A sub-folder labeled \"Electrochemical characterization\" containing the following sub-folders:</div>\n<div>&nbsp;</div>\n<div>-A sub-folder labeled \"Chronoamperometry\" containing the chronoamperometry measurements in .text file format name \"Chronoamperometry_measurements\"</div>\n<div>-A sub-folder labeled \"EIS-FRA\" containing the Nyquist plot data in .text file format name \"FRA_Nyquist\"</div>\n<div>-A sub-folder labeled \"LSV-Polarizations\" the Linear Sweep Voltagrams in .text file format name according to the type of membrane (codes described above) and the day when the LSV was performed during the operation period (day 5th, 12nd and 19th).</div>\n<div>&nbsp;</div>",
+    "doi": "10.5281/zenodo.17091337",
+    "keywords": [
+      "Microbial fuel cells",
+      "Deep eutectic solvents",
+      "Polymer inclusion membranes",
+      "Bioenergy",
+      "Waste valorization"
+    ],
+    "language": "eng",
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "method": "<p>&nbsp;Membrane preparation</p>\n<p>Polymer membranes based on commercial&nbsp;<a title=\"Learn more about PVC from ScienceDirect's AI-generated Topic Pages\" href=\"https://www.sciencedirect.com/topics/materials-science/polyvinyl-chloride\">PVC</a>&nbsp;and the lab-made&nbsp;<a title=\"Learn more about DES from ScienceDirect's AI-generated Topic Pages\" href=\"https://www.sciencedirect.com/topics/earth-and-planetary-sciences/eutectics\">DES</a>&nbsp;were prepared using a solution casting technique. The&nbsp;<a title=\"Learn more about DES from ScienceDirect's AI-generated Topic Pages\" href=\"https://www.sciencedirect.com/topics/materials-science/deep-eutectic-solvent\">DES</a>&nbsp;consisted of Aliquat-336 (trioctylmethylammonium chloride) and menthol at a 1:1&nbsp;M ratio. For its synthesis, equimolar amounts of Aliquat-336 and menthol were combined, and the mixture was gently heated while stirring continuously until a clear, homogeneous liquid was formed. The final compositions of the membranes were 100&nbsp;%&nbsp;<a title=\"Learn more about PVC from ScienceDirect's AI-generated Topic Pages\" href=\"https://www.sciencedirect.com/topics/chemical-engineering/polyvinyl-chloride\">PVC</a>, 70&nbsp;%&nbsp;<a title=\"Learn more about PVC from ScienceDirect's AI-generated Topic Pages\" href=\"https://www.sciencedirect.com/topics/earth-and-planetary-sciences/polyvinyl-chloride\">PVC</a>&nbsp;- 30&nbsp;% DES, 50&nbsp;% PVC - 50&nbsp;% DES, and 30&nbsp;% PVC - 70&nbsp;% DES. These ratios were selected based on the need for a balance between synthesis feasibility, stability, and expected electrochemical performance. The PVC content ensures structural integrity and ease of processing, while the DES phases act as&nbsp;<a title=\"Learn more about plasticizers from ScienceDirect's AI-generated Topic Pages\" href=\"https://www.sciencedirect.com/topics/materials-science/plasticizer\">plasticizers</a>, enhancing ion conductivity. The varying DES ratios allow for an investigation of different mechanical properties and electrochemical behaviors, optimizing membrane conductivity and stability. For the casting process, PVC and the DES were dissolved in THF (tetrahydrofuran) and stirred with a magnetic stirrer until a homogeneous solution was obtained. The resulting solution was then poured into a 28&nbsp;mm diameter&nbsp;<a title=\"Learn more about borosilicate glass from ScienceDirect's AI-generated Topic Pages\" href=\"https://www.sciencedirect.com/topics/materials-science/borosilicate-glass\">borosilicate glass</a> ring and left to evaporate overnight to ensure the solvent was completely removed.</p>",
+    "notes": "<p>This research was supported by the Ministry of Science, Innovation and Universities of Spain (Project Ref.: PID2023-151000OA-I00). K. Hamalov&aacute; acknowledges the assistance provided by the Advanced Multiscale Materials for Key Enabling Technologies project, supported by the Ministry of Education, Youth, and Sports of the Czech Republic (Project Ref.: CZ.02.01.01/00/22_008/0004558, Co-funded by the European Union) and by the ERASMUS+ KA131-HED programme for the mobility of higher education students and staff supported by internal policy funds.</p>",
+    "publication_date": "2025-05-15",
+    "related_identifiers": [
+      {
+        "identifier": "10.1016/j.jpowsour.2025.237388",
+        "relation": "isPublishedIn",
+        "resource_type": "publication-article",
+        "scheme": "doi"
+      }
+    ],
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "17091336"
+          }
+        }
+      ]
+    },
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "title": "DATA: Polymeric membranes functionalized with deep eutectic solvents as separators in microbial fuel cells"
+  },
+  "modified": "2025-09-10T08:50:50.791163+00:00",
+  "owners": [
+    {
+      "id": "1105373"
+    }
+  ],
+  "recid": "17091337",
+  "revision": 4,
+  "state": "done",
+  "stats": {
+    "downloads": 44,
+    "unique_downloads": 38,
+    "unique_views": 120,
+    "version_downloads": 44,
+    "version_unique_downloads": 38,
+    "version_unique_views": 120,
+    "version_views": 124,
+    "views": 124
+  },
+  "status": "published",
+  "submitted": true,
+  "swh": {},
+  "title": "DATA: Polymeric membranes functionalized with deep eutectic solvents as separators in microbial fuel cells",
+  "updated": "2025-09-10T08:50:50.791163+00:00"
+}

@@ -1,0 +1,156 @@
+{
+  "conceptdoi": "10.5281/zenodo.7415471",
+  "conceptrecid": "7415471",
+  "created": "2022-12-16T18:06:33.172893+00:00",
+  "doi": "10.5281/zenodo.7415472",
+  "doi_url": "https://doi.org/10.5281/zenodo.7415472",
+  "files": [
+    {
+      "checksum": "md5:412e650ae6c506609483a33bd67b9e72",
+      "id": "2e15bac3-50e0-40f6-aa3a-794de2737df5",
+      "key": "Cruz Viggi_2022_Electra_ecotox test results_dataset.xlsx",
+      "links": {
+        "self": "https://zenodo.org/api/records/7415472/files/Cruz%20Viggi_2022_Electra_ecotox%20test%20results_dataset.xlsx/content"
+      },
+      "size": 58933
+    }
+  ],
+  "id": 7415472,
+  "links": {
+    "access": "https://zenodo.org/api/records/7415472/access",
+    "access_grants": "https://zenodo.org/api/records/7415472/access/grants",
+    "access_links": "https://zenodo.org/api/records/7415472/access/links",
+    "access_request": "https://zenodo.org/api/records/7415472/access/request",
+    "access_users": "https://zenodo.org/api/records/7415472/access/users",
+    "archive": "https://zenodo.org/api/records/7415472/files-archive",
+    "archive_media": "https://zenodo.org/api/records/7415472/media-files-archive",
+    "communities": "https://zenodo.org/api/records/7415472/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/7415472/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.7415472",
+    "draft": "https://zenodo.org/api/records/7415472/draft",
+    "file_modification": "https://zenodo.org/api/records/7415472/file-modification",
+    "files": "https://zenodo.org/api/records/7415472/files",
+    "latest": "https://zenodo.org/api/records/7415472/versions/latest",
+    "latest_html": "https://zenodo.org/records/7415472/latest",
+    "media_files": "https://zenodo.org/api/records/7415472/media-files",
+    "parent": "https://zenodo.org/api/records/7415471",
+    "parent_doi": "https://doi.org/10.5281/zenodo.7415471",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.7415471",
+    "parent_html": "https://zenodo.org/records/7415471",
+    "preview_html": "https://zenodo.org/records/7415472?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/7415472/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/7415472/request-deletion",
+    "requests": "https://zenodo.org/api/records/7415472/requests",
+    "reserve_doi": "https://zenodo.org/api/records/7415472/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/7415472",
+    "self_doi": "https://doi.org/10.5281/zenodo.7415472",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.7415472",
+    "self_html": "https://zenodo.org/records/7415472",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:7415472/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:7415472/sequence/default",
+    "versions": "https://zenodo.org/api/records/7415472/versions"
+  },
+  "metadata": {
+    "access_right": "open",
+    "communities": [
+      {
+        "id": "eu"
+      }
+    ],
+    "creators": [
+      {
+        "affiliation": "Budapest University of Technology and Economics, Faculty of Chemical Technology and Biotechnology, Department of Applied Biotechnology and Food Science",
+        "name": "Viktória Feigl",
+        "orcid": "0000-0003-0832-0271"
+      },
+      {
+        "affiliation": "Budapest Univ. of Technology and Economics, Dept. of Applied Biotechn. and Food Science",
+        "name": "Mónika Molnár",
+        "orcid": "0000-0001-5296-7924"
+      }
+    ],
+    "description": "<p>Within the frame of the ELECTRA No. 826244 H2020 project, a microbial electrochemical snorkel (MES) was applied for the treatment of soil contaminated by hydrocarbons at a laboratory scale. The changes in soil ecotoxicity were followed by plant tests applying <em>Sinapis alba</em> and <em>Triticum aestivum</em>. The datasets (supplementary to Figure 7) for this publication are presented here. Referred publication:&nbsp;Carolina Cruz Viggi, Matteo Tucci, Marco Resitano, Bruna Matturro, Simona Crognale, Vikt&oacute;ria Feigl, M&oacute;nika Moln&aacute;r, Simona Rossetti, Federico Aulenta,&nbsp;Passive electrobioremediation approaches for enhancing hydrocarbons biodegradation in contaminated soils,&nbsp;Science of The Total Environment,&nbsp;845,&nbsp;157325,&nbsp;2022, https://doi.org/10.1016/j.scitotenv.2022.157325.</p>",
+    "doi": "10.5281/zenodo.7415472",
+    "grants": [
+      {
+        "acronym": "ELECTRA",
+        "code": "826244",
+        "funder": {
+          "acronym": "EC",
+          "doi": "10.13039/501100000780",
+          "name": "European Commission"
+        },
+        "internal_id": "10.13039/501100000780::826244",
+        "program": "H2020-EU.2.1.4.",
+        "title": "Electricity driven Low Energy and Chemical input Technology foR Accelerated bioremediation",
+        "url": "https://cordis.europa.eu/projects/826244"
+      }
+    ],
+    "journal": {
+      "pages": "157325",
+      "title": "Science of The Total Environment",
+      "volume": "845"
+    },
+    "keywords": [
+      "ecotoxicity",
+      "ecotoxicity assessment",
+      "plant ecotoxicity test",
+      "bioelectrochemical treatment",
+      "electrochemical bioremediation"
+    ],
+    "language": "eng",
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "publication_date": "2022-12-08",
+    "related_identifiers": [
+      {
+        "identifier": "10.1016/j.scitotenv.2022.157325",
+        "relation": "isSupplementTo",
+        "resource_type": "publication-article",
+        "scheme": "doi"
+      }
+    ],
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "7415471"
+          }
+        }
+      ]
+    },
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "title": "Ecotoxicity test results for the paper entitled \"Passive electrobioremediation approaches for enhancing hydrocarbons biodegradation in contaminated soils\""
+  },
+  "modified": "2022-12-18T02:27:15.244579+00:00",
+  "owners": [
+    {
+      "id": "446679"
+    }
+  ],
+  "recid": "7415472",
+  "revision": 2,
+  "state": "done",
+  "stats": {
+    "downloads": 26,
+    "unique_downloads": 26,
+    "unique_views": 67,
+    "version_downloads": 26,
+    "version_unique_downloads": 26,
+    "version_unique_views": 67,
+    "version_views": 69,
+    "views": 69
+  },
+  "status": "published",
+  "submitted": true,
+  "swh": {},
+  "title": "Ecotoxicity test results for the paper entitled \"Passive electrobioremediation approaches for enhancing hydrocarbons biodegradation in contaminated soils\"",
+  "updated": "2022-12-18T02:27:15.244579+00:00"
+}

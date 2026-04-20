@@ -1,0 +1,158 @@
+{
+  "conceptdoi": "10.5281/zenodo.15244568",
+  "conceptrecid": "15244568",
+  "created": "2025-04-19T06:41:59.151368+00:00",
+  "doi": "10.5281/zenodo.15244569",
+  "doi_url": "https://doi.org/10.5281/zenodo.15244569",
+  "files": [
+    {
+      "checksum": "md5:43869d4d515d34e31ea713fb8ef09ca2",
+      "id": "8481ca23-9eb8-40f6-b072-feaf6b50502f",
+      "key": "dataset.zip",
+      "links": {
+        "self": "https://zenodo.org/api/records/15244569/files/dataset.zip/content"
+      },
+      "size": 2480
+    }
+  ],
+  "id": 15244569,
+  "links": {
+    "access": "https://zenodo.org/api/records/15244569/access",
+    "access_grants": "https://zenodo.org/api/records/15244569/access/grants",
+    "access_links": "https://zenodo.org/api/records/15244569/access/links",
+    "access_request": "https://zenodo.org/api/records/15244569/access/request",
+    "access_users": "https://zenodo.org/api/records/15244569/access/users",
+    "archive": "https://zenodo.org/api/records/15244569/files-archive",
+    "archive_media": "https://zenodo.org/api/records/15244569/media-files-archive",
+    "communities": "https://zenodo.org/api/records/15244569/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/15244569/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.15244569",
+    "draft": "https://zenodo.org/api/records/15244569/draft",
+    "file_modification": "https://zenodo.org/api/records/15244569/file-modification",
+    "files": "https://zenodo.org/api/records/15244569/files",
+    "latest": "https://zenodo.org/api/records/15244569/versions/latest",
+    "latest_html": "https://zenodo.org/records/15244569/latest",
+    "media_files": "https://zenodo.org/api/records/15244569/media-files",
+    "parent": "https://zenodo.org/api/records/15244568",
+    "parent_doi": "https://doi.org/10.5281/zenodo.15244568",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15244568",
+    "parent_html": "https://zenodo.org/records/15244568",
+    "preview_html": "https://zenodo.org/records/15244569?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/15244569/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/15244569/request-deletion",
+    "requests": "https://zenodo.org/api/records/15244569/requests",
+    "reserve_doi": "https://zenodo.org/api/records/15244569/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/15244569",
+    "self_doi": "https://doi.org/10.5281/zenodo.15244569",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15244569",
+    "self_html": "https://zenodo.org/records/15244569",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:15244569/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:15244569/sequence/default",
+    "versions": "https://zenodo.org/api/records/15244569/versions"
+  },
+  "metadata": {
+    "access_right": "open",
+    "communities": [
+      {
+        "id": "eu"
+      },
+      {
+        "id": "perospiker"
+      }
+    ],
+    "creators": [
+      {
+        "affiliation": "Instituto de Tecnología Química",
+        "name": "Bisquert, Juan",
+        "orcid": "0000-0003-4987-4887"
+      },
+      {
+        "affiliation": null,
+        "name": "Tessler, Nir",
+        "orcid": "0000-0002-5354-3231"
+      }
+    ],
+    "dates": [
+      {
+        "type": "submitted"
+      }
+    ],
+    "description": "<p>This dataset supports the article \"A one-transistor organic electrochemical model neuron\".</p>\n<p>Raw data for the article \"A one-transistor organic electrochemical model neuron\". For further details see the Readme.txt file.</p>",
+    "doi": "10.5281/zenodo.15244569",
+    "grants": [
+      {
+        "acronym": "PeroSpiker",
+        "code": "101097688",
+        "funder": {
+          "acronym": "EC",
+          "doi": "10.13039/501100000780",
+          "name": "European Commission"
+        },
+        "internal_id": "10.13039/501100000780::101097688",
+        "program": "HORIZON.1.1",
+        "title": "Perovskite Spiking Neurons for Intelligent Networks",
+        "url": "https://cordis.europa.eu/projects/101097688"
+      }
+    ],
+    "keywords": [
+      "organic electrochemical transistors",
+      "neuromorphic biosensors",
+      "bioelectronics"
+    ],
+    "language": "eng",
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "publication_date": "2025-04-19",
+    "related_identifiers": [
+      {
+        "identifier": "10.1016/j.newton.2025.100207",
+        "relation": "isMetadataFor",
+        "resource_type": "publication-article",
+        "scheme": "doi"
+      }
+    ],
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "15244568"
+          }
+        }
+      ]
+    },
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "title": "Dataset of \"A one-transistor organic electrochemical self-sustained oscillator model for neuromorphic networks\"",
+    "version": "v1"
+  },
+  "modified": "2025-10-24T10:22:24.477780+00:00",
+  "owners": [
+    {
+      "id": "1060846"
+    }
+  ],
+  "recid": "15244569",
+  "revision": 12,
+  "state": "done",
+  "stats": {
+    "downloads": 43,
+    "unique_downloads": 42,
+    "unique_views": 121,
+    "version_downloads": 43,
+    "version_unique_downloads": 42,
+    "version_unique_views": 121,
+    "version_views": 133,
+    "views": 133
+  },
+  "status": "published",
+  "submitted": true,
+  "swh": {},
+  "title": "Dataset of \"A one-transistor organic electrochemical self-sustained oscillator model for neuromorphic networks\"",
+  "updated": "2025-10-24T10:22:24.477780+00:00"
+}

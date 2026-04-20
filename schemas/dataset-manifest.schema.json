@@ -1,0 +1,57 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://messai.io/schemas/dataset-manifest.schema.json",
+  "title": "MESS-datasets Per-Record Manifest",
+  "description": "One manifest.json per ingested record under data/<source>/<id>/. Lists every file in the upstream record with checksum and whether it's committed in-tree or lives under the gitignored .source/ sidecar.",
+  "type": "object",
+  "required": ["source", "id", "fetched_at", "files"],
+  "additionalProperties": false,
+  "properties": {
+    "source": {
+      "type": "string",
+      "enum": ["zenodo"],
+      "description": "Upstream source. New sources (figshare, ncbi, ...) are added here as we ingest them."
+    },
+    "id": {
+      "type": "string",
+      "description": "Record ID within the source's namespace."
+    },
+    "doi": {
+      "type": ["string", "null"]
+    },
+    "fetched_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "UTC timestamp when the fetcher last ran."
+    },
+    "files": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["key", "size", "checksum", "download_url", "committed", "local_path"],
+        "additionalProperties": false,
+        "properties": {
+          "key": { "type": "string", "description": "Upstream filename." },
+          "size": { "type": "integer", "minimum": 0 },
+          "checksum": {
+            "type": "string",
+            "description": "Upstream-reported checksum, e.g. md5:<hex>."
+          },
+          "download_url": { "type": "string", "format": "uri" },
+          "committed": {
+            "type": "boolean",
+            "description": "True if the file lives under files/ and is tracked in git. False if it's under .source/ (gitignored)."
+          },
+          "local_path": {
+            "type": "string",
+            "description": "Path relative to the record directory where the file lives locally."
+          },
+          "skipped_reason": {
+            "type": ["string", "null"],
+            "description": "If the fetcher couldn't download this file (network, gone, etc.), the reason."
+          }
+        }
+      }
+    }
+  }
+}

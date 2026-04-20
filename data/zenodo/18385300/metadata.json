@@ -1,0 +1,147 @@
+{
+  "conceptdoi": "10.5281/zenodo.18385299",
+  "conceptrecid": "18385299",
+  "created": "2026-01-27T09:25:01.047057+00:00",
+  "doi": "10.5281/zenodo.18385300",
+  "doi_url": "https://doi.org/10.5281/zenodo.18385300",
+  "files": [
+    {
+      "checksum": "md5:832a67829cabe97b68812bf335b51c69",
+      "id": "a043f21c-f218-484c-ade9-5ef585c27360",
+      "key": "Raw Data_Journal of Energy Storage.zip",
+      "links": {
+        "self": "https://zenodo.org/api/records/18385300/files/Raw%20Data_Journal%20of%20Energy%20Storage.zip/content"
+      },
+      "size": 3278140
+    }
+  ],
+  "id": 18385300,
+  "links": {
+    "access": "https://zenodo.org/api/records/18385300/access",
+    "access_grants": "https://zenodo.org/api/records/18385300/access/grants",
+    "access_links": "https://zenodo.org/api/records/18385300/access/links",
+    "access_request": "https://zenodo.org/api/records/18385300/access/request",
+    "access_users": "https://zenodo.org/api/records/18385300/access/users",
+    "archive": "https://zenodo.org/api/records/18385300/files-archive",
+    "archive_media": "https://zenodo.org/api/records/18385300/media-files-archive",
+    "communities": "https://zenodo.org/api/records/18385300/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/18385300/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.18385300",
+    "draft": "https://zenodo.org/api/records/18385300/draft",
+    "file_modification": "https://zenodo.org/api/records/18385300/file-modification",
+    "files": "https://zenodo.org/api/records/18385300/files",
+    "latest": "https://zenodo.org/api/records/18385300/versions/latest",
+    "latest_html": "https://zenodo.org/records/18385300/latest",
+    "media_files": "https://zenodo.org/api/records/18385300/media-files",
+    "parent": "https://zenodo.org/api/records/18385299",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18385299",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18385299",
+    "parent_html": "https://zenodo.org/records/18385299",
+    "preview_html": "https://zenodo.org/records/18385300?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/18385300/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/18385300/request-deletion",
+    "requests": "https://zenodo.org/api/records/18385300/requests",
+    "reserve_doi": "https://zenodo.org/api/records/18385300/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/18385300",
+    "self_doi": "https://doi.org/10.5281/zenodo.18385300",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18385300",
+    "self_html": "https://zenodo.org/records/18385300",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18385300/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18385300/sequence/default",
+    "versions": "https://zenodo.org/api/records/18385300/versions"
+  },
+  "metadata": {
+    "access_right": "open",
+    "communities": [
+      {
+        "id": "eu"
+      },
+      {
+        "id": "translateh2020"
+      }
+    ],
+    "creators": [
+      {
+        "affiliation": "Tyndall National Institute",
+        "name": "Ranjani Palanisamy, Rupa",
+        "orcid": "0000-0002-4938-5795"
+      }
+    ],
+    "dates": [
+      {
+        "type": "available"
+      }
+    ],
+    "description": "<p>These are the raw data files associated with the publication \"Dual-functionality of NiSe2-CoSe2 nanowires for electrochemical charge storage and efficient thermal energy conversion\" (<a href=\"https://zenodo.org/records/15230201\">Dual-functionality of NiSe2-CoSe2 nanowires for electrochemical charge storage and efficient thermal energy conversion</a>).</p>",
+    "doi": "10.5281/zenodo.18385300",
+    "grants": [
+      {
+        "acronym": "TRANSLATE",
+        "code": "964251",
+        "funder": {
+          "acronym": "EC",
+          "doi": "10.13039/501100000780",
+          "name": "European Commission"
+        },
+        "internal_id": "10.13039/501100000780::964251",
+        "program": "H2020-EU.1.2.",
+        "title": "The Recycling of waste heat through the Application of Nanofluidic ChannelS: Advances in the Conversion of Thermal to Electrical energy",
+        "url": "https://cordis.europa.eu/projects/964251"
+      }
+    ],
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "notes": "<p>TRANSLATE is a &euro;3.4 million EU-funded research project that aims to develop a new nanofluidic platform technology to effectively convert waste heat to electricity. This technology has the potential to improve the energy efficiency of many devices and systems, and provide a radically new zero-emission power source. The TRANSLATE project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement number 964251, for the action of 'The Recycling of waste heat through the Application of Nanofluidic ChannelS: Advances in the Conversion of Thermal to Electrical energy'. More information can be be found on the TRANSLATE project website: https://translate-energy.eu/</p>",
+    "publication_date": "2026-01-27",
+    "related_identifiers": [
+      {
+        "identifier": "10.1016/j.est.2025.116568",
+        "relation": "isPartOf",
+        "resource_type": "dataset",
+        "scheme": "doi"
+      }
+    ],
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "18385299"
+          }
+        }
+      ]
+    },
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "title": "Data related to Dual-functionality of NiSe2-CoSe2 nanowires for electrochemical charge storage and efficient thermal energy conversion"
+  },
+  "modified": "2026-01-27T09:25:01.533831+00:00",
+  "owners": [
+    {
+      "id": "260702"
+    }
+  ],
+  "recid": "18385300",
+  "revision": 4,
+  "state": "done",
+  "stats": {
+    "downloads": 10,
+    "unique_downloads": 10,
+    "unique_views": 33,
+    "version_downloads": 10,
+    "version_unique_downloads": 10,
+    "version_unique_views": 33,
+    "version_views": 43,
+    "views": 43
+  },
+  "status": "published",
+  "submitted": true,
+  "swh": {},
+  "title": "Data related to Dual-functionality of NiSe2-CoSe2 nanowires for electrochemical charge storage and efficient thermal energy conversion",
+  "updated": "2026-01-27T09:25:01.533831+00:00"
+}

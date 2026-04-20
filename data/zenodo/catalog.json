@@ -1,0 +1,613 @@
+{
+  "generated_at": "2026-04-20T04:39:49+00:00",
+  "records": [
+    {
+      "creators": [
+        "Tran Thi Thuy, Tien"
+      ],
+      "data_kinds": [],
+      "doi": "10.5061/dryad.18931zcvg",
+      "files": {
+        "committed_count": 1,
+        "count": 1,
+        "total_bytes": 199943
+      },
+      "id": "4014412",
+      "keywords": [],
+      "last_synced": "2026-04-20T04:39:22+00:00",
+      "license": "cc-zero",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2020-09-03",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Data from:  A study of bacteria adhesion and microbial corrosion on different stainless steels in environment containing Desulfovibrio vulgaris manuscript"
+    },
+    {
+      "creators": [
+        "Schkolnik, Gal",
+        "Schmidt, Matthias",
+        "Mazza, Marco G.",
+        "Harnisch, Falk",
+        "Musat, Niculina"
+      ],
+      "data_kinds": [],
+      "doi": "10.5061/dryad.8sc52",
+      "files": {
+        "committed_count": 1,
+        "count": 7,
+        "total_bytes": 5141559882
+      },
+      "id": "4944335",
+      "keywords": [
+        "6 day old biofilm",
+        "Confocal Raman Microscopy",
+        "biofilm image scans",
+        "Biofilm image scan",
+        "proxy component spectra",
+        "Shewanella oneidensis biofilm",
+        "Shewanella oneidensis",
+        "WiTec Alpha300"
+      ],
+      "last_synced": "2026-04-20T04:38:28+00:00",
+      "license": "cc-zero",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2016-12-28",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Data from: In situ analysis of a silver nanoparticle-precipitating Shewanella biofilm by surface enhanced confocal Raman microscopy"
+    },
+    {
+      "creators": [
+        "Miran, Waheed",
+        "Huang, Wenyuan",
+        "Imamura, Gaku",
+        "Okamoto, Akihiro"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.7050972",
+      "files": {
+        "committed_count": 4,
+        "count": 5,
+        "total_bytes": 57446522
+      },
+      "id": "7050972",
+      "keywords": [],
+      "last_synced": "2026-04-20T04:39:27+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2022-09-09",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Bayesian Estimation on Microbial Electrochemical Time Profiles obtained by a High-Throughput Bioelectrochemical Device"
+    },
+    {
+      "creators": [
+        "Viktória Feigl",
+        "Mónika Molnár"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.7415472",
+      "files": {
+        "committed_count": 1,
+        "count": 1,
+        "total_bytes": 58933
+      },
+      "id": "7415472",
+      "keywords": [
+        "ecotoxicity",
+        "ecotoxicity assessment",
+        "plant ecotoxicity test",
+        "bioelectrochemical treatment",
+        "electrochemical bioremediation"
+      ],
+      "last_synced": "2026-04-20T04:38:30+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2022-12-08",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Ecotoxicity test results for the paper entitled \"Passive electrobioremediation approaches for enhancing hydrocarbons biodegradation in contaminated soils\""
+    },
+    {
+      "creators": [
+        "Reima Herrala",
+        "Zulin Wang",
+        "Jaana Vapaavuori",
+        "Mari Lundström",
+        "Kirsi Yliniemi"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.7660056",
+      "files": {
+        "committed_count": 0,
+        "count": 1,
+        "total_bytes": 78356910
+      },
+      "id": "7660056",
+      "keywords": [
+        "Electrochemistry",
+        "Nanoparticles",
+        "Noble metals",
+        "EQCM"
+      ],
+      "last_synced": "2026-04-20T04:35:36+00:00",
+      "license": "cc-by-nc-nd-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2023-08-03",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Au recovery and particle deposition from Au-Cu-Cl solutions with electrochemically-assisted aqueous reduction"
+    },
+    {
+      "creators": [
+        "Grieco, Rebecca"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.7970574",
+      "files": {
+        "committed_count": 0,
+        "count": 1,
+        "total_bytes": 960781324
+      },
+      "id": "7970574",
+      "keywords": [
+        "acidic electrolytes, alkaline electrolytes, conjugated microporous polymer,organic electrode materials, phenazine polymer"
+      ],
+      "last_synced": "2026-04-20T04:34:39+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2023-05-25",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "DataSet for \"Hybrid Based on Phenazine Conjugated Microporous Polymer as a High-Performance Organic Electrode in Aqueous Electrolytes\""
+    },
+    {
+      "creators": [
+        "Zheng Xie",
+        "Inyoung Jang",
+        "Mengzheng Ouyang",
+        "Anna Hankin",
+        "Stephen J Skinner"
+      ],
+      "data_kinds": [],
+      "doi": "10.1088/2515-7655/aceeb5",
+      "files": {
+        "committed_count": 74,
+        "count": 74,
+        "total_bytes": 17433021
+      },
+      "id": "8288205",
+      "keywords": [],
+      "last_synced": "2026-04-20T04:35:31+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2023-08-25",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "High performance composite Pr4Ni3O—Ce0.75Gd0.1Pr0.15O solid oxide cell air electrode"
+    },
+    {
+      "creators": [
+        "Muroyama, Alexander"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.10517218",
+      "files": {
+        "committed_count": 4,
+        "count": 4,
+        "total_bytes": 511546
+      },
+      "id": "10517218",
+      "keywords": [],
+      "last_synced": "2026-04-20T04:30:32+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2024-01-04",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Dataset: Performance Enhancement of a Membrane Electrochemical Cell for CO2 Capture"
+    },
+    {
+      "creators": [
+        "Kubo, Nikolas Mao",
+        "Ketter, Fabian",
+        "Palkovits, Stefan",
+        "Palkovits, Regina"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.10669811",
+      "files": {
+        "committed_count": 0,
+        "count": 1,
+        "total_bytes": 39276546
+      },
+      "id": "10669811",
+      "keywords": [],
+      "last_synced": "2026-04-20T04:34:56+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2024-02-16",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Dataset for the publication: Nickel and Commercially Available Nickel-Containing Alloys as Electrodes for the Electrochemical Oxygen Evolution"
+    },
+    {
+      "creators": [
+        "Bisquert, Juan",
+        "Ilyassov, Baurzhan",
+        "Tessler, Nir"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.10987633",
+      "files": {
+        "committed_count": 0,
+        "count": 1,
+        "total_bytes": 2354061
+      },
+      "id": "10987633",
+      "keywords": [],
+      "last_synced": "2026-04-20T04:35:11+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2024-04-17",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Dataset of \"Switching Response in Organic Electrochemical Transistors by Ionic Diffusion and Electronic Transport\""
+    },
+    {
+      "creators": [
+        "Gohlke, Clara",
+        "Gallenberger, Julia",
+        "Niederprüm, Nico",
+        "Ingendae, Hannah",
+        "Kautz, Johann",
+        "Hofmann, Jan P.",
+        "Mechler, Anna K."
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.13347935",
+      "files": {
+        "committed_count": 0,
+        "count": 1,
+        "total_bytes": 998379397
+      },
+      "id": "13347935",
+      "keywords": [
+        "Alkaline Water Electrolysis",
+        "Electrocatalyst Preparation",
+        "In-situ Electrode Conditioning",
+        "Electrode Activation",
+        "Online Dissolution",
+        "Electrochemisty"
+      ],
+      "last_synced": "2026-04-20T04:39:20+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2025-01-20",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Dataset for Publication: Boosting the Oxygen Evolution Reaction Performance of Ni-Fe-Electrodes by Tailored Conditioning"
+    },
+    {
+      "creators": [
+        "Bisquert, Juan",
+        "Tessler, Nir"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.13903078",
+      "files": {
+        "committed_count": 0,
+        "count": 1,
+        "total_bytes": 712494
+      },
+      "id": "13903078",
+      "keywords": [],
+      "last_synced": "2026-04-20T04:35:01+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2024-10-08",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Dataset of \"Transient current responses of organic electrochemical transistors by vertical ionic diffusion and electrolyte resistance\""
+    },
+    {
+      "creators": [
+        "Bisquert, Juan",
+        "Keene, Scott T."
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.14000203",
+      "files": {
+        "committed_count": 0,
+        "count": 1,
+        "total_bytes": 1031670
+      },
+      "id": "14000203",
+      "keywords": [],
+      "last_synced": "2026-04-20T04:30:35+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2024-10-28",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Dataset of \"Using the transversal admittance to understand organic electrochemical transistors\""
+    },
+    {
+      "creators": [
+        "Ashraf, Talal"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.14886857",
+      "files": {
+        "committed_count": 0,
+        "count": 1,
+        "total_bytes": 283847706
+      },
+      "id": "14886857",
+      "keywords": [],
+      "last_synced": "2026-04-20T04:34:53+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2025-02-18",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Raw Data GC-FID-ALS volatile liquid samples (methanol, methyl acetate, acetaldehyde, ethanol, ethyl propionate, acetone, formaldehyde, eugenol, cresol, isopropanol, phenol)"
+    },
+    {
+      "creators": [
+        "Bisquert, Juan",
+        "Tessler, Nir"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.15244569",
+      "files": {
+        "committed_count": 0,
+        "count": 1,
+        "total_bytes": 2480
+      },
+      "id": "15244569",
+      "keywords": [
+        "organic electrochemical transistors",
+        "neuromorphic biosensors",
+        "bioelectronics"
+      ],
+      "last_synced": "2026-04-20T04:39:31+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2025-04-19",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Dataset of \"A one-transistor organic electrochemical self-sustained oscillator model for neuromorphic networks\""
+    },
+    {
+      "creators": [
+        "Mba Wright, Mark"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.15300087",
+      "files": {
+        "committed_count": 1,
+        "count": 2,
+        "total_bytes": 31119814
+      },
+      "id": "15300087",
+      "keywords": [],
+      "last_synced": "2026-04-20T04:35:39+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2025-04-29",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "ELECTROCHEMICAL SYSTEMS AND MACHINE LEARNING FOR SUSTAINABLE WASTEWATER TREATMENT"
+    },
+    {
+      "creators": [
+        "Hnát, Jaromír",
+        "Durovic, Martin",
+        "Paušová, Šárka",
+        "Bouzek, Karel"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.15682546",
+      "files": {
+        "committed_count": 1,
+        "count": 2,
+        "total_bytes": 26576386
+      },
+      "id": "15682546",
+      "keywords": [
+        "VZ2",
+        "VSCHT",
+        "214 021",
+        "214 023",
+        "hydrogen evolution",
+        "alkaline water electrolysis",
+        "non-platinum catalyst"
+      ],
+      "last_synced": "2026-04-20T04:35:00+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2025-06-17",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Dataset of \"Electrodeposition as an attractive method of NiCoP cathode catalyst for alkaline membrane water electrolysis production\""
+    },
+    {
+      "creators": [
+        "Paci, Marco Maria"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.15993211",
+      "files": {
+        "committed_count": 6,
+        "count": 6,
+        "total_bytes": 866281
+      },
+      "id": "15993211",
+      "keywords": [],
+      "last_synced": "2026-04-20T04:39:30+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2025-07-16",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Electrochemical characterization of the nanofluidic membrane"
+    },
+    {
+      "creators": [
+        "Hamalová, Kateřina",
+        "Sánchez-Segado, Sergio",
+        "Ortiz-Martínez, Víctor Manuel",
+        "Salar-García, María José"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.17091337",
+      "files": {
+        "committed_count": 0,
+        "count": 1,
+        "total_bytes": 1142287
+      },
+      "id": "17091337",
+      "keywords": [
+        "Microbial fuel cells",
+        "Deep eutectic solvents",
+        "Polymer inclusion membranes",
+        "Bioenergy",
+        "Waste valorization"
+      ],
+      "last_synced": "2026-04-20T04:30:29+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2025-05-15",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "DATA: Polymeric membranes functionalized with deep eutectic solvents as separators in microbial fuel cells"
+    },
+    {
+      "creators": [
+        "Marrero, Denise"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.17804246",
+      "files": {
+        "committed_count": 0,
+        "count": 1,
+        "total_bytes": 145076060
+      },
+      "id": "17804246",
+      "keywords": [],
+      "last_synced": "2026-04-20T04:35:09+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2025-12-03",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Low-temperature inkjet-printed electrochemical sensors on OSTE+ microfluidics for oxygen monitoring and scavenging"
+    },
+    {
+      "creators": [
+        "Ranjani Palanisamy, Rupa"
+      ],
+      "data_kinds": [],
+      "doi": "10.5281/zenodo.18385300",
+      "files": {
+        "committed_count": 0,
+        "count": 1,
+        "total_bytes": 3278140
+      },
+      "id": "18385300",
+      "keywords": [],
+      "last_synced": "2026-04-20T04:30:39+00:00",
+      "license": "cc-by-4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "publication_date": "2026-01-27",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "zenodo",
+      "title": "Data related to Dual-functionality of NiSe2-CoSe2 nanowires for electrochemical charge storage and efficient thermal energy conversion"
+    }
+  ]
+}

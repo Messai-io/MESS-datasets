@@ -1,0 +1,57 @@
+# Seed file for Zenodo ingest. Read by scripts/fetch-zenodo.py.
+#
+# Adding records: append to `records:` with the Zenodo record ID and a
+# short human note. Adding a new search sweep: append to
+# `search_provenance:` with the URL, OneTab (if any), and date added.
+
+source: zenodo
+
+search_provenance:
+  - url: "https://zenodo.org/search?q=microbial%20electrochemical&f=resource_type%3Adataset&f=access_status%3Aopen&l=list&p=2&s=20&sort=bestmatch"
+    onetab: "https://www.one-tab.com/page/qWa1gQvhTDCdldCelNvMMA"
+    query: "microbial electrochemical"
+    added: "2026-04-20"
+
+records:
+  - id: "17091337"
+    note: "Polymeric membranes functionalized with deep eutectic solvents as MFC separators"
+  - id: "10517218"
+    note: "Membrane electrochemical cell for CO2 capture"
+  - id: "14000203"
+    note: "Transversal admittance to understand organic electrochemical transistors"
+  - id: "18385300"
+    note: "NiSe2-CoSe2 nanowires — electrochemical charge storage + thermal energy"
+  - id: "7970574"
+    note: "Phenazine conjugated microporous polymer organic electrode in aqueous electrolytes"
+  - id: "14886857"
+    note: "Raw GC-FID-ALS volatile liquid sample data"
+  - id: "10669811"
+    note: "Nickel and Ni-containing alloys as OER electrodes"
+  - id: "15682546"
+    note: "Electrodeposition of NiCoP cathode catalyst for alkaline membrane water electrolysis"
+  - id: "13903078"
+    note: "Transient current responses of OECTs (vertical ionic diffusion + electrolyte resistance)"
+  - id: "17804246"
+    note: "Low-temperature inkjet-printed electrochemical sensors on OSTE+ microfluidics (O2)"
+  - id: "10987633"
+    note: "Switching response in OECTs — ionic diffusion + electronic transport"
+  - id: "8288205"
+    note: "Pr4Ni3O–Ce0.75Gd0.1Pr0.15O solid oxide cell air electrode"
+  - id: "7660056"
+    note: "Au recovery + particle deposition from Au-Cu-Cl with electrochemically-assisted reduction"
+  - id: "15300087"
+    note: "Electrochemical systems + ML for sustainable wastewater treatment"
+  - id: "4944335"
+    note: "In situ Raman of Ag-nanoparticle-precipitating Shewanella biofilm"
+  - id: "7415472"
+    note: "Passive electrobioremediation ecotoxicity results — hydrocarbons in contaminated soil"
+  - id: "13347935"
+    note: "Ni-Fe electrodes — OER performance via tailored conditioning"
+  - id: "4014412"
+    note: "Bacteria adhesion + microbial corrosion on stainless steels (Desulfovibrio vulgaris)"
+  - id: "7050972"
+    note: "Bayesian estimation on microbial electrochemical time profiles (high-throughput BES)"
+  - id: "15993211"
+    note: "Electrochemical characterization of nanofluidic membrane"
+  - id: "15244569"
+    note: "One-transistor OECT self-sustained oscillator for neuromorphic networks"

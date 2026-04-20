@@ -1,0 +1,17 @@
+{
+  "doi": "10.5281/zenodo.7970574",
+  "fetched_at": "2026-04-20T04:34:39+00:00",
+  "files": [
+    {
+      "checksum": "md5:ddecdf6af833ed23652b432733558861",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/7970574/files/Dataset_Batt_202300023.rar/content",
+      "key": "Dataset_Batt_202300023.rar",
+      "local_path": ".source/Dataset_Batt_202300023.rar",
+      "size": 960781324,
+      "skipped_reason": null
+    }
+  ],
+  "id": "7970574",
+  "source": "zenodo"
+}

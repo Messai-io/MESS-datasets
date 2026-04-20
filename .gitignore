@@ -36,6 +36,17 @@ coverage/
 # Large intermediate dataset artifacts — stage under data/.cache/
 data/.cache/
 
+# Per-record raw source sidecar — gitignored, lives alongside committed metadata
+data/**/.source/
+
+# Large archive formats in committed files/ dirs (raw source belongs in .source/)
+data/**/files/*.zip
+data/**/files/*.tar.gz
+data/**/files/*.tar.bz2
+data/**/files/*.tar.xz
+data/**/files/*.7z
+data/**/files/*.rar
+
 # Misc
 .claude/
 .claude-flow/

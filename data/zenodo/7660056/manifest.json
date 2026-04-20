@@ -1,0 +1,17 @@
+{
+  "doi": "10.5281/zenodo.7660056",
+  "fetched_at": "2026-04-20T04:35:36+00:00",
+  "files": [
+    {
+      "checksum": "md5:39e3c390cfe1d6eaebcfc89701b30fee",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/7660056/files/Au-Cu-Cl%20EAR%20dataset%201.zip/content",
+      "key": "Au-Cu-Cl EAR dataset 1.zip",
+      "local_path": ".source/Au-Cu-Cl EAR dataset 1.zip",
+      "size": 78356910,
+      "skipped_reason": null
+    }
+  ],
+  "id": "7660056",
+  "source": "zenodo"
+}

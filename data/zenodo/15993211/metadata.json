@@ -1,0 +1,154 @@
+{
+  "conceptdoi": "10.5281/zenodo.15993210",
+  "conceptrecid": "15993210",
+  "created": "2025-07-16T20:12:02.865722+00:00",
+  "doi": "10.5281/zenodo.15993211",
+  "doi_url": "https://doi.org/10.5281/zenodo.15993211",
+  "files": [
+    {
+      "checksum": "md5:0aaccbebe5d1fe50f6601e9ef5b6142f",
+      "id": "f9ae435d-588a-407b-832f-1fd9696b3014",
+      "key": "Fig2A.xlsx",
+      "links": {
+        "self": "https://zenodo.org/api/records/15993211/files/Fig2A.xlsx/content"
+      },
+      "size": 55126
+    },
+    {
+      "checksum": "md5:f32daba0d4b263d1ef31928faf51e375",
+      "id": "d4ac6996-9bfb-4e6a-bcbc-217a51f241db",
+      "key": "Fig2E.xlsx",
+      "links": {
+        "self": "https://zenodo.org/api/records/15993211/files/Fig2E.xlsx/content"
+      },
+      "size": 188513
+    },
+    {
+      "checksum": "md5:0dfb6afc451ac92aaf1f9719923703e4",
+      "id": "4b5e9afb-eb3d-4353-b1d8-19af587d0c05",
+      "key": "Fig2D.xlsx",
+      "links": {
+        "self": "https://zenodo.org/api/records/15993211/files/Fig2D.xlsx/content"
+      },
+      "size": 139643
+    },
+    {
+      "checksum": "md5:03ce163ab0eaf95bd172ec0cadf30bf9",
+      "id": "9680a138-784e-47da-9b2a-7b47e14c2611",
+      "key": "Fig2F.xlsx",
+      "links": {
+        "self": "https://zenodo.org/api/records/15993211/files/Fig2F.xlsx/content"
+      },
+      "size": 159044
+    },
+    {
+      "checksum": "md5:f77b1e2ee322e4ba94cbdd6eb722347e",
+      "id": "378ae5a0-b43b-4002-b921-163688597764",
+      "key": "Fig2C.xlsx",
+      "links": {
+        "self": "https://zenodo.org/api/records/15993211/files/Fig2C.xlsx/content"
+      },
+      "size": 290216
+    },
+    {
+      "checksum": "md5:2cc1557ef8fd60020bdcd74adf81c932",
+      "id": "59cda350-9087-4ff1-99ea-3956a0628516",
+      "key": "Fig2B.xlsx",
+      "links": {
+        "self": "https://zenodo.org/api/records/15993211/files/Fig2B.xlsx/content"
+      },
+      "size": 33739
+    }
+  ],
+  "id": 15993211,
+  "links": {
+    "access": "https://zenodo.org/api/records/15993211/access",
+    "access_grants": "https://zenodo.org/api/records/15993211/access/grants",
+    "access_links": "https://zenodo.org/api/records/15993211/access/links",
+    "access_request": "https://zenodo.org/api/records/15993211/access/request",
+    "access_users": "https://zenodo.org/api/records/15993211/access/users",
+    "archive": "https://zenodo.org/api/records/15993211/files-archive",
+    "archive_media": "https://zenodo.org/api/records/15993211/media-files-archive",
+    "communities": "https://zenodo.org/api/records/15993211/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/15993211/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.15993211",
+    "draft": "https://zenodo.org/api/records/15993211/draft",
+    "file_modification": "https://zenodo.org/api/records/15993211/file-modification",
+    "files": "https://zenodo.org/api/records/15993211/files",
+    "latest": "https://zenodo.org/api/records/15993211/versions/latest",
+    "latest_html": "https://zenodo.org/records/15993211/latest",
+    "media_files": "https://zenodo.org/api/records/15993211/media-files",
+    "parent": "https://zenodo.org/api/records/15993210",
+    "parent_doi": "https://doi.org/10.5281/zenodo.15993210",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15993210",
+    "parent_html": "https://zenodo.org/records/15993210",
+    "preview_html": "https://zenodo.org/records/15993211?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/15993211/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/15993211/request-deletion",
+    "requests": "https://zenodo.org/api/records/15993211/requests",
+    "reserve_doi": "https://zenodo.org/api/records/15993211/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/15993211",
+    "self_doi": "https://doi.org/10.5281/zenodo.15993211",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15993211",
+    "self_html": "https://zenodo.org/records/15993211",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:15993211/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:15993211/sequence/default",
+    "versions": "https://zenodo.org/api/records/15993211/versions"
+  },
+  "metadata": {
+    "access_right": "open",
+    "creators": [
+      {
+        "affiliation": null,
+        "name": "Paci, Marco Maria"
+      }
+    ],
+    "description": "<p><strong>Figure 2. </strong><strong>Electrochemical characterization of the nanofluidic membrane. </strong>(A) Cyclic voltammetry (CV) profiles of nanofluidic membranes to assess catalytic efficiency. (B) Electrochemical impedance spectroscopy (EIS) of the nanofluidic membrane, demonstrating low interfacial impedance essential for efficient electrochemical actuation. (C) Open-circuit potential (OCP) measurements of the nanofluidic membrane, indicating stable electrochemical behavior over time in the absence of external bias, which reflects the absence of spontaneous redox activity and overall system stability. (D) Time-dependent current (I&ndash;t) responses recorded at &minus;2 V, highlighting the dynamics of the gas-generating electrochemical reaction. (E) Repeated chronoamperometric measurements collected over multiple activation cycles, demonstrating consistent electrochemical performance and stable gas evolution, which are critical for long-term reliability in therapeutic applications, (n=1). (F) Cumulative energy consumption during electrochemical actuation, obtained by integrating the power profile derived from I&ndash;t data. This metric reflects the overall energy demand of the actuation process and informs battery capacity requirements for future autonomous implementations.</p>",
+    "doi": "10.5281/zenodo.15993211",
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "publication_date": "2025-07-16",
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "15993210"
+          }
+        }
+      ]
+    },
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "title": "Electrochemical characterization of the nanofluidic membrane"
+  },
+  "modified": "2025-07-16T20:12:03.312547+00:00",
+  "owners": [
+    {
+      "id": "1365954"
+    }
+  ],
+  "recid": "15993211",
+  "revision": 4,
+  "state": "done",
+  "stats": {
+    "downloads": 114,
+    "unique_downloads": 94,
+    "unique_views": 37,
+    "version_downloads": 114,
+    "version_unique_downloads": 94,
+    "version_unique_views": 37,
+    "version_views": 51,
+    "views": 51
+  },
+  "status": "published",
+  "submitted": true,
+  "swh": {},
+  "title": "Electrochemical characterization of the nanofluidic membrane",
+  "updated": "2025-07-16T20:12:03.312547+00:00"
+}

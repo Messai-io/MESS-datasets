@@ -1,0 +1,17 @@
+{
+  "doi": "10.5281/zenodo.14886857",
+  "fetched_at": "2026-04-20T04:34:53+00:00",
+  "files": [
+    {
+      "checksum": "md5:c72294064bc772b7f1e6424959bf546b",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/14886857/files/Data%20GC-FID%20ALS%20Liquid%20samples.7z/content",
+      "key": "Data GC-FID ALS Liquid samples.7z",
+      "local_path": ".source/Data GC-FID ALS Liquid samples.7z",
+      "size": 283847706,
+      "skipped_reason": null
+    }
+  ],
+  "id": "14886857",
+  "source": "zenodo"
+}

@@ -1,0 +1,674 @@
+{
+  "doi": "10.1088/2515-7655/aceeb5",
+  "fetched_at": "2026-04-20T04:35:31+00:00",
+  "files": [
+    {
+      "checksum": "md5:4020f36d1e94ca1b4091a26cd354295d",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/Figure.5.xlsx/content",
+      "key": "Figure.5.xlsx",
+      "local_path": "files/Figure.5.xlsx",
+      "size": 332949,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:c6a22cbbe710fc78804cff2a05ba1e4d",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/Figure.2.xlsx/content",
+      "key": "Figure.2.xlsx",
+      "local_path": "files/Figure.2.xlsx",
+      "size": 55523,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:def3d769831d0e221a7ad0d7faef4c7b",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/Figure.8.xlsx/content",
+      "key": "Figure.8.xlsx",
+      "local_path": "files/Figure.8.xlsx",
+      "size": 82165,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:e2521080fa469a098a22ff5eb64ea22d",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/Figure.4.xlsx/content",
+      "key": "Figure.4.xlsx",
+      "local_path": "files/Figure.4.xlsx",
+      "size": 358259,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:33d16c1507315920054092b0ceaa1ca8",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/Figure.6+7.xlsx/content",
+      "key": "Figure.6+7.xlsx",
+      "local_path": "files/Figure.6+7.xlsx",
+      "size": 9857,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:b6a15cdcca0958ac040004579fac42b6",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/Figure.3.xlsx/content",
+      "key": "Figure.3.xlsx",
+      "local_path": "files/Figure.3.xlsx",
+      "size": 13629,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:9c81deabe54ab77a9addc0e819bbee75",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure5a.PNG.png/content",
+      "key": "figure5a.PNG.png",
+      "local_path": "files/figure5a.PNG.png",
+      "size": 88383,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:b489317d9aef1f00dd2b079d0fbe788c",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS2b.PNG.png/content",
+      "key": "figureS2b.PNG.png",
+      "local_path": "files/figureS2b.PNG.png",
+      "size": 80890,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:c6f4d2d059b26691126b70030f42bbea",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS13b.JPG.jpg/content",
+      "key": "figureS13b.JPG.jpg",
+      "local_path": "files/figureS13b.JPG.jpg",
+      "size": 874978,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:3d7421ac9da3d340110e138460e08239",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure6c.PNG.png/content",
+      "key": "figure6c.PNG.png",
+      "local_path": "files/figure6c.PNG.png",
+      "size": 82271,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:99a671de7f3781c8397907706cd5d6ba",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS9c.JPG.jpg/content",
+      "key": "figureS9c.JPG.jpg",
+      "local_path": "files/figureS9c.JPG.jpg",
+      "size": 193857,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:7519ab09529d084a90540016eb48228f",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure6d.PNG.png/content",
+      "key": "figure6d.PNG.png",
+      "local_path": "files/figure6d.PNG.png",
+      "size": 84641,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:a5e128af4b154f840909871a885d064e",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS3a.PNG.png/content",
+      "key": "figureS3a.PNG.png",
+      "local_path": "files/figureS3a.PNG.png",
+      "size": 72686,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:bf7ef057dcdfdc6915009d85bd0c8315",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS13c.JPG.jpg/content",
+      "key": "figureS13c.JPG.jpg",
+      "local_path": "files/figureS13c.JPG.jpg",
+      "size": 854566,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:46e04def1b6809d96850a18b19f57d9e",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS8c.JPG.jpg/content",
+      "key": "figureS8c.JPG.jpg",
+      "local_path": "files/figureS8c.JPG.jpg",
+      "size": 97236,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:c5e1083a13529c19f9626ace61d863d0",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS12.PNG.png/content",
+      "key": "figureS12.PNG.png",
+      "local_path": "files/figureS12.PNG.png",
+      "size": 59172,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:9c68cce3c78125791b4c58a5bd154c05",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS13d.JPG.jpg/content",
+      "key": "figureS13d.JPG.jpg",
+      "local_path": "files/figureS13d.JPG.jpg",
+      "size": 867755,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:a08291510b5e5ceec9918c2d3ddc8bec",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS10.PNG.png/content",
+      "key": "figureS10.PNG.png",
+      "local_path": "files/figureS10.PNG.png",
+      "size": 55861,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:7bfe64a68039ff42c3b9f6851eaa7de9",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure7a.PNG.png/content",
+      "key": "figure7a.PNG.png",
+      "local_path": "files/figure7a.PNG.png",
+      "size": 70726,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:3a14183521db53a2bc52f12ba2b2ac35",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS11c.PNG.png/content",
+      "key": "figureS11c.PNG.png",
+      "local_path": "files/figureS11c.PNG.png",
+      "size": 54767,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:c3c109f6b260fdc5bdc5550593a4ffac",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS7a.PNG.PNG/content",
+      "key": "figureS7a.PNG.PNG",
+      "local_path": "files/figureS7a.PNG.PNG",
+      "size": 533697,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:c2efdb538bab6c669ad375b7d5259e3a",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS11e.PNG.png/content",
+      "key": "figureS11e.PNG.png",
+      "local_path": "files/figureS11e.PNG.png",
+      "size": 58743,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:c20709a9bd042911fdea3ff7cac2d08b",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS2a.PNG.png/content",
+      "key": "figureS2a.PNG.png",
+      "local_path": "files/figureS2a.PNG.png",
+      "size": 77150,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:4e0570045194fb60890f180556f6584e",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS4b.PNG.png/content",
+      "key": "figureS4b.PNG.png",
+      "local_path": "files/figureS4b.PNG.png",
+      "size": 96004,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:ca4124132e0113ab61562e1065d34a62",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS13e.PNG.png/content",
+      "key": "figureS13e.PNG.png",
+      "local_path": "files/figureS13e.PNG.png",
+      "size": 78637,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:fb5155610d9b6c1c3f42d8d8c5cbc75f",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure8b.PNG.png/content",
+      "key": "figure8b.PNG.png",
+      "local_path": "files/figure8b.PNG.png",
+      "size": 69734,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:8230fa85aac7bceff7d8413f78899b78",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure7b.PNG.png/content",
+      "key": "figure7b.PNG.png",
+      "local_path": "files/figure7b.PNG.png",
+      "size": 68897,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:af7b649f3b84444b353842a61ca93093",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS14a.JPG.jpg/content",
+      "key": "figureS14a.JPG.jpg",
+      "local_path": "files/figureS14a.JPG.jpg",
+      "size": 950706,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:7ca3f0c713fb376e0eb368ef23dc2fac",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS11b.PNG.png/content",
+      "key": "figureS11b.PNG.png",
+      "local_path": "files/figureS11b.PNG.png",
+      "size": 53714,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:7906aaeb5ce66f7b535a5004f3515ef7",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure8a.PNG.png/content",
+      "key": "figure8a.PNG.png",
+      "local_path": "files/figure8a.PNG.png",
+      "size": 131124,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:651ce7ba3b73882a19ea9299266913e6",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure6b.PNG.png/content",
+      "key": "figure6b.PNG.png",
+      "local_path": "files/figure6b.PNG.png",
+      "size": 74401,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:a49dae46edc20e10a03e14cd619f7c8b",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS1.JPG.jpg/content",
+      "key": "figureS1.JPG.jpg",
+      "local_path": "files/figureS1.JPG.jpg",
+      "size": 677472,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:1fd0b350a32e11bd840a0a25d01a6f65",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure5b.PNG.png/content",
+      "key": "figure5b.PNG.png",
+      "local_path": "files/figure5b.PNG.png",
+      "size": 76611,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:33b3c877067d7cb4d86c086b68c648ce",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure7d.PNG.png/content",
+      "key": "figure7d.PNG.png",
+      "local_path": "files/figure7d.PNG.png",
+      "size": 75093,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:f4b3aaa42e754d513e85417acf6d5caa",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS7b.PNG.PNG/content",
+      "key": "figureS7b.PNG.PNG",
+      "local_path": "files/figureS7b.PNG.PNG",
+      "size": 728330,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:7182ee4c7ab2dec9430b407bd2f4385f",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS4a.PNG.png/content",
+      "key": "figureS4a.PNG.png",
+      "local_path": "files/figureS4a.PNG.png",
+      "size": 91939,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:6b0db949f935517bb2a3aaa5e79dcaa0",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS9b.JPG.jpg/content",
+      "key": "figureS9b.JPG.jpg",
+      "local_path": "files/figureS9b.JPG.jpg",
+      "size": 205325,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:7f9c04936de12c8217d0c22a64b8a434",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS5b.PNG.png/content",
+      "key": "figureS5b.PNG.png",
+      "local_path": "files/figureS5b.PNG.png",
+      "size": 69590,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:cbbe0b99eb40393d451882d4027aba0d",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS8b.PNG.png/content",
+      "key": "figureS8b.PNG.png",
+      "local_path": "files/figureS8b.PNG.png",
+      "size": 373163,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:068b4dac8002a18a9574d030247d8a56",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS16.PNG.png/content",
+      "key": "figureS16.PNG.png",
+      "local_path": "files/figureS16.PNG.png",
+      "size": 60400,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:d318189dc24e7449ef73cc185bc19cff",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS3b.PNG.png/content",
+      "key": "figureS3b.PNG.png",
+      "local_path": "files/figureS3b.PNG.png",
+      "size": 73634,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:3920770dd7a991642081cd0192e5cca1",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure6a.PNG.png/content",
+      "key": "figure6a.PNG.png",
+      "local_path": "files/figure6a.PNG.png",
+      "size": 68568,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:b0f286b16da10b9f830dacd93b214afe",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS11f.PNG.png/content",
+      "key": "figureS11f.PNG.png",
+      "local_path": "files/figureS11f.PNG.png",
+      "size": 62468,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:139e96939070c08cfee5e853ede0b465",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS13f.PNG.png/content",
+      "key": "figureS13f.PNG.png",
+      "local_path": "files/figureS13f.PNG.png",
+      "size": 86472,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:e2590d07fbaee99fcc1254abfb10e579",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure7c.PNG.png/content",
+      "key": "figure7c.PNG.png",
+      "local_path": "files/figure7c.PNG.png",
+      "size": 82640,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:334f154f8c150d8a4d72f8584dbeb309",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS6.PNG.png/content",
+      "key": "figureS6.PNG.png",
+      "local_path": "files/figureS6.PNG.png",
+      "size": 1103367,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:42e788c67e0164ae05029b8f70847728",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS11a.PNG.png/content",
+      "key": "figureS11a.PNG.png",
+      "local_path": "files/figureS11a.PNG.png",
+      "size": 54556,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:487e96c0654304fc38a6f670e094c287",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS8a.PNG.png/content",
+      "key": "figureS8a.PNG.png",
+      "local_path": "files/figureS8a.PNG.png",
+      "size": 264089,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:90d9b11417eeff776bb44609c9c36b74",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS9a.JPG.jpg/content",
+      "key": "figureS9a.JPG.jpg",
+      "local_path": "files/figureS9a.JPG.jpg",
+      "size": 152390,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:bfecbecfdf818e7c7ad101fc6f029199",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS7c.PNG.PNG/content",
+      "key": "figureS7c.PNG.PNG",
+      "local_path": "files/figureS7c.PNG.PNG",
+      "size": 697454,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:75a9053572366b048f6ceb0749c45a4b",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS15.PNG.png/content",
+      "key": "figureS15.PNG.png",
+      "local_path": "files/figureS15.PNG.png",
+      "size": 48145,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:5eaa3d41c7c06980e331c27c114f59a7",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS13a.JPG.jpg/content",
+      "key": "figureS13a.JPG.jpg",
+      "local_path": "files/figureS13a.JPG.jpg",
+      "size": 871413,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:fdc2d27c7655cffe8f36abf2c7a359f5",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS5a.PNG.png/content",
+      "key": "figureS5a.PNG.png",
+      "local_path": "files/figureS5a.PNG.png",
+      "size": 70987,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:6afd36ad2ae5834de3808febbf47fcb8",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS14b.JPG.jpg/content",
+      "key": "figureS14b.JPG.jpg",
+      "local_path": "files/figureS14b.JPG.jpg",
+      "size": 930560,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:d0d5d65f585ddd01298ba5fa96cda3ef",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS11d.PNG.png/content",
+      "key": "figureS11d.PNG.png",
+      "local_path": "files/figureS11d.PNG.png",
+      "size": 56241,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:dd6e9274b3df034d117bef33dcddd9e0",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS4c.PNG.png/content",
+      "key": "figureS4c.PNG.png",
+      "local_path": "files/figureS4c.PNG.png",
+      "size": 91304,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:1e681d1873c25064829e58666d015d42",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figureS4d.PNG.png/content",
+      "key": "figureS4d.PNG.png",
+      "local_path": "files/figureS4d.PNG.png",
+      "size": 95344,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:35a7e92e290351fd6ad4a95f2b91de7c",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure1a.PNG.png/content",
+      "key": "figure1a.PNG.png",
+      "local_path": "files/figure1a.PNG.png",
+      "size": 546576,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:cd73bff78aae9d0b062c191dfa360d81",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure3b.PNG.png/content",
+      "key": "figure3b.PNG.png",
+      "local_path": "files/figure3b.PNG.png",
+      "size": 62503,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:d79e0686e0dc83b874660d1a2d3a167b",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure3f.PNG.png/content",
+      "key": "figure3f.PNG.png",
+      "local_path": "files/figure3f.PNG.png",
+      "size": 62734,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:f1442d276640ce56f56a739b892bdfa0",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure3e.PNG.png/content",
+      "key": "figure3e.PNG.png",
+      "local_path": "files/figure3e.PNG.png",
+      "size": 63075,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:29e6c69255c4b2897b6eb84e8eb4ed72",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure2.PNG.png/content",
+      "key": "figure2.PNG.png",
+      "local_path": "files/figure2.PNG.png",
+      "size": 169864,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:fd092d4b5e7badf1e38275cc62377fa0",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure1f.JPG.jpg/content",
+      "key": "figure1f.JPG.jpg",
+      "local_path": "files/figure1f.JPG.jpg",
+      "size": 227040,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:157951c8de610bd487a3fa8d159c9f7e",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure4a.PNG.png/content",
+      "key": "figure4a.PNG.png",
+      "local_path": "files/figure4a.PNG.png",
+      "size": 82071,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:2b7199df2ed71de551ef5cd41cfb89fe",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure3c.PNG.png/content",
+      "key": "figure3c.PNG.png",
+      "local_path": "files/figure3c.PNG.png",
+      "size": 63379,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:5b1360c398aa1c8dc379551260f508a2",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure3a.PNG.png/content",
+      "key": "figure3a.PNG.png",
+      "local_path": "files/figure3a.PNG.png",
+      "size": 63263,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:bf7ef057dcdfdc6915009d85bd0c8315",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure4d.JPG.jpg/content",
+      "key": "figure4d.JPG.jpg",
+      "local_path": "files/figure4d.JPG.jpg",
+      "size": 854566,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:3c522dc149c9af224d99e263a77e4297",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure1b.JPG.jpg/content",
+      "key": "figure1b.JPG.jpg",
+      "local_path": "files/figure1b.JPG.jpg",
+      "size": 168907,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:e7d59ad98a4c04fdaca2e198b9547619",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure4c.PNG.png/content",
+      "key": "figure4c.PNG.png",
+      "local_path": "files/figure4c.PNG.png",
+      "size": 71409,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:6c6e8d197b6539cf33a34f6b9be5f189",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure1e.PNG.jpg/content",
+      "key": "figure1e.PNG.jpg",
+      "local_path": "files/figure1e.PNG.jpg",
+      "size": 190190,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:6a248f0398215b194141ab34ea1eeed4",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure3d.PNG.png/content",
+      "key": "figure3d.PNG.png",
+      "local_path": "files/figure3d.PNG.png",
+      "size": 62233,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:f4a6ef76f29729ce29bbf327dd178474",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure1d.JPG.jpg/content",
+      "key": "figure1d.JPG.jpg",
+      "local_path": "files/figure1d.JPG.jpg",
+      "size": 235109,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:3d1b9624059a3ce83a3a2bdc73fd5f9c",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure4b.PNG.png/content",
+      "key": "figure4b.PNG.png",
+      "local_path": "files/figure4b.PNG.png",
+      "size": 81971,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:ac5dcbb5158595fce782a785a08e64cc",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/8288205/files/figure1c.PNG.png/content",
+      "key": "figure1c.PNG.png",
+      "local_path": "files/figure1c.PNG.png",
+      "size": 677598,
+      "skipped_reason": null
+    }
+  ],
+  "id": "8288205",
+  "source": "zenodo"
+}

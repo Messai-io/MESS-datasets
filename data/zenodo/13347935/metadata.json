@@ -1,0 +1,175 @@
+{
+  "conceptdoi": "10.5281/zenodo.13347934",
+  "conceptrecid": "13347934",
+  "created": "2025-01-20T17:13:59.184663+00:00",
+  "doi": "10.5281/zenodo.13347935",
+  "doi_url": "https://doi.org/10.5281/zenodo.13347935",
+  "files": [
+    {
+      "checksum": "md5:9db7ebb01a12d012c97eca295b28506a",
+      "id": "ac4f5778-7334-40e3-a102-f811a8995709",
+      "key": "Data repository.zip",
+      "links": {
+        "self": "https://zenodo.org/api/records/13347935/files/Data%20repository.zip/content"
+      },
+      "size": 998379397
+    }
+  ],
+  "id": 13347935,
+  "links": {
+    "access": "https://zenodo.org/api/records/13347935/access",
+    "access_grants": "https://zenodo.org/api/records/13347935/access/grants",
+    "access_links": "https://zenodo.org/api/records/13347935/access/links",
+    "access_request": "https://zenodo.org/api/records/13347935/access/request",
+    "access_users": "https://zenodo.org/api/records/13347935/access/users",
+    "archive": "https://zenodo.org/api/records/13347935/files-archive",
+    "archive_media": "https://zenodo.org/api/records/13347935/media-files-archive",
+    "communities": "https://zenodo.org/api/records/13347935/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/13347935/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.13347935",
+    "draft": "https://zenodo.org/api/records/13347935/draft",
+    "file_modification": "https://zenodo.org/api/records/13347935/file-modification",
+    "files": "https://zenodo.org/api/records/13347935/files",
+    "latest": "https://zenodo.org/api/records/13347935/versions/latest",
+    "latest_html": "https://zenodo.org/records/13347935/latest",
+    "media_files": "https://zenodo.org/api/records/13347935/media-files",
+    "parent": "https://zenodo.org/api/records/13347934",
+    "parent_doi": "https://doi.org/10.5281/zenodo.13347934",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.13347934",
+    "parent_html": "https://zenodo.org/records/13347934",
+    "preview_html": "https://zenodo.org/records/13347935?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/13347935/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/13347935/request-deletion",
+    "requests": "https://zenodo.org/api/records/13347935/requests",
+    "reserve_doi": "https://zenodo.org/api/records/13347935/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/13347935",
+    "self_doi": "https://doi.org/10.5281/zenodo.13347935",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.13347935",
+    "self_html": "https://zenodo.org/records/13347935",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:13347935/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:13347935/sequence/default",
+    "versions": "https://zenodo.org/api/records/13347935/versions"
+  },
+  "metadata": {
+    "access_right": "open",
+    "creators": [
+      {
+        "affiliation": "Electrochemical Reaction Engineering (AVT.ERT), RWTH Aachen University",
+        "name": "Gohlke, Clara",
+        "orcid": "0009-0006-8273-6354"
+      },
+      {
+        "affiliation": "Surface Science Laboratory, TU Darmstadt",
+        "name": "Gallenberger, Julia"
+      },
+      {
+        "affiliation": "Electrochemical Reaction Engineering (AVT.ERT), RWTH Aachen University",
+        "name": "Niederprüm, Nico"
+      },
+      {
+        "affiliation": "Electrochemical Reaction Engineering (AVT.ERT), RWTH Aachen University",
+        "name": "Ingendae, Hannah"
+      },
+      {
+        "affiliation": "Electrochemical Reaction Engineering (AVT.ERT), RWTH Aachen University",
+        "name": "Kautz, Johann"
+      },
+      {
+        "affiliation": "Surface Science Laboratory, TU Darmstadt",
+        "name": "Hofmann, Jan P.",
+        "orcid": "0000-0002-5765-1096"
+      },
+      {
+        "affiliation": "Electrochemical Reaction Engineering (AVT.ERT), RWTH Aachen University",
+        "name": "Mechler, Anna K.",
+        "orcid": "0000-0002-0491-514X"
+      }
+    ],
+    "dates": [
+      {
+        "type": "available"
+      }
+    ],
+    "description": "<p>The provided repository contains the data, processing/calculations, and plots of the manuscript 'Boosting the Oxygen Evolution Reaction Performance of Ni-Fe-Electrodes by Tailored Conditioning' (DOI: <a href=\"https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/celc.202400318\" target=\"_blank\" rel=\"noopener\">10.1002/celc.202400318</a>). In our manuscript, we introduced electrochemical conditioning of Ni&minus;Fe-based electrodes as a promising electrode design method for the alkaline oxygen evolution. Conditioning was optimized regarding scan rate, potential limits, hold times, and treatment time. More details can be read in the manuscript. The (processed) data is available as .dta-, .csv, and .txt-files. Additionally, the .opju- and .xlsx-files are given, which show the data processing.</p>",
+    "doi": "10.5281/zenodo.13347935",
+    "grants": [
+      {
+        "code": "03HY105A, 03HY105H",
+        "funder": {
+          "name": "Federal Ministry of Education and Research"
+        },
+        "internal_id": "04pz7b180::03HY105A, 03HY105H",
+        "title": "Project PrometH2eus"
+      }
+    ],
+    "journal": {
+      "issue": "18",
+      "pages": "2196-0216",
+      "title": "ChemElectroChem",
+      "volume": "11"
+    },
+    "keywords": [
+      "Alkaline Water Electrolysis",
+      "Electrocatalyst Preparation",
+      "In-situ Electrode Conditioning",
+      "Electrode Activation",
+      "Online Dissolution",
+      "Electrochemisty"
+    ],
+    "language": "eng",
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "publication_date": "2025-01-20",
+    "related_identifiers": [
+      {
+        "identifier": "10.1002/celc.202400318",
+        "relation": "isSupplementTo",
+        "resource_type": "publication",
+        "scheme": "doi"
+      }
+    ],
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "13347934"
+          }
+        }
+      ]
+    },
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "title": "Dataset for Publication: Boosting the Oxygen Evolution Reaction Performance of Ni-Fe-Electrodes by Tailored Conditioning",
+    "version": "V01"
+  },
+  "modified": "2025-01-20T17:13:59.501870+00:00",
+  "owners": [
+    {
+      "id": "1115465"
+    }
+  ],
+  "recid": "13347935",
+  "revision": 4,
+  "state": "done",
+  "stats": {
+    "downloads": 16,
+    "unique_downloads": 16,
+    "unique_views": 60,
+    "version_downloads": 16,
+    "version_unique_downloads": 16,
+    "version_unique_views": 60,
+    "version_views": 70,
+    "views": 70
+  },
+  "status": "published",
+  "submitted": true,
+  "swh": {},
+  "title": "Dataset for Publication: Boosting the Oxygen Evolution Reaction Performance of Ni-Fe-Electrodes by Tailored Conditioning",
+  "updated": "2025-01-20T17:13:59.501870+00:00"
+}

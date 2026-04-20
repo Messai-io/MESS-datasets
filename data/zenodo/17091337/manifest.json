@@ -1,0 +1,17 @@
+{
+  "doi": "10.5281/zenodo.17091337",
+  "fetched_at": "2026-04-20T04:30:29+00:00",
+  "files": [
+    {
+      "checksum": "md5:d89e2231fb0b3b956e8321d9ea6635f0",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/17091337/files/Journal%20of%20Power%20Sources_Hamalova_2025_data.zip/content",
+      "key": "Journal of Power Sources_Hamalova_2025_data.zip",
+      "local_path": ".source/Journal of Power Sources_Hamalova_2025_data.zip",
+      "size": 1142287,
+      "skipped_reason": null
+    }
+  ],
+  "id": "17091337",
+  "source": "zenodo"
+}
