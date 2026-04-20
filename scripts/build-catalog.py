@@ -1,18 +1,17 @@
 #!/usr/bin/env python3
 """
-Scan data/zenodo/*/metadata.json + manifest.json and produce
-data/zenodo/catalog.json.
+Scan per-source record directories and produce:
 
-Reads per-record artifacts, writes a compact aggregated index
-conforming to schemas/dataset-catalog.schema.json.
+  data/zenodo/catalog.json      — zenodo records only
+  data/figshare/catalog.json    — figshare records only
+  data/catalog.json             — unified (all sources, source-keyed)
+
+All three conform to schemas/dataset-catalog.schema.json.
 
 Classification fields (`mes_relevance`, `mes_domains`, `data_kinds`,
-`related_slugs`) are carried over from any existing catalog.json if
-present — so a later classification pass can write to catalog.json
-and not have those edits clobbered when we rebuild.
-
-Usage:
-    python scripts/build-catalog.py
+`related_slugs`) from prior catalogs are preserved across rebuilds —
+so a later classification pass can write to any catalog and not get
+clobbered.
 """
 
 from __future__ import annotations
@@ -20,27 +19,26 @@ from __future__ import annotations
 import json
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Any
+from typing import Any, Callable
 
 from _common import DATA_DIR, write_json
 
 
-ZENODO_DIR = DATA_DIR / "zenodo"
-CATALOG_PATH = ZENODO_DIR / "catalog.json"
+SOURCES: list[tuple[str, Path, Callable[[dict, dict], dict]]] = []
 
 
-def load_existing_classifications() -> dict[str, dict[str, Any]]:
-    """Return {record_id: {mes_relevance, mes_domains, data_kinds, related_slugs}}."""
-    if not CATALOG_PATH.exists():
+def load_prior_classifications(catalog_path: Path) -> dict[str, dict[str, Any]]:
+    """Return {(source, id) or id -> classification dict}."""
+    if not catalog_path.exists():
         return {}
     try:
-        with CATALOG_PATH.open("r", encoding="utf-8") as fh:
-            prev = json.load(fh)
+        prev = json.loads(catalog_path.read_text(encoding="utf-8"))
     except Exception:
         return {}
     out: dict[str, dict[str, Any]] = {}
     for r in prev.get("records", []):
-        out[str(r.get("id"))] = {
+        key = f"{r.get('source')}:{r.get('id')}"
+        out[key] = {
             "mes_relevance": r.get("mes_relevance", None),
             "mes_domains": r.get("mes_domains", []) or [],
             "data_kinds": r.get("data_kinds", []) or [],
@@ -49,31 +47,37 @@ def load_existing_classifications() -> dict[str, dict[str, Any]]:
     return out
 
 
-def build_record(
-    rec_dir: Path,
-    prior: dict[str, dict[str, Any]],
-) -> dict[str, Any] | None:
+def summarize_files(manifest: dict) -> dict[str, int]:
+    files = manifest.get("files", []) or []
+    return {
+        "count": len(files),
+        "total_bytes": sum(int(f.get("size", 0)) for f in files),
+        "committed_count": sum(1 for f in files if f.get("committed")),
+    }
+
+
+def build_zenodo_record(rec_dir: Path, prior: dict[str, dict[str, Any]]) -> dict[str, Any] | None:
     meta_path = rec_dir / "metadata.json"
     manifest_path = rec_dir / "manifest.json"
     if not meta_path.exists() or not manifest_path.exists():
         return None
-
-    with meta_path.open("r", encoding="utf-8") as fh:
-        meta = json.load(fh)
-    with manifest_path.open("r", encoding="utf-8") as fh:
-        manifest = json.load(fh)
-
+    meta = json.loads(meta_path.read_text(encoding="utf-8"))
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     m = meta.get("metadata", {}) or {}
-    record_id = str(rec_dir.name)
-    p = prior.get(record_id, {})
+    record_id = rec_dir.name
+    p = prior.get(f"zenodo:{record_id}", {})
 
-    files = manifest.get("files", []) or []
-    total_bytes = sum(int(f.get("size", 0)) for f in files)
-    committed_count = sum(1 for f in files if f.get("committed"))
+    # Try to pull a paper DOI from related_identifiers (relation ~ isSupplementTo).
+    paper_doi = None
+    for ri in m.get("related_identifiers") or []:
+        if (ri.get("relation") or "").lower() in {
+            "issupplementto", "isderivedfrom", "isdocumentedby", "cites"
+        } and (ri.get("scheme") or "").lower() == "doi":
+            paper_doi = ri.get("identifier")
+            break
 
     creators = [
-        c.get("name")
-        for c in (m.get("creators") or [])
+        c.get("name") for c in (m.get("creators") or [])
         if isinstance(c, dict) and c.get("name")
     ]
 
@@ -81,16 +85,13 @@ def build_record(
         "source": "zenodo",
         "id": record_id,
         "doi": meta.get("doi"),
+        "paper_doi": paper_doi,
         "title": m.get("title") or meta.get("title") or "",
         "publication_date": m.get("publication_date"),
         "license": (m.get("license") or {}).get("id"),
         "creators": creators,
         "keywords": list(m.get("keywords") or []),
-        "files": {
-            "count": len(files),
-            "total_bytes": total_bytes,
-            "committed_count": committed_count,
-        },
+        "files": summarize_files(manifest),
         "mes_relevance": p.get("mes_relevance", None),
         "mes_domains": p.get("mes_domains", []),
         "data_kinds": p.get("data_kinds", []),
@@ -100,33 +101,96 @@ def build_record(
     }
 
 
-def main() -> int:
-    prior = load_existing_classifications()
+def build_figshare_record(rec_dir: Path, prior: dict[str, dict[str, Any]]) -> dict[str, Any] | None:
+    meta_path = rec_dir / "metadata.json"
+    manifest_path = rec_dir / "manifest.json"
+    if not meta_path.exists() or not manifest_path.exists():
+        return None
+    meta = json.loads(meta_path.read_text(encoding="utf-8"))
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    record_id = rec_dir.name
+    p = prior.get(f"figshare:{record_id}", {})
+
+    authors = [
+        a.get("full_name") for a in (meta.get("authors") or [])
+        if isinstance(a, dict) and a.get("full_name")
+    ]
+    pub_date = (meta.get("created_date") or "").split("T")[0] or None
+    lic = (meta.get("license") or {}).get("name")
+
+    return {
+        "source": "figshare",
+        "id": record_id,
+        "doi": meta.get("doi"),
+        "paper_doi": meta.get("resource_doi"),
+        "title": meta.get("title") or "",
+        "publication_date": pub_date,
+        "license": lic,
+        "creators": authors,
+        "keywords": list(meta.get("tags") or meta.get("keywords") or []),
+        "files": summarize_files(manifest),
+        "mes_relevance": p.get("mes_relevance", None),
+        "mes_domains": p.get("mes_domains", []),
+        "data_kinds": p.get("data_kinds", []),
+        "related_slugs": p.get("related_slugs", {"parameters": [], "materials": []}),
+        "last_synced": manifest.get("fetched_at")
+        or datetime.now(timezone.utc).isoformat(timespec="seconds"),
+    }
+
+
+SOURCE_BUILDERS: dict[str, Callable[[Path, dict], dict | None]] = {
+    "zenodo": build_zenodo_record,
+    "figshare": build_figshare_record,
+}
+
+
+def stable_sort_key(r: dict[str, Any]) -> tuple[str, int, str]:
+    try:
+        return (r["source"], int(r["id"]), r["id"])
+    except (ValueError, TypeError):
+        return (r["source"], 10**18, str(r["id"]))
+
+
+def scan_source(source: str) -> list[dict[str, Any]]:
+    source_dir = DATA_DIR / source
+    if not source_dir.is_dir():
+        return []
+    per_source_catalog = source_dir / "catalog.json"
+    unified_catalog = DATA_DIR / "catalog.json"
+
+    # Prior classifications: merge per-source + unified so edits anywhere survive.
+    prior = {
+        **load_prior_classifications(per_source_catalog),
+        **load_prior_classifications(unified_catalog),
+    }
+
+    builder = SOURCE_BUILDERS[source]
     records: list[dict[str, Any]] = []
-    for child in sorted(ZENODO_DIR.iterdir()):
-        if not child.is_dir():
+    for child in sorted(source_dir.iterdir()):
+        if not child.is_dir() or child.name.startswith("."):
             continue
-        if child.name.startswith("."):
-            continue
-        rec = build_record(child, prior)
+        rec = builder(child, prior)
         if rec:
             records.append(rec)
+    records.sort(key=stable_sort_key)
+    return records
 
-    # Stable order: by id ascending as integer if possible.
-    def _key(r: dict[str, Any]) -> tuple[int, str]:
-        try:
-            return (int(r["id"]), r["id"])
-        except (ValueError, TypeError):
-            return (10**18, str(r["id"]))
 
-    records.sort(key=_key)
+def main() -> int:
+    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
 
-    catalog = {
-        "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        "records": records,
-    }
-    write_json(CATALOG_PATH, catalog)
-    print(f"Wrote {CATALOG_PATH} with {len(records)} record(s).")
+    all_records: list[dict[str, Any]] = []
+    for source in SOURCE_BUILDERS:
+        records = scan_source(source)
+        per_source_path = DATA_DIR / source / "catalog.json"
+        write_json(per_source_path, {"generated_at": now, "records": records})
+        print(f"Wrote {per_source_path} ({len(records)} records)")
+        all_records.extend(records)
+
+    all_records.sort(key=stable_sort_key)
+    unified_path = DATA_DIR / "catalog.json"
+    write_json(unified_path, {"generated_at": now, "records": all_records})
+    print(f"Wrote {unified_path} ({len(all_records)} records across {len(SOURCE_BUILDERS)} sources)")
     return 0
 
 

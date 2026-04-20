@@ -1,0 +1,567 @@
+{
+  "authors": [
+    {
+      "first_name": "Daniele",
+      "full_name": "Daniele Molognoni",
+      "id": 3193332,
+      "is_active": false,
+      "last_name": "Molognoni",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Pau",
+      "full_name": "Pau Bosch-Jimenez",
+      "id": 8083463,
+      "is_active": false,
+      "last_name": "Bosch-Jimenez",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Rubén",
+      "full_name": "Rubén Rodríguez-Alegre",
+      "id": 9176180,
+      "is_active": false,
+      "last_name": "Rodríguez-Alegre",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Adrián",
+      "full_name": "Adrián Marí-Espinosa",
+      "id": 9176183,
+      "is_active": false,
+      "last_name": "Marí-Espinosa",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Edxon",
+      "full_name": "Edxon Licon",
+      "id": 9176186,
+      "is_active": false,
+      "last_name": "Licon",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Julia",
+      "full_name": "Julia Gallego",
+      "id": 9176189,
+      "is_active": false,
+      "last_name": "Gallego",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Salvador",
+      "full_name": "Salvador Lladó",
+      "id": 3723601,
+      "is_active": false,
+      "last_name": "Lladó",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Eduard",
+      "full_name": "Eduard Borràs",
+      "id": 8083466,
+      "is_active": false,
+      "last_name": "Borràs",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Monica Della",
+      "full_name": "Monica Della Pirriera",
+      "id": 9176192,
+      "is_active": false,
+      "last_name": "Pirriera",
+      "orcid_id": "",
+      "url_name": "_"
+    }
+  ],
+  "categories": [
+    {
+      "id": 640,
+      "parent_id": 5,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Nuclear Engineering (incl. Fuel Enrichment and Waste Processing and Storage)"
+    },
+    {
+      "id": 547,
+      "parent_id": 5,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Chemical Engineering not elsewhere classified"
+    },
+    {
+      "id": 873,
+      "parent_id": 38,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Chemical Sciences not elsewhere classified"
+    },
+    {
+      "id": 266,
+      "parent_id": 33,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Carbon Sequestration Science"
+    },
+    {
+      "id": 621,
+      "parent_id": 5,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Energy Generation, Conversion and Storage Engineering"
+    },
+    {
+      "id": 525,
+      "parent_id": 5,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Automotive Combustion and Fuel Engineering (incl. Alternative/Renewable Fuels)"
+    },
+    {
+      "id": 564,
+      "parent_id": 5,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Power and Energy Systems Engineering (excl. Renewable Power)"
+    },
+    {
+      "id": 565,
+      "parent_id": 5,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Renewable Power and Energy Systems Engineering (excl. Solar Cells)"
+    },
+    {
+      "id": 537,
+      "parent_id": 5,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Carbon Capture Engineering (excl. Sequestration)"
+    },
+    {
+      "id": 92,
+      "parent_id": 5,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Nuclear Engineering"
+    },
+    {
+      "id": 541,
+      "parent_id": 5,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Non-automotive Combustion and Fuel Engineering (incl. Alternative/Renewable Fuels)"
+    }
+  ],
+  "citation": "Molognoni, Daniele; Bosch-Jimenez, Pau; Rodríguez-Alegre, Rubén; Marí-Espinosa, Adrián; Licon, Edxon; Gallego, Julia; et al. (2020). Table_1_How Operational Parameters Affect Electromethanogenesis in a Bioelectrochemical Power-to-Gas Prototype.DOCX. Frontiers. Dataset. https://doi.org/10.3389/fenrg.2020.00174.s004",
+  "confidential_reason": "",
+  "created_date": "2020-07-28T04:29:40Z",
+  "custom_fields": [],
+  "defined_type": 3,
+  "defined_type_name": "dataset",
+  "description": "<p>Bioelectrochemical power-to-gas represents a novel solution for electrical energy storage, currently under development. It allows storing renewable energy surplus in the form of methane (CH<sub>4</sub>), while treating wastewater, therefore bridging the electricity and natural gas (and wastewater) grids. The technology can be coupled with membrane contactors for carbon dioxide (CO<sub>2</sub>) capture, dissolving the CO<sub>2</sub> in wastewater before feeding it to the bioelectrochemical system. This way, the integrated system can achieve simultaneous carbon capture and energy storage objectives, in the scenario of a wastewater treatment plant application. In this study, such technology was developed in a medium-scale prototype (32 L volume), which was operated for 400 days in different conditions of temperature, voltage and CO<sub>2</sub> capture rate. The prototype achieved the highest CH<sub>4</sub> production rate (147 ± 33 L m<sup>–3</sup> d<sup>–1</sup>) at the lowest specific energy consumption (1.0 ± 0.3 kWh m<sup>–3</sup> CH<sub>4</sub>) when operated at 25°C and applying a voltage of 0.7 V, while capturing and converting 22 L m<sup>–3</sup> d<sup>–1</sup> of CO<sub>2</sub>. The produced biogas was nearer to biomethane quality (CH<sub>4</sub> > 90% v/v) when CO<sub>2</sub> was not injected in the wastewater. Traces of hydrogen (H<sub>2</sub>) in the biogas, detectable during the periods of closed electrical circuit operation, indicated that hydrogenotrophic methanogenesis was taking place at the cathode. On the other hand, a relevant CH<sub>4</sub> production during the periods of open electrical circuit operation confirmed the presence of acetoclastic methanogenic microorganisms in the microbial community, which was dominated by the archaeal genus Methanothrix (Euryarchaeota). Different operational taxonomic units belonging to the bacterial Synergistes phylum were found at the anode and the cathode, having a potential role in organic matter degradation and H<sub>2</sub> production, respectively. In the panorama of methanation technologies currently available for power-to-gas, the performances of this bioelectrochemical prototype are not yet competitive, especially in terms of volumetric CH<sub>4</sub> production rate and power density demand. However, the possibility to obtain a high-quality biogas (almost reaching biomethane quality standards) at a minimal energy consumption represents a potentially favorable business scenario for this technology.</p>",
+  "doi": "10.3389/fenrg.2020.00174.s004",
+  "download_disabled": false,
+  "embargo_date": null,
+  "embargo_options": [],
+  "embargo_reason": "",
+  "embargo_title": "",
+  "embargo_type": null,
+  "figshare_url": "https://frontiersin.figshare.com/articles/dataset/Table_1_How_Operational_Parameters_Affect_Electromethanogenesis_in_a_Bioelectrochemical_Power-to-Gas_Prototype_DOCX/12725867",
+  "files": [
+    {
+      "computed_md5": "06b72fdb5942b21afb653afbfd5b6b8d",
+      "download_url": "https://ndownloader.figshare.com/files/24088727",
+      "id": 24088727,
+      "is_link_only": false,
+      "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "name": "Table_1_How Operational Parameters Affect Electromethanogenesis in a Bioelectrochemical Power-to-Gas Prototype.DOCX",
+      "size": 682211,
+      "supplied_md5": "06b72fdb5942b21afb653afbfd5b6b8d"
+    }
+  ],
+  "folder_structure": {},
+  "funding": null,
+  "funding_list": [],
+  "group_id": 11905,
+  "handle": "",
+  "has_linked_file": false,
+  "id": 12725867,
+  "is_confidential": false,
+  "is_embargoed": false,
+  "is_metadata_record": false,
+  "is_public": true,
+  "keywords": [
+    "carbon capture",
+    "electromethanogenesis",
+    "energy storage",
+    "methanation",
+    "microbial community",
+    "renewable energy"
+  ],
+  "license": {
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "value": 1
+  },
+  "metadata_reason": "",
+  "modified_date": "2023-05-31T03:20:47Z",
+  "published_date": "2020-07-28T04:29:40Z",
+  "references": [
+    "https://doi.org//10.2174/1875036201307010001",
+    "https://doi.org//10.1016/j.rser.2016.11.130",
+    "https://doi.org//10.1039/c5ra09039c",
+    "https://doi.org//10.1016/j.scitotenv.2019.06.361",
+    "https://doi.org//10.1016/j.rser.2017.07.062",
+    "https://doi.org//10.1038/ismej.2012.8",
+    "https://doi.org//10.1016/j.apenergy.2019.114138",
+    "https://doi.org//10.1021/es803531g",
+    "https://doi.org//10.1016/j.biortech.2012.12.050",
+    "https://doi.org//10.1631/jzus.a1900009",
+    "https://doi.org//10.1038/nmeth.2604",
+    "https://doi.org//10.1021/es5052233",
+    "https://doi.org//10.1016/j.tibtech.2016.08.010",
+    "https://doi.org//10.1016/b978-0-08-088504-9.00462-1",
+    "https://doi.org//10.1016/j.biortech.2019.121877",
+    "https://doi.org//10.1016/j.biortech.2019.121706",
+    "https://doi.org//10.1016/j.renene.2016.02.083",
+    "https://doi.org//10.1038/nrmicro1892",
+    "https://doi.org//10.1016/j.cej.2019.123689",
+    "https://doi.org//10.1016/j.biortech.2018.11.021",
+    "https://doi.org//10.1038/ismej.2009.2",
+    "https://doi.org//10.1371/journal.pone.0057923",
+    "https://doi.org//10.1093/bioinformatics/bty071",
+    "https://doi.org//10.1016/j.biortech.2009.12.077",
+    "https://doi.org//10.1016/j.biortech.2020.123000",
+    "https://doi.org//10.1016/j.biortech.2019.121738",
+    "https://doi.org//10.1016/j.apenergy.2016.05.060",
+    "https://doi.org//10.1016/j.biortech.2019.01.145",
+    "https://doi.org//10.1016/j.ibiod.2015.10.020",
+    "https://doi.org//10.1016/j.biortech.2018.06.101",
+    "https://doi.org/10.3389/fenrg.2020.00174"
+  ],
+  "related_materials": [
+    {
+      "id": 7754342,
+      "identifier": "https://doi.org//10.2174/1875036201307010001",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.2174/1875036201307010001",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754345,
+      "identifier": "https://doi.org//10.1016/j.rser.2016.11.130",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.rser.2016.11.130",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754348,
+      "identifier": "https://doi.org//10.1039/c5ra09039c",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1039/c5ra09039c",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754351,
+      "identifier": "https://doi.org//10.1016/j.scitotenv.2019.06.361",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.scitotenv.2019.06.361",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754354,
+      "identifier": "https://doi.org//10.1016/j.rser.2017.07.062",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.rser.2017.07.062",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754357,
+      "identifier": "https://doi.org//10.1038/ismej.2012.8",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/ismej.2012.8",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754360,
+      "identifier": "https://doi.org//10.1016/j.apenergy.2019.114138",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.apenergy.2019.114138",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754363,
+      "identifier": "https://doi.org//10.1021/es803531g",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/es803531g",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754366,
+      "identifier": "https://doi.org//10.1016/j.biortech.2012.12.050",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2012.12.050",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754369,
+      "identifier": "https://doi.org//10.1631/jzus.a1900009",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1631/jzus.a1900009",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754372,
+      "identifier": "https://doi.org//10.1038/nmeth.2604",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/nmeth.2604",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754375,
+      "identifier": "https://doi.org//10.1021/es5052233",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/es5052233",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754378,
+      "identifier": "https://doi.org//10.1016/j.tibtech.2016.08.010",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.tibtech.2016.08.010",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754384,
+      "identifier": "https://doi.org//10.1016/b978-0-08-088504-9.00462-1",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/b978-0-08-088504-9.00462-1",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754387,
+      "identifier": "https://doi.org//10.1016/j.biortech.2019.121877",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2019.121877",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754390,
+      "identifier": "https://doi.org//10.1016/j.biortech.2019.121706",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2019.121706",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754393,
+      "identifier": "https://doi.org//10.1016/j.renene.2016.02.083",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.renene.2016.02.083",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754396,
+      "identifier": "https://doi.org//10.1038/nrmicro1892",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/nrmicro1892",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754399,
+      "identifier": "https://doi.org//10.1016/j.cej.2019.123689",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.cej.2019.123689",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754402,
+      "identifier": "https://doi.org//10.1016/j.biortech.2018.11.021",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2018.11.021",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754405,
+      "identifier": "https://doi.org//10.1038/ismej.2009.2",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/ismej.2009.2",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754408,
+      "identifier": "https://doi.org//10.1371/journal.pone.0057923",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1371/journal.pone.0057923",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754411,
+      "identifier": "https://doi.org//10.1093/bioinformatics/bty071",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1093/bioinformatics/bty071",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754414,
+      "identifier": "https://doi.org//10.1016/j.biortech.2009.12.077",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2009.12.077",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754417,
+      "identifier": "https://doi.org//10.1016/j.biortech.2020.123000",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2020.123000",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754420,
+      "identifier": "https://doi.org//10.1016/j.biortech.2019.121738",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2019.121738",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754423,
+      "identifier": "https://doi.org//10.1016/j.apenergy.2016.05.060",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.apenergy.2016.05.060",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754426,
+      "identifier": "https://doi.org//10.1016/j.biortech.2019.01.145",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2019.01.145",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754429,
+      "identifier": "https://doi.org//10.1016/j.ibiod.2015.10.020",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.ibiod.2015.10.020",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754432,
+      "identifier": "https://doi.org//10.1016/j.biortech.2018.06.101",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2018.06.101",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 7754435,
+      "identifier": "10.3389/fenrg.2020.00174",
+      "identifier_type": "DOI",
+      "is_linkout": true,
+      "link": "https://doi.org/10.3389/fenrg.2020.00174",
+      "relation": "IsSupplementTo",
+      "title": "How Operational Parameters Affect Electromethanogenesis in a Bioelectrochemical Power-to-Gas Prototype"
+    }
+  ],
+  "resource_doi": "10.3389/fenrg.2020.00174",
+  "resource_title": "How Operational Parameters Affect Electromethanogenesis in a Bioelectrochemical Power-to-Gas Prototype",
+  "size": 682211,
+  "status": "public",
+  "tags": [
+    "carbon capture",
+    "electromethanogenesis",
+    "energy storage",
+    "methanation",
+    "microbial community",
+    "renewable energy"
+  ],
+  "thumb": "https://s3-eu-west-1.amazonaws.com/ppreviews-frontiersin-8483929402184328/24088727/thumb.png",
+  "timeline": {
+    "firstOnline": "2020-07-28T04:29:40",
+    "posted": "2020-07-28T04:29:40"
+  },
+  "title": "Table_1_How Operational Parameters Affect Electromethanogenesis in a Bioelectrochemical Power-to-Gas Prototype.DOCX",
+  "url": "https://api.figshare.com/v2/articles/12725867",
+  "url_private_api": "https://api.figshare.com/v2/account/articles/12725867",
+  "url_private_html": "https://figshare.com/account/articles/12725867",
+  "url_public_api": "https://api.figshare.com/v2/articles/12725867",
+  "url_public_html": "https://frontiersin.figshare.com/articles/dataset/Table_1_How_Operational_Parameters_Affect_Electromethanogenesis_in_a_Bioelectrochemical_Power-to-Gas_Prototype_DOCX/12725867",
+  "version": 1
+}

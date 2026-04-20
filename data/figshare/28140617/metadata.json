@@ -1,0 +1,753 @@
+{
+  "authors": [
+    {
+      "first_name": "Hannah",
+      "full_name": "Hannah Bird",
+      "id": 14675394,
+      "is_active": false,
+      "last_name": "Bird",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Sharon",
+      "full_name": "Sharon Velasquez-Orta",
+      "id": 6297662,
+      "is_active": false,
+      "last_name": "Velasquez-Orta",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Elizabeth",
+      "full_name": "Elizabeth Heidrich",
+      "id": 20506364,
+      "is_active": false,
+      "last_name": "Heidrich",
+      "orcid_id": "",
+      "url_name": "_"
+    }
+  ],
+  "categories": [
+    {
+      "id": 8,
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Microbiology"
+    }
+  ],
+  "citation": "Bird, Hannah; Velasquez-Orta, Sharon; Heidrich, Elizabeth (2025). Data Sheet 1_Understanding the limitations of substrate degradation in bioelectrochemical systems.pdf. Frontiers. Dataset. https://doi.org/10.3389/fmicb.2024.1511142.s001",
+  "confidential_reason": "",
+  "created_date": "2025-01-06T06:50:53Z",
+  "custom_fields": [],
+  "defined_type": 3,
+  "defined_type_name": "dataset",
+  "description": "<p>Microbial Fuel Cells (MFCs) are innovative environmental engineering systems that harness the metabolic activities of microbial communities to convert chemical energy in waste into electrical energy. However, MFC performance optimization remains challenging due to limited understanding of microbial metabolic mechanisms, particularly with complex substrates under realistic environmental conditions. This study investigated the effects of substrate complexity (acetate vs. starch) and varying mass transfer (stirred vs. non-stirred) on acclimatization rates, substrate degradation, and microbial community dynamics in air-cathode MFCs. Stirring was critical for acclimating to complex substrates, facilitating electrogenic biofilm formation in starch-fed MFCs, while non-stirred MFCs showed limited performance under these conditions. Non-stirred MFCs, however, outperformed stirred systems in current generation and coulombic efficiency (CE), especially with simple substrates (acetate), achieving 66% CE compared to 38% under stirred conditions, likely due to oxygen intrusion in the stirred systems. Starch-fed MFCs exhibited consistently low CE (19%) across all tested conditions due to electron diversion into volatile fatty acids (VFA). Microbial diversity was higher in acetate-fed MFCs but unaffected by stirring, while starch-fed MFCs developed smaller, more specialized communities. Kinetic analysis identified hydrolysis of complex substrates as the rate-limiting step, with rates an order of magnitude slower than acetate consumption. Combined hydrolysis-fermentation rates were unaffected by stirring, but stirring significantly impacted acetate consumption rates, likely due to oxygen-induced competition between facultative aerobes and electrogenic bacteria. These findings highlight the trade-offs between enhanced substrate availability and oxygen-driven competition in MFCs. For real-world applications, initiating reactors with dynamic stirring to accelerate acclimatization, followed by non-stirred operation, may optimize performance. Integrating MFCs with anaerobic digestion could overcome hydrolysis limitations, enhancing the degradation of complex substrates while improving energy recovery. This study introduces novel strategies to address key challenges in scaling up MFCs for wastewater treatment, bridging the gap between fundamental research and practical applications to advance environmental systems.</p>",
+  "doi": "10.3389/fmicb.2024.1511142.s001",
+  "download_disabled": false,
+  "embargo_date": null,
+  "embargo_options": [],
+  "embargo_reason": "",
+  "embargo_title": "",
+  "embargo_type": null,
+  "figshare_url": "https://frontiersin.figshare.com/articles/dataset/Data_Sheet_1_Understanding_the_limitations_of_substrate_degradation_in_bioelectrochemical_systems_pdf/28140617",
+  "files": [
+    {
+      "computed_md5": "22f56cc275ddba899489a1a2ce7e91be",
+      "download_url": "https://ndownloader.figshare.com/files/51493001",
+      "id": 51493001,
+      "is_link_only": false,
+      "mimetype": "application/pdf",
+      "name": "Data Sheet 1_Understanding the limitations of substrate degradation in bioelectrochemical systems.pdf",
+      "size": 1845616,
+      "supplied_md5": "22f56cc275ddba899489a1a2ce7e91be"
+    }
+  ],
+  "folder_structure": {},
+  "funding": null,
+  "funding_list": [],
+  "group_id": 11818,
+  "handle": "",
+  "has_linked_file": false,
+  "id": 28140617,
+  "is_confidential": false,
+  "is_embargoed": false,
+  "is_metadata_record": false,
+  "is_public": true,
+  "keywords": [
+    "microbial fuel cells",
+    "wastewater treatment",
+    "microbial metabolism",
+    "substrate degradation",
+    "mass transfer",
+    "kinetics"
+  ],
+  "license": {
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "value": 1
+  },
+  "metadata_reason": "",
+  "modified_date": "2025-01-06T06:50:53Z",
+  "published_date": "2025-01-06T06:50:53Z",
+  "references": [
+    "https://doi.org//10.1016/j.chemosphere.2021.133184",
+    "https://doi.org//10.3389/fenrg.2018.00063",
+    "https://doi.org//10.3354/ame01753",
+    "https://doi.org//10.1016/j.biombioe.2020.105726",
+    "https://doi.org//10.1016/j.jclepro.2022.131227",
+    "https://doi.org//10.1038/nmeth.3869",
+    "https://doi.org//10.1186/s12934-019-1087-z",
+    "https://doi.org//10.1073/pnas.1000080107",
+    "https://doi.org//10.1016/j.jpowsour.2007.09.083",
+    "https://doi.org//10.1016/j.biortech.2009.02.065",
+    "https://doi.org//10.1007/s10529-010-0507-2",
+    "https://doi.org//10.2166/wst.2000.0056",
+    "https://doi.org//10.1016/j.jelechem.2019.02.004",
+    "https://doi.org//10.3389/fmicb.2021.657467",
+    "https://doi.org//10.3390/bioengineering10121380",
+    "https://doi.org//10.1016/j.bios.2023.115806",
+    "https://doi.org//10.1016/j.jclepro.2016.02.022",
+    "https://doi.org//10.1016/j.bioelechem.2017.07.006",
+    "https://doi.org//10.4155/bfs.13.69",
+    "https://doi.org//10.3390/microorganisms9081709",
+    "https://doi.org//10.1038/s41598-019-39267-2",
+    "https://doi.org//10.1128/AEM.01392-10",
+    "https://doi.org//10.1021/es102645v",
+    "https://doi.org//10.1016/j.ijhydene.2011.07.128",
+    "https://doi.org//10.1016/j.biortech.2014.09.091",
+    "https://doi.org//10.1016/j.watres.2007.10.036",
+    "https://doi.org//10.1128/aem.02181-22",
+    "https://doi.org//10.1038/nrmicro2113",
+    "https://doi.org//10.4028/www.scientific.net/AMR.724-725.762",
+    "https://doi.org//10.1016/S0960-8524%2800%2900023-7",
+    "https://doi.org//10.1371/journal.pone.0061217",
+    "https://doi.org//10.1016/j.biortech.2014.06.090",
+    "https://doi.org//10.1016/j.watres.2005.09.039",
+    "https://doi.org//10.1016/j.elecom.2019.106529",
+    "https://doi.org//10.1016/j.apenergy.2016.01.056",
+    "https://doi.org//10.1016/j.biortech.2009.10.017",
+    "https://doi.org//10.1111/1462-2920.13023",
+    "https://doi.org//10.1007/11663_2013_2",
+    "https://doi.org//10.1016/j.chemosphere.2021.131856",
+    "https://doi.org//10.1016/j.cej.2012.09.009",
+    "https://doi.org//10.1002/cssc.202100294",
+    "https://doi.org//10.1016/j.heliyon.2022.e12353",
+    "https://doi.org//10.1016/j.bios.2016.10.014",
+    "https://doi.org//10.3389/fmicb.2018.00378",
+    "https://doi.org//10.1016/j.biortech.2008.07.067",
+    "https://doi.org//10.1016/j.biortech.2011.10.088",
+    "https://doi.org//10.1007/s00253-007-1198-z",
+    "https://doi.org//10.1016/j.apenergy.2016.10.109",
+    "https://doi.org//10.1016/S0043-1354%2801%2900148-8",
+    "https://doi.org//10.1007/s00253-011-3126-5",
+    "https://doi.org//10.3389/fmicb.2019.00398",
+    "https://doi.org//10.1016/j.rser.2020.110460",
+    "https://doi.org//10.1038/ismej.2012.42",
+    "https://doi.org//10.1093/nar/gkt1209",
+    "https://doi.org//10.1016/j.jenvman.2022.115152",
+    "https://doi.org//10.1016/j.watres.2016.07.038",
+    "https://doi.org//10.1021/es400631r",
+    "https://doi.org//10.1016/j.biortech.2010.09.044",
+    "https://doi.org//10.1007/s00253-020-10547-6",
+    "https://doi.org//10.3390/w13050606",
+    "https://doi.org//10.1128/mBio.00584-12",
+    "https://doi.org//10.1016/j.watres.2017.12.026",
+    "https://doi.org/10.3389/fmicb.2024.1511142"
+  ],
+  "related_materials": [
+    {
+      "id": 212421611,
+      "identifier": "https://doi.org//10.1016/j.chemosphere.2021.133184",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.chemosphere.2021.133184",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421614,
+      "identifier": "https://doi.org//10.3389/fenrg.2018.00063",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fenrg.2018.00063",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421617,
+      "identifier": "https://doi.org//10.3354/ame01753",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3354/ame01753",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421620,
+      "identifier": "https://doi.org//10.1016/j.biombioe.2020.105726",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biombioe.2020.105726",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421623,
+      "identifier": "https://doi.org//10.1016/j.jclepro.2022.131227",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jclepro.2022.131227",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421626,
+      "identifier": "https://doi.org//10.1038/nmeth.3869",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/nmeth.3869",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421629,
+      "identifier": "https://doi.org//10.1186/s12934-019-1087-z",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1186/s12934-019-1087-z",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421632,
+      "identifier": "https://doi.org//10.1073/pnas.1000080107",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1073/pnas.1000080107",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421635,
+      "identifier": "https://doi.org//10.1016/j.jpowsour.2007.09.083",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jpowsour.2007.09.083",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421638,
+      "identifier": "https://doi.org//10.1016/j.biortech.2009.02.065",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2009.02.065",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421641,
+      "identifier": "https://doi.org//10.1007/s10529-010-0507-2",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s10529-010-0507-2",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421644,
+      "identifier": "https://doi.org//10.2166/wst.2000.0056",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.2166/wst.2000.0056",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421647,
+      "identifier": "https://doi.org//10.1016/j.jelechem.2019.02.004",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jelechem.2019.02.004",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421650,
+      "identifier": "https://doi.org//10.3389/fmicb.2021.657467",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fmicb.2021.657467",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421653,
+      "identifier": "https://doi.org//10.3390/bioengineering10121380",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3390/bioengineering10121380",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421656,
+      "identifier": "https://doi.org//10.1016/j.bios.2023.115806",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.bios.2023.115806",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421659,
+      "identifier": "https://doi.org//10.1016/j.jclepro.2016.02.022",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jclepro.2016.02.022",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421662,
+      "identifier": "https://doi.org//10.1016/j.bioelechem.2017.07.006",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.bioelechem.2017.07.006",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421665,
+      "identifier": "https://doi.org//10.4155/bfs.13.69",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.4155/bfs.13.69",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421668,
+      "identifier": "https://doi.org//10.3390/microorganisms9081709",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3390/microorganisms9081709",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421671,
+      "identifier": "https://doi.org//10.1038/s41598-019-39267-2",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/s41598-019-39267-2",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421674,
+      "identifier": "https://doi.org//10.1128/AEM.01392-10",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1128/AEM.01392-10",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421677,
+      "identifier": "https://doi.org//10.1021/es102645v",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/es102645v",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421680,
+      "identifier": "https://doi.org//10.1016/j.ijhydene.2011.07.128",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.ijhydene.2011.07.128",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421683,
+      "identifier": "https://doi.org//10.1016/j.biortech.2014.09.091",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2014.09.091",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421686,
+      "identifier": "https://doi.org//10.1016/j.watres.2007.10.036",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.watres.2007.10.036",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421689,
+      "identifier": "https://doi.org//10.1128/aem.02181-22",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1128/aem.02181-22",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421692,
+      "identifier": "https://doi.org//10.1038/nrmicro2113",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/nrmicro2113",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421695,
+      "identifier": "https://doi.org//10.4028/www.scientific.net/AMR.724-725.762",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.4028/www.scientific.net/AMR.724-725.762",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421698,
+      "identifier": "https://doi.org//10.1016/S0960-8524(00)00023-7",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/S0960-8524(00)00023-7",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421701,
+      "identifier": "https://doi.org//10.1371/journal.pone.0061217",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1371/journal.pone.0061217",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421704,
+      "identifier": "https://doi.org//10.1016/j.biortech.2014.06.090",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2014.06.090",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421707,
+      "identifier": "https://doi.org//10.1016/j.watres.2005.09.039",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.watres.2005.09.039",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421710,
+      "identifier": "https://doi.org//10.1016/j.elecom.2019.106529",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.elecom.2019.106529",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421713,
+      "identifier": "https://doi.org//10.1016/j.apenergy.2016.01.056",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.apenergy.2016.01.056",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421716,
+      "identifier": "https://doi.org//10.1016/j.biortech.2009.10.017",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2009.10.017",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421719,
+      "identifier": "https://doi.org//10.1111/1462-2920.13023",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/1462-2920.13023",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421722,
+      "identifier": "https://doi.org//10.1007/11663_2013_2",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/11663_2013_2",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421725,
+      "identifier": "https://doi.org//10.1016/j.chemosphere.2021.131856",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.chemosphere.2021.131856",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421728,
+      "identifier": "https://doi.org//10.1016/j.cej.2012.09.009",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.cej.2012.09.009",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421731,
+      "identifier": "https://doi.org//10.1002/cssc.202100294",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/cssc.202100294",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421734,
+      "identifier": "https://doi.org//10.1016/j.heliyon.2022.e12353",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.heliyon.2022.e12353",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421737,
+      "identifier": "https://doi.org//10.1016/j.bios.2016.10.014",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.bios.2016.10.014",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421740,
+      "identifier": "https://doi.org//10.3389/fmicb.2018.00378",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fmicb.2018.00378",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421743,
+      "identifier": "https://doi.org//10.1016/j.biortech.2008.07.067",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2008.07.067",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421746,
+      "identifier": "https://doi.org//10.1016/j.biortech.2011.10.088",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2011.10.088",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421749,
+      "identifier": "https://doi.org//10.1007/s00253-007-1198-z",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s00253-007-1198-z",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421752,
+      "identifier": "https://doi.org//10.1016/j.apenergy.2016.10.109",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.apenergy.2016.10.109",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421755,
+      "identifier": "https://doi.org//10.1016/S0043-1354(01)00148-8",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/S0043-1354(01)00148-8",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421758,
+      "identifier": "https://doi.org//10.1007/s00253-011-3126-5",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s00253-011-3126-5",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421761,
+      "identifier": "https://doi.org//10.3389/fmicb.2019.00398",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fmicb.2019.00398",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421764,
+      "identifier": "https://doi.org//10.1016/j.rser.2020.110460",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.rser.2020.110460",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421767,
+      "identifier": "https://doi.org//10.1038/ismej.2012.42",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/ismej.2012.42",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421770,
+      "identifier": "https://doi.org//10.1093/nar/gkt1209",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1093/nar/gkt1209",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421773,
+      "identifier": "https://doi.org//10.1016/j.jenvman.2022.115152",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jenvman.2022.115152",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421776,
+      "identifier": "https://doi.org//10.1016/j.watres.2016.07.038",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.watres.2016.07.038",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421779,
+      "identifier": "https://doi.org//10.1021/es400631r",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/es400631r",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421782,
+      "identifier": "https://doi.org//10.1016/j.biortech.2010.09.044",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2010.09.044",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421785,
+      "identifier": "https://doi.org//10.1007/s00253-020-10547-6",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s00253-020-10547-6",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421788,
+      "identifier": "https://doi.org//10.3390/w13050606",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3390/w13050606",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421791,
+      "identifier": "https://doi.org//10.1128/mBio.00584-12",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1128/mBio.00584-12",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421794,
+      "identifier": "https://doi.org//10.1016/j.watres.2017.12.026",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.watres.2017.12.026",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 212421797,
+      "identifier": "10.3389/fmicb.2024.1511142",
+      "identifier_type": "DOI",
+      "is_linkout": true,
+      "link": "https://doi.org/10.3389/fmicb.2024.1511142",
+      "relation": "IsSupplementTo",
+      "title": "Understanding the limitations of substrate degradation in bioelectrochemical systems"
+    }
+  ],
+  "resource_doi": "10.3389/fmicb.2024.1511142",
+  "resource_title": "Understanding the limitations of substrate degradation in bioelectrochemical systems",
+  "size": 1845616,
+  "status": "public",
+  "tags": [
+    "microbial fuel cells",
+    "wastewater treatment",
+    "microbial metabolism",
+    "substrate degradation",
+    "mass transfer",
+    "kinetics"
+  ],
+  "thumb": "https://s3-eu-west-1.amazonaws.com/ppreviews-frontiersin-8483929402184328/51493001/thumb.png",
+  "timeline": {
+    "firstOnline": "2025-01-06T06:50:53",
+    "posted": "2025-01-06T06:50:53"
+  },
+  "title": "Data Sheet 1_Understanding the limitations of substrate degradation in bioelectrochemical systems.pdf",
+  "url": "https://api.figshare.com/v2/articles/28140617",
+  "url_private_api": "https://api.figshare.com/v2/account/articles/28140617",
+  "url_private_html": "https://figshare.com/account/articles/28140617",
+  "url_public_api": "https://api.figshare.com/v2/articles/28140617",
+  "url_public_html": "https://frontiersin.figshare.com/articles/dataset/Data_Sheet_1_Understanding_the_limitations_of_substrate_degradation_in_bioelectrochemical_systems_pdf/28140617",
+  "version": 1
+}

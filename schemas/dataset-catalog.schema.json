@@ -26,9 +26,13 @@
         ],
         "additionalProperties": false,
         "properties": {
-          "source": { "type": "string", "enum": ["zenodo"] },
+          "source": { "type": "string", "enum": ["zenodo", "figshare"] },
           "id": { "type": "string" },
           "doi": { "type": ["string", "null"] },
+          "paper_doi": {
+            "type": ["string", "null"],
+            "description": "DOI of the paper this record supplements, when known. Join key to papers databases."
+          },
           "title": { "type": "string" },
           "publication_date": { "type": ["string", "null"] },
           "license": { "type": ["string", "null"] },

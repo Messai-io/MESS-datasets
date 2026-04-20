@@ -9,7 +9,7 @@
   "properties": {
     "source": {
       "type": "string",
-      "enum": ["zenodo"],
+      "enum": ["zenodo", "figshare"],
       "description": "Upstream source. New sources (figshare, ncbi, ...) are added here as we ingest them."
     },
     "id": {
@@ -18,6 +18,10 @@
     },
     "doi": {
       "type": ["string", "null"]
+    },
+    "paper_doi": {
+      "type": ["string", "null"],
+      "description": "DOI of the published paper this record supplements, if known. Figshare exposes this as `resource_doi`; Zenodo may expose via `related_identifiers` (relation=isSupplementTo). Join key to a papers database."
     },
     "fetched_at": {
       "type": "string",

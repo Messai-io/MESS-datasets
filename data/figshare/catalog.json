@@ -1,0 +1,259 @@
+{
+  "generated_at": "2026-04-20T05:33:53+00:00",
+  "records": [
+    {
+      "creators": [
+        "Konstantin G. Nikolaev",
+        "Yury E. Ermolenko",
+        "Andreas Offenhäusser",
+        "Sergey S. Ermakov",
+        "Yulia G. Mourzina"
+      ],
+      "data_kinds": [],
+      "doi": "10.3389/fchem.2018.00256.s001",
+      "files": {
+        "committed_count": 1,
+        "count": 1,
+        "total_bytes": 220684
+      },
+      "id": "6724823",
+      "keywords": [
+        "electrochemical sensor",
+        "sensor array",
+        "metal nanowire assembly",
+        "multisensor system",
+        "non-enzymatic",
+        "glucose",
+        "ethanol",
+        "hydrogen peroxide"
+      ],
+      "last_synced": "2026-04-20T05:33:22+00:00",
+      "license": "CC BY 4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "paper_doi": "10.3389/fchem.2018.00256",
+      "publication_date": "2018-06-29",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "figshare",
+      "title": "Data_Sheet_1_Multisensor Systems by Electrochemical Nanowire Assembly for the Analysis of Aqueous Solutions.pdf"
+    },
+    {
+      "creators": [
+        "Jiawei Yang",
+        "Shaoan Cheng",
+        "Chaochao Li",
+        "Yi Sun",
+        "Haobin Huang"
+      ],
+      "data_kinds": [],
+      "doi": "10.3389/fmicb.2019.00398.s001",
+      "files": {
+        "committed_count": 1,
+        "count": 1,
+        "total_bytes": 405799
+      },
+      "id": "7808354",
+      "keywords": [
+        "anode biofilm",
+        "shear stress",
+        "anode performance",
+        "viability",
+        "microbial community"
+      ],
+      "last_synced": "2026-04-20T05:33:20+00:00",
+      "license": "CC BY 4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "paper_doi": "10.3389/fmicb.2019.00398",
+      "publication_date": "2019-03-06",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "figshare",
+      "title": "Table_1_Shear Stress Affects Biofilm Structure and Consequently Current Generation of Bioanode in Microbial Electrochemical Systems (MESs).docx"
+    },
+    {
+      "creators": [
+        "Cesar A. Hernandez",
+        "Johann F. Osma"
+      ],
+      "data_kinds": [],
+      "doi": "10.3389/fenvs.2020.00044.s001",
+      "files": {
+        "committed_count": 1,
+        "count": 1,
+        "total_bytes": 2190179
+      },
+      "id": "12286127",
+      "keywords": [
+        "microbial electrochemical system",
+        "characterization",
+        "classification",
+        "bibliographic analysis",
+        "review"
+      ],
+      "last_synced": "2026-04-20T05:33:27+00:00",
+      "license": "CC BY 4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "paper_doi": "10.3389/fenvs.2020.00044",
+      "publication_date": "2020-05-12",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "figshare",
+      "title": "Table_1_Microbial Electrochemical Systems: Deriving Future Trends From Historical Perspectives and Characterization Strategies.XLSX"
+    },
+    {
+      "creators": [
+        "Daniele Molognoni",
+        "Pau Bosch-Jimenez",
+        "Rubén Rodríguez-Alegre",
+        "Adrián Marí-Espinosa",
+        "Edxon Licon",
+        "Julia Gallego",
+        "Salvador Lladó",
+        "Eduard Borràs",
+        "Monica Della Pirriera"
+      ],
+      "data_kinds": [],
+      "doi": "10.3389/fenrg.2020.00174.s004",
+      "files": {
+        "committed_count": 1,
+        "count": 1,
+        "total_bytes": 682211
+      },
+      "id": "12725867",
+      "keywords": [
+        "carbon capture",
+        "electromethanogenesis",
+        "energy storage",
+        "methanation",
+        "microbial community",
+        "renewable energy"
+      ],
+      "last_synced": "2026-04-20T05:33:17+00:00",
+      "license": "CC BY 4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "paper_doi": "10.3389/fenrg.2020.00174",
+      "publication_date": "2020-07-28",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "figshare",
+      "title": "Table_1_How Operational Parameters Affect Electromethanogenesis in a Bioelectrochemical Power-to-Gas Prototype.DOCX"
+    },
+    {
+      "creators": [
+        "Da-Cheng Hao",
+        "Xiao-Jing Li",
+        "Pei-Gen Xiao",
+        "Lian-Feng Wang"
+      ],
+      "data_kinds": [],
+      "doi": "10.3389/fmicb.2020.557400.s001",
+      "files": {
+        "committed_count": 1,
+        "count": 1,
+        "total_bytes": 55649
+      },
+      "id": "13134110",
+      "keywords": [
+        "polycyclic aromatic hydrocarbon",
+        "microbial fuel cell",
+        "anode modification",
+        "electroactive microbe",
+        "degradation"
+      ],
+      "last_synced": "2026-04-20T05:33:30+00:00",
+      "license": "CC BY 4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "paper_doi": "10.3389/fmicb.2020.557400",
+      "publication_date": "2020-10-23",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "figshare",
+      "title": "Data_Sheet_1_The Utility of Electrochemical Systems in Microbial Degradation of Polycyclic Aromatic Hydrocarbons: Discourse, Diversity and Design.docx"
+    },
+    {
+      "creators": [
+        "Oriol Cabau-Peinado",
+        "Adrie J. J. Straathof",
+        "Ludovic Jourdin"
+      ],
+      "data_kinds": [],
+      "doi": "10.3389/fmicb.2021.669218.s001",
+      "files": {
+        "committed_count": 1,
+        "count": 1,
+        "total_bytes": 560741
+      },
+      "id": "14728959",
+      "keywords": [
+        "microbial electrosynthesis",
+        "bioelectrochemical system",
+        "microbial kinetics",
+        "mathematical model",
+        "CO2 reduction",
+        "chain elongation"
+      ],
+      "last_synced": "2026-04-20T05:33:29+00:00",
+      "license": "CC BY 4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "paper_doi": "10.3389/fmicb.2021.669218",
+      "publication_date": "2021-06-04",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "figshare",
+      "title": "Data_Sheet_1_A General Model for Biofilm-Driven Microbial Electrosynthesis of Carboxylates From CO2.docx"
+    },
+    {
+      "creators": [
+        "Hannah Bird",
+        "Sharon Velasquez-Orta",
+        "Elizabeth Heidrich"
+      ],
+      "data_kinds": [],
+      "doi": "10.3389/fmicb.2024.1511142.s001",
+      "files": {
+        "committed_count": 1,
+        "count": 1,
+        "total_bytes": 1845616
+      },
+      "id": "28140617",
+      "keywords": [
+        "microbial fuel cells",
+        "wastewater treatment",
+        "microbial metabolism",
+        "substrate degradation",
+        "mass transfer",
+        "kinetics"
+      ],
+      "last_synced": "2026-04-20T05:33:33+00:00",
+      "license": "CC BY 4.0",
+      "mes_domains": [],
+      "mes_relevance": null,
+      "paper_doi": "10.3389/fmicb.2024.1511142",
+      "publication_date": "2025-01-06",
+      "related_slugs": {
+        "materials": [],
+        "parameters": []
+      },
+      "source": "figshare",
+      "title": "Data Sheet 1_Understanding the limitations of substrate degradation in bioelectrochemical systems.pdf"
+    }
+  ]
+}
