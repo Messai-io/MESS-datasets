@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: dataset
+title: "@messai-io/mess-datasets-catalog"
+version: "0.1.0"
+abstract: "Catalog and classifications for open MES datasets (Zenodo, Figshare) — slug-keyed cross-reference to MESS-Parameters and MESS-Materials. Large data blobs live on Hugging Face Hub."
+repository-code: "https://github.com/Messai-io/MESS-datasets.git"
+url: "https://github.com/Messai-io/MESS-datasets"
+license: "CC-BY-4.0"
+authors:
+  - family-names: "Frons"
+    given-names: "Sam"
+    affiliation: "MESSAI"
