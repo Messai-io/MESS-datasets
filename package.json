@@ -1,0 +1,56 @@
+{
+  "name": "@messai-io/mess-datasets-catalog",
+  "version": "0.1.0",
+  "description": "Catalog and classifications for open MES datasets (Zenodo, Figshare) — slug-keyed cross-reference to MESS-Parameters and MESS-Materials. Large data blobs live on Hugging Face Hub.",
+  "main": "data/catalog.json",
+  "exports": {
+    ".": {
+      "import": "./data/catalog.json"
+    },
+    "./catalog": {
+      "import": "./data/catalog.json"
+    },
+    "./classifications": {
+      "import": "./data/classifications.yaml"
+    },
+    "./schemas": {
+      "import": "./schemas/dataset-catalog.schema.json"
+    }
+  },
+  "files": [
+    "data/catalog.json",
+    "data/classifications.yaml",
+    "data/README.md",
+    "data/zenodo/**/manifest.json",
+    "data/zenodo/**/metadata.json",
+    "data/zenodo/**/DATASHEET.md",
+    "data/figshare/**/manifest.json",
+    "data/figshare/**/metadata.json",
+    "data/figshare/**/DATASHEET.md",
+    "schemas",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "datasets",
+    "catalog",
+    "zenodo",
+    "figshare",
+    "mes",
+    "mfc",
+    "mec",
+    "biofilm",
+    "fair-data",
+    "open-science"
+  ],
+  "author": "MESSAI Community",
+  "license": "CC-BY-4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Messai-io/MESS-datasets.git"
+  },
+  "homepage": "https://github.com/Messai-io/MESS-datasets",
+  "bugs": {
+    "url": "https://github.com/Messai-io/MESS-datasets/issues"
+  }
+}
