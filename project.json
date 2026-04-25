@@ -1,0 +1,17 @@
+{
+  "name": "mess-datasets-catalog",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "open-source/mess-datasets-catalog",
+  "projectType": "library",
+  "tags": ["scope:open-source", "type:data"],
+  "targets": {
+    "lint": {
+      "executor": "@nx/eslint:lint",
+      "options": {
+        "lintFilePatterns": [
+          "open-source/mess-datasets-catalog/**/*.{ts,tsx,js,jsx}"
+        ]
+      }
+    }
+  }
+}
