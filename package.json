@@ -2,6 +2,15 @@
   "name": "@messai-io/mess-datasets-catalog",
   "version": "0.1.0",
   "description": "Catalog and classifications for open MES datasets (Zenodo, Figshare) — slug-keyed cross-reference to MESS-Parameters and MESS-Materials. Large data blobs live on Hugging Face Hub.",
+  "license": "CC-BY-4.0",
+  "homepage": "https://github.com/Messai-io/MESS-datasets",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Messai-io/MESS-datasets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Messai-io/MESS-datasets/issues"
+  },
   "main": "data/catalog.json",
   "exports": {
     ".": {
@@ -43,14 +52,5 @@
     "fair-data",
     "open-science"
   ],
-  "author": "MESSAI Community",
-  "license": "CC-BY-4.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Messai-io/MESS-datasets.git"
-  },
-  "homepage": "https://github.com/Messai-io/MESS-datasets",
-  "bugs": {
-    "url": "https://github.com/Messai-io/MESS-datasets/issues"
-  }
+  "author": "MESSAI Community"
 }
