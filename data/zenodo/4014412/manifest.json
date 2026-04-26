@@ -4,8 +4,8 @@
   "files": [
     {
       "checksum": "md5:d5fd337653e3ced8b1a4dd632bd934cf",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/4014412/files/Raw_data.xlsx/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/4014412/files/Raw_data.xlsx",
       "key": "Raw_data.xlsx",
       "local_path": "files/Raw_data.xlsx",
       "size": 199943,

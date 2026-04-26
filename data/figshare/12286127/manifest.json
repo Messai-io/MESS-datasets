@@ -4,8 +4,8 @@
   "files": [
     {
       "checksum": "md5:2a295fbcac2a6bbb9d1400897e08c208",
-      "committed": true,
-      "download_url": "https://ndownloader.figshare.com/files/22641365",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/figshare/12286127/files/Table_1_Microbial Electrochemical Systems: Deriving Future Trends From Historical Perspectives and Characterization Strategies.XLSX",
       "key": "Table_1_Microbial Electrochemical Systems: Deriving Future Trends From Historical Perspectives and Characterization Strategies.XLSX",
       "local_path": "files/Table_1_Microbial Electrochemical Systems: Deriving Future Trends From Historical Perspectives and Characterization Strategies.XLSX",
       "size": 2190179,

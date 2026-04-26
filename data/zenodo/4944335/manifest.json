@@ -4,8 +4,8 @@
   "files": [
     {
       "checksum": "md5:800420d9591c61541494dba7a5e82adb",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/4944335/files/Proxy%20component%20spectra.WIP/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/4944335/files/Proxy component spectra.WIP",
       "key": "Proxy component spectra.WIP",
       "local_path": "files/Proxy component spectra.WIP",
       "size": 673643,

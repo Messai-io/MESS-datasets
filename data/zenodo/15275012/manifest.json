@@ -4,8 +4,8 @@
   "files": [
     {
       "checksum": "md5:1ca1706091c884e2bf3565201caf17f2",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/15275012/files/Dataset%20-%20Stabilising%20methane%20production%20in%20a%20series-stack%20of%20bioelectrochemical%20systems.ods/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/15275012/files/Dataset - Stabilising methane production in a series-stack of bioelectrochemical systems.ods",
       "key": "Dataset - Stabilising methane production in a series-stack of bioelectrochemical systems.ods",
       "local_path": "files/Dataset - Stabilising methane production in a series-stack of bioelectrochemical systems.ods",
       "size": 437182,

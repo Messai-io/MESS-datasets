@@ -4,8 +4,8 @@
   "files": [
     {
       "checksum": "md5:4ac12cf36b277e46c7c7b59bfa4b8635",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/10517218/files/Figure_4_S2.xlsx/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/10517218/files/Figure_4_S2.xlsx",
       "key": "Figure_4_S2.xlsx",
       "local_path": "files/Figure_4_S2.xlsx",
       "size": 10121,
@@ -13,8 +13,8 @@
     },
     {
       "checksum": "md5:89ec5603fb7dbd6b09b78ccaf0849b6b",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/10517218/files/Figure_6_S3_S4.xlsx/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/10517218/files/Figure_6_S3_S4.xlsx",
       "key": "Figure_6_S3_S4.xlsx",
       "local_path": "files/Figure_6_S3_S4.xlsx",
       "size": 57326,
@@ -22,8 +22,8 @@
     },
     {
       "checksum": "md5:40cbb029795a171e228b91fd756a68dc",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/10517218/files/Figure_3.xlsx/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/10517218/files/Figure_3.xlsx",
       "key": "Figure_3.xlsx",
       "local_path": "files/Figure_3.xlsx",
       "size": 418581,
@@ -31,8 +31,8 @@
     },
     {
       "checksum": "md5:5bd618f333156d11ed59a28510a27844",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/10517218/files/Figure_5.xlsx/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/10517218/files/Figure_5.xlsx",
       "key": "Figure_5.xlsx",
       "local_path": "files/Figure_5.xlsx",
       "size": 25518,

@@ -4,8 +4,8 @@
   "files": [
     {
       "checksum": "md5:11a45850e1513442bba0686cce1c3de0",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/4529615/files/Novel%20bioelectrochemical%20strategies%20for%20domesticating%20the%20electron%20flow.xlsx/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/4529615/files/Novel bioelectrochemical strategies for domesticating the electron flow.xlsx",
       "key": "Novel bioelectrochemical strategies for domesticating the electron flow.xlsx",
       "local_path": "files/Novel bioelectrochemical strategies for domesticating the electron flow.xlsx",
       "size": 27738,

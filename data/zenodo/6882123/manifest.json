@@ -4,8 +4,8 @@
   "files": [
     {
       "checksum": "md5:136036e16c0c381651dcfe2495acb877",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/6882123/files/Dataset%20Losantosetal.xlsx/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/6882123/files/Dataset Losantosetal.xlsx",
       "key": "Dataset Losantosetal.xlsx",
       "local_path": "files/Dataset Losantosetal.xlsx",
       "size": 155542,

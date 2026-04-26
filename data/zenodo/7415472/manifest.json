@@ -4,8 +4,8 @@
   "files": [
     {
       "checksum": "md5:412e650ae6c506609483a33bd67b9e72",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/7415472/files/Cruz%20Viggi_2022_Electra_ecotox%20test%20results_dataset.xlsx/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/7415472/files/Cruz Viggi_2022_Electra_ecotox test results_dataset.xlsx",
       "key": "Cruz Viggi_2022_Electra_ecotox test results_dataset.xlsx",
       "local_path": "files/Cruz Viggi_2022_Electra_ecotox test results_dataset.xlsx",
       "size": 58933,

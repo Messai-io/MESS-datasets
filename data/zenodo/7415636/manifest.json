@@ -4,8 +4,8 @@
   "files": [
     {
       "checksum": "md5:b1c5f74c8714f798ce9d69f48d4a81f7",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/7415636/files/DellArmi_2022_ELECTRA_paper_ecotox_dataset.xlsx/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/7415636/files/DellArmi_2022_ELECTRA_paper_ecotox_dataset.xlsx",
       "key": "DellArmi_2022_ELECTRA_paper_ecotox_dataset.xlsx",
       "local_path": "files/DellArmi_2022_ELECTRA_paper_ecotox_dataset.xlsx",
       "size": 99339,

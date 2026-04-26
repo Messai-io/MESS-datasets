@@ -4,8 +4,8 @@
   "files": [
     {
       "checksum": "md5:c575ec757c8c1224f901ec14fb099650",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/7050972/files/statistics%20summary.csv/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/7050972/files/statistics summary.csv",
       "key": "statistics summary.csv",
       "local_path": "files/statistics summary.csv",
       "size": 15438,
@@ -22,8 +22,8 @@
     },
     {
       "checksum": "md5:7f6aa63af37f11ce0e1be8a807d70d7f",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/7050972/files/Slope%20EF.py/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/7050972/files/Slope EF.py",
       "key": "Slope EF.py",
       "local_path": "files/Slope EF.py",
       "size": 3634,
@@ -31,8 +31,8 @@
     },
     {
       "checksum": "md5:96bb6496ad75481d561541c44d3f4da0",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/7050972/files/2D%20Bayesian%20Optimization%20mapping.py/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/7050972/files/2D Bayesian Optimization mapping.py",
       "key": "2D Bayesian Optimization mapping.py",
       "local_path": "files/2D Bayesian Optimization mapping.py",
       "size": 6074,
@@ -40,8 +40,8 @@
     },
     {
       "checksum": "md5:d23a2480da439992928a2cec98c567aa",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/7050972/files/2D%20Bayesian%20Optimization_slice.py/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/7050972/files/2D Bayesian Optimization_slice.py",
       "key": "2D Bayesian Optimization_slice.py",
       "local_path": "files/2D Bayesian Optimization_slice.py",
       "size": 3125,

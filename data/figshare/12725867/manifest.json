@@ -4,8 +4,8 @@
   "files": [
     {
       "checksum": "md5:06b72fdb5942b21afb653afbfd5b6b8d",
-      "committed": true,
-      "download_url": "https://ndownloader.figshare.com/files/24088727",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/figshare/12725867/files/Table_1_How Operational Parameters Affect Electromethanogenesis in a Bioelectrochemical Power-to-Gas Prototype.DOCX",
       "key": "Table_1_How Operational Parameters Affect Electromethanogenesis in a Bioelectrochemical Power-to-Gas Prototype.DOCX",
       "local_path": "files/Table_1_How Operational Parameters Affect Electromethanogenesis in a Bioelectrochemical Power-to-Gas Prototype.DOCX",
       "size": 682211,

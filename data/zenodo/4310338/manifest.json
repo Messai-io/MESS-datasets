@@ -4,8 +4,8 @@
   "files": [
     {
       "checksum": "md5:f2ab49cfa340802c8de945e570926d39",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/4310338/files/Microbial%20community%20analysis.xlsx/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/4310338/files/Microbial community analysis.xlsx",
       "key": "Microbial community analysis.xlsx",
       "local_path": "files/Microbial community analysis.xlsx",
       "size": 377320,

@@ -4,8 +4,8 @@
   "files": [
     {
       "checksum": "md5:0a31e660a91073ec406177c5b3706149",
-      "committed": true,
-      "download_url": "https://ndownloader.figshare.com/files/14530637",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/figshare/7808354/files/Table_1_Shear Stress Affects Biofilm Structure and Consequently Current Generation of Bioanode in Microbial Electrochemical Systems (MESs).docx",
       "key": "Table_1_Shear Stress Affects Biofilm Structure and Consequently Current Generation of Bioanode in Microbial Electrochemical Systems (MESs).docx",
       "local_path": "files/Table_1_Shear Stress Affects Biofilm Structure and Consequently Current Generation of Bioanode in Microbial Electrochemical Systems (MESs).docx",
       "size": 405799,

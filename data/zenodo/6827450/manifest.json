@@ -58,8 +58,8 @@
     },
     {
       "checksum": "md5:296ffda6322766565340e4b1d9d5c9a8",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/6827450/files/bewise_baffles_summary.csv/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/6827450/files/bewise_baffles_summary.csv",
       "key": "bewise_baffles_summary.csv",
       "local_path": "files/bewise_baffles_summary.csv",
       "size": 36406,
@@ -229,8 +229,8 @@
     },
     {
       "checksum": "md5:1bcd20bb29e91a9e9c6cb87ddd11fc0d",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/6827450/files/Pilot_baffles_length_comp.csv/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/6827450/files/Pilot_baffles_length_comp.csv",
       "key": "Pilot_baffles_length_comp.csv",
       "local_path": "files/Pilot_baffles_length_comp.csv",
       "size": 59578,

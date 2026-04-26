@@ -4,8 +4,8 @@
   "files": [
     {
       "checksum": "md5:c2d78f58eaf27f5e8b0a3b245837bcc6",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/15300087/files/Iowa_weather_data_2020.csv/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/15300087/files/Iowa_weather_data_2020.csv",
       "key": "Iowa_weather_data_2020.csv",
       "local_path": "files/Iowa_weather_data_2020.csv",
       "size": 814097,

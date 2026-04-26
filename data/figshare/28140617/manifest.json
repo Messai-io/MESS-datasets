@@ -4,8 +4,8 @@
   "files": [
     {
       "checksum": "md5:22f56cc275ddba899489a1a2ce7e91be",
-      "committed": true,
-      "download_url": "https://ndownloader.figshare.com/files/51493001",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/figshare/28140617/files/Data Sheet 1_Understanding the limitations of substrate degradation in bioelectrochemical systems.pdf",
       "key": "Data Sheet 1_Understanding the limitations of substrate degradation in bioelectrochemical systems.pdf",
       "local_path": "files/Data Sheet 1_Understanding the limitations of substrate degradation in bioelectrochemical systems.pdf",
       "size": 1845616,

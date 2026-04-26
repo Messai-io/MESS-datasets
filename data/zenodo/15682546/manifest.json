@@ -13,8 +13,8 @@
     },
     {
       "checksum": "md5:3c6a2da4ca1f8964cf7a892dc6cd273f",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/15682546/files/ReadMeFile.txt/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/15682546/files/ReadMeFile.txt",
       "key": "ReadMeFile.txt",
       "local_path": "files/ReadMeFile.txt",
       "size": 20623,

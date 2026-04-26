@@ -4,8 +4,8 @@
   "files": [
     {
       "checksum": "md5:1605a382c1848c263e2ca7e85ed150e8",
-      "committed": true,
-      "download_url": "https://ndownloader.figshare.com/files/28294476",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/figshare/14728959/files/Data_Sheet_1_A General Model for Biofilm-Driven Microbial Electrosynthesis of Carboxylates From CO2.docx",
       "key": "Data_Sheet_1_A General Model for Biofilm-Driven Microbial Electrosynthesis of Carboxylates From CO2.docx",
       "local_path": "files/Data_Sheet_1_A General Model for Biofilm-Driven Microbial Electrosynthesis of Carboxylates From CO2.docx",
       "size": 560741,

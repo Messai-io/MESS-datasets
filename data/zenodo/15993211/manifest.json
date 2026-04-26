@@ -4,8 +4,8 @@
   "files": [
     {
       "checksum": "md5:0aaccbebe5d1fe50f6601e9ef5b6142f",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/15993211/files/Fig2A.xlsx/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/15993211/files/Fig2A.xlsx",
       "key": "Fig2A.xlsx",
       "local_path": "files/Fig2A.xlsx",
       "size": 55126,
@@ -13,8 +13,8 @@
     },
     {
       "checksum": "md5:f32daba0d4b263d1ef31928faf51e375",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/15993211/files/Fig2E.xlsx/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/15993211/files/Fig2E.xlsx",
       "key": "Fig2E.xlsx",
       "local_path": "files/Fig2E.xlsx",
       "size": 188513,
@@ -22,8 +22,8 @@
     },
     {
       "checksum": "md5:0dfb6afc451ac92aaf1f9719923703e4",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/15993211/files/Fig2D.xlsx/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/15993211/files/Fig2D.xlsx",
       "key": "Fig2D.xlsx",
       "local_path": "files/Fig2D.xlsx",
       "size": 139643,
@@ -31,8 +31,8 @@
     },
     {
       "checksum": "md5:03ce163ab0eaf95bd172ec0cadf30bf9",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/15993211/files/Fig2F.xlsx/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/15993211/files/Fig2F.xlsx",
       "key": "Fig2F.xlsx",
       "local_path": "files/Fig2F.xlsx",
       "size": 159044,
@@ -40,8 +40,8 @@
     },
     {
       "checksum": "md5:f77b1e2ee322e4ba94cbdd6eb722347e",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/15993211/files/Fig2C.xlsx/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/15993211/files/Fig2C.xlsx",
       "key": "Fig2C.xlsx",
       "local_path": "files/Fig2C.xlsx",
       "size": 290216,
@@ -49,8 +49,8 @@
     },
     {
       "checksum": "md5:2cc1557ef8fd60020bdcd74adf81c932",
-      "committed": true,
-      "download_url": "https://zenodo.org/api/records/15993211/files/Fig2B.xlsx/content",
+      "committed": false,
+      "download_url": "https://huggingface.co/datasets/messai-io/mess-datasets/resolve/main/zenodo/15993211/files/Fig2B.xlsx",
       "key": "Fig2B.xlsx",
       "local_path": "files/Fig2B.xlsx",
       "size": 33739,
