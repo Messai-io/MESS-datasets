@@ -1,8 +1,8 @@
 # Zenodo (data/zenodo/)
 
 Datasets ingested from [Zenodo](https://zenodo.org), CERN's general-purpose
-open-science repository. Relevant records are discovered via keyword
-searches (see `seed.yaml` → `search_provenance`) and pulled through
+open-science repository. Relevant records are discovered via keyword searches
+(see `seed.yaml` → `search_provenance`) and pulled through
 `scripts/fetch-zenodo.py`.
 
 ## Layout
@@ -22,11 +22,11 @@ data/zenodo/
 
 ## Licensing
 
-Upstream Zenodo records carry their own licenses (most MES-relevant
-ones are CC-BY-4.0, CC0-1.0, or MIT). Each record's `DATASHEET.md`
-states the upstream license and required attribution. Downstream
-consumers MUST honor upstream terms — the repo-level CC-BY-4.0 covers
-our curation work, not the underlying datasets.
+Upstream Zenodo records carry their own licenses (most MES-relevant ones are
+CC-BY-4.0, CC0-1.0, or MIT). Each record's `DATASHEET.md` states the upstream
+license and required attribution. Downstream consumers MUST honor upstream terms
+— the repo-level CC-BY-4.0 covers our curation work, not the underlying
+datasets.
 
 ## API notes
 

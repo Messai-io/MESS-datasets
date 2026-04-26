@@ -11,9 +11,9 @@
 
 ## Files
 
-| Key | Size (bytes) | Committed | Local path |
-| --- | --- | --- | --- |
-| `dataset.zip` | 1031670 | no (.source/) | `.source/dataset.zip` |
+| Key           | Size (bytes) | Committed     | Local path            |
+| ------------- | ------------ | ------------- | --------------------- |
+| `dataset.zip` | 1031670      | no (.source/) | `.source/dataset.zip` |
 
 ## Abstract (from Zenodo)
 
@@ -22,10 +22,10 @@
 
 ## MES relevance
 
-_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`,
-and `related_slugs` in `catalog.json` during the classification pass.
+_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`, and
+`related_slugs` in `catalog.json` during the classification pass.
 
 ## Attribution
 
-Cite the upstream record per its license. Zenodo DOI is the canonical
-citation anchor.
+Cite the upstream record per its license. Zenodo DOI is the canonical citation
+anchor.

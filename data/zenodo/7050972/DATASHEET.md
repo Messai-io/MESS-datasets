@@ -11,13 +11,13 @@
 
 ## Files
 
-| Key | Size (bytes) | Committed | Local path |
-| --- | --- | --- | --- |
-| `statistics summary.csv` | 15438 | yes | `files/statistics summary.csv` |
-| `Data with average of four data sets for impact of mediators.zip` | 57418251 | no (.source/) | `.source/Data with average of four data sets for impact of mediators.zip` |
-| `Slope EF.py` | 3634 | yes | `files/Slope EF.py` |
-| `2D Bayesian Optimization mapping.py` | 6074 | yes | `files/2D Bayesian Optimization mapping.py` |
-| `2D Bayesian Optimization_slice.py` | 3125 | yes | `files/2D Bayesian Optimization_slice.py` |
+| Key                                                               | Size (bytes) | Committed     | Local path                                                                |
+| ----------------------------------------------------------------- | ------------ | ------------- | ------------------------------------------------------------------------- |
+| `statistics summary.csv`                                          | 15438        | yes           | `files/statistics summary.csv`                                            |
+| `Data with average of four data sets for impact of mediators.zip` | 57418251     | no (.source/) | `.source/Data with average of four data sets for impact of mediators.zip` |
+| `Slope EF.py`                                                     | 3634         | yes           | `files/Slope EF.py`                                                       |
+| `2D Bayesian Optimization mapping.py`                             | 6074         | yes           | `files/2D Bayesian Optimization mapping.py`                               |
+| `2D Bayesian Optimization_slice.py`                               | 3125         | yes           | `files/2D Bayesian Optimization_slice.py`                                 |
 
 ## Abstract (from Zenodo)
 
@@ -32,10 +32,10 @@
 
 ## MES relevance
 
-_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`,
-and `related_slugs` in `catalog.json` during the classification pass.
+_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`, and
+`related_slugs` in `catalog.json` during the classification pass.
 
 ## Attribution
 
-Cite the upstream record per its license. Zenodo DOI is the canonical
-citation anchor.
+Cite the upstream record per its license. Zenodo DOI is the canonical citation
+anchor.

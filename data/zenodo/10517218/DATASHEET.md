@@ -11,12 +11,12 @@
 
 ## Files
 
-| Key | Size (bytes) | Committed | Local path |
-| --- | --- | --- | --- |
-| `Figure_4_S2.xlsx` | 10121 | yes | `files/Figure_4_S2.xlsx` |
-| `Figure_6_S3_S4.xlsx` | 57326 | yes | `files/Figure_6_S3_S4.xlsx` |
-| `Figure_3.xlsx` | 418581 | yes | `files/Figure_3.xlsx` |
-| `Figure_5.xlsx` | 25518 | yes | `files/Figure_5.xlsx` |
+| Key                   | Size (bytes) | Committed | Local path                  |
+| --------------------- | ------------ | --------- | --------------------------- |
+| `Figure_4_S2.xlsx`    | 10121        | yes       | `files/Figure_4_S2.xlsx`    |
+| `Figure_6_S3_S4.xlsx` | 57326        | yes       | `files/Figure_6_S3_S4.xlsx` |
+| `Figure_3.xlsx`       | 418581       | yes       | `files/Figure_3.xlsx`       |
+| `Figure_5.xlsx`       | 25518        | yes       | `files/Figure_5.xlsx`       |
 
 ## Abstract (from Zenodo)
 
@@ -24,10 +24,10 @@
 
 ## MES relevance
 
-_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`,
-and `related_slugs` in `catalog.json` during the classification pass.
+_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`, and
+`related_slugs` in `catalog.json` during the classification pass.
 
 ## Attribution
 
-Cite the upstream record per its license. Zenodo DOI is the canonical
-citation anchor.
+Cite the upstream record per its license. Zenodo DOI is the canonical citation
+anchor.

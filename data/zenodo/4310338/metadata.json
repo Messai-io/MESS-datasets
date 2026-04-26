@@ -85,9 +85,7 @@
     ],
     "description": "<p>Electroactive biofilm sequencing from bioelectrochemical reactors, during experiments&nbsp;that exposed to H<sub>2</sub>O<sub>2&nbsp;</sub>in an adjacent chamber</p>",
     "doi": "10.5281/zenodo.4310338",
-    "keywords": [
-      "EABS sequencing"
-    ],
+    "keywords": ["EABS sequencing"],
     "license": {
       "id": "cc-by-4.0"
     },
