@@ -6,15 +6,14 @@
 - **Publication date**: 2022-12-08
 - **License (upstream)**: cc-by-4.0
 - **Creators**: Viktória Feigl, Mónika Molnár, Zsófia Berkl, Imre Németh
-- **Keywords**: ecotoxicity, ecotoxicity test battery, water ecotoxicity
-  testing, bioelectrochemical treatment
+- **Keywords**: ecotoxicity, ecotoxicity test battery, water ecotoxicity testing, bioelectrochemical treatment
 - **Fetched**: 2026-04-20T04:48:59+00:00
 
 ## Files
 
-| Key                                               | Size (bytes) | Committed | Local path                                              |
-| ------------------------------------------------- | ------------ | --------- | ------------------------------------------------------- |
-| `DellArmi_2022_ELECTRA_paper_ecotox_dataset.xlsx` | 99339        | yes       | `files/DellArmi_2022_ELECTRA_paper_ecotox_dataset.xlsx` |
+| Key | Size (bytes) | Committed | Local path |
+| --- | --- | --- | --- |
+| `DellArmi_2022_ELECTRA_paper_ecotox_dataset.xlsx` | 99339 | yes | `files/DellArmi_2022_ELECTRA_paper_ecotox_dataset.xlsx` |
 
 ## Abstract (from Zenodo)
 
@@ -22,10 +21,10 @@
 
 ## MES relevance
 
-_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`, and
-`related_slugs` in `catalog.json` during the classification pass.
+_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`,
+and `related_slugs` in `catalog.json` during the classification pass.
 
 ## Attribution
 
-Cite the upstream record per its license. Zenodo DOI is the canonical citation
-anchor.
+Cite the upstream record per its license. Zenodo DOI is the canonical
+citation anchor.

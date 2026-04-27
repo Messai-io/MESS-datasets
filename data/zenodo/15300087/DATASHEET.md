@@ -11,10 +11,10 @@
 
 ## Files
 
-| Key                          | Size (bytes) | Committed     | Local path                         |
-| ---------------------------- | ------------ | ------------- | ---------------------------------- |
-| `Iowa_weather_data_2020.csv` | 814097       | yes           | `files/Iowa_weather_data_2020.csv` |
-| `discqw.csv`                 | 30305717     | no (.source/) | `.source/discqw.csv`               |
+| Key | Size (bytes) | Committed | Local path |
+| --- | --- | --- | --- |
+| `Iowa_weather_data_2020.csv` | 814097 | yes | `files/Iowa_weather_data_2020.csv` |
+| `discqw.csv` | 30305717 | no (.source/) | `.source/discqw.csv` |
 
 ## Abstract (from Zenodo)
 
@@ -22,10 +22,10 @@ _no description provided_
 
 ## MES relevance
 
-_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`, and
-`related_slugs` in `catalog.json` during the classification pass.
+_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`,
+and `related_slugs` in `catalog.json` during the classification pass.
 
 ## Attribution
 
-Cite the upstream record per its license. Zenodo DOI is the canonical citation
-anchor.
+Cite the upstream record per its license. Zenodo DOI is the canonical
+citation anchor.

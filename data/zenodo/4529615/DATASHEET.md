@@ -5,17 +5,15 @@
 - **DOI**: [10.5281/zenodo.4529615](https://doi.org/10.5281/zenodo.4529615)
 - **Publication date**: 2020-05-16
 - **License (upstream)**: cc-by-4.0
-- **Creators**: Amanda Prado, Carlos A. Ramírez-Vargas, Carlos A. Arias, Abraham
-  Esteve-Núñez
-- **Keywords**: Constructed wetland, METland®, Microbial electrochemical
-  technologies, Electroactive bacteria, Ec-biochar
+- **Creators**: Amanda Prado, Carlos A. Ramírez-Vargas, Carlos A. Arias, Abraham Esteve-Núñez
+- **Keywords**: Constructed wetland, METland®, Microbial electrochemical technologies, Electroactive bacteria, Ec-biochar
 - **Fetched**: 2026-04-20T04:49:56+00:00
 
 ## Files
 
-| Key                                                                            | Size (bytes) | Committed | Local path                                                                           |
-| ------------------------------------------------------------------------------ | ------------ | --------- | ------------------------------------------------------------------------------------ |
-| `Novel bioelectrochemical strategies for domesticating the electron flow.xlsx` | 27738        | yes       | `files/Novel bioelectrochemical strategies for domesticating the electron flow.xlsx` |
+| Key | Size (bytes) | Committed | Local path |
+| --- | --- | --- | --- |
+| `Novel bioelectrochemical strategies for domesticating the electron flow.xlsx` | 27738 | yes | `files/Novel bioelectrochemical strategies for domesticating the electron flow.xlsx` |
 
 ## Abstract (from Zenodo)
 
@@ -23,10 +21,10 @@
 
 ## MES relevance
 
-_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`, and
-`related_slugs` in `catalog.json` during the classification pass.
+_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`,
+and `related_slugs` in `catalog.json` during the classification pass.
 
 ## Attribution
 
-Cite the upstream record per its license. Zenodo DOI is the canonical citation
-anchor.
+Cite the upstream record per its license. Zenodo DOI is the canonical
+citation anchor.

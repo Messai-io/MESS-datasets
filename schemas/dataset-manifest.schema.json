@@ -32,14 +32,7 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": [
-          "key",
-          "size",
-          "checksum",
-          "download_url",
-          "committed",
-          "local_path"
-        ],
+        "required": ["key", "size", "checksum", "download_url", "committed", "local_path"],
         "additionalProperties": false,
         "properties": {
           "key": { "type": "string", "description": "Upstream filename." },

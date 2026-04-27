@@ -6,16 +6,15 @@
 - **Publication date**: 2025-06-17
 - **License (upstream)**: cc-by-4.0
 - **Creators**: Hnát, Jaromír, Durovic, Martin, Paušová, Šárka, Bouzek, Karel
-- **Keywords**: VZ2, VSCHT, 214 021, 214 023, hydrogen evolution, alkaline water
-  electrolysis, non-platinum catalyst
+- **Keywords**: VZ2, VSCHT, 214 021, 214 023, hydrogen evolution, alkaline water electrolysis, non-platinum catalyst
 - **Fetched**: 2026-04-20T04:35:00+00:00
 
 ## Files
 
-| Key                     | Size (bytes) | Committed     | Local path                      |
-| ----------------------- | ------------ | ------------- | ------------------------------- |
-| `VZ2_003_021_VSCHT.zip` | 26555763     | no (.source/) | `.source/VZ2_003_021_VSCHT.zip` |
-| `ReadMeFile.txt`        | 20623        | yes           | `files/ReadMeFile.txt`          |
+| Key | Size (bytes) | Committed | Local path |
+| --- | --- | --- | --- |
+| `VZ2_003_021_VSCHT.zip` | 26555763 | no (.source/) | `.source/VZ2_003_021_VSCHT.zip` |
+| `ReadMeFile.txt` | 20623 | yes | `files/ReadMeFile.txt` |
 
 ## Abstract (from Zenodo)
 
@@ -23,10 +22,10 @@
 
 ## MES relevance
 
-_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`, and
-`related_slugs` in `catalog.json` during the classification pass.
+_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`,
+and `related_slugs` in `catalog.json` during the classification pass.
 
 ## Attribution
 
-Cite the upstream record per its license. Zenodo DOI is the canonical citation
-anchor.
+Cite the upstream record per its license. Zenodo DOI is the canonical
+citation anchor.

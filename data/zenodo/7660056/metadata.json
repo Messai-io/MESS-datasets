@@ -103,7 +103,12 @@
         "title": "Electrochemically-Assisted Aqueous Reduction of Waste Streams for Metals Recovery and Functional Surfaces (EARMetal) / Consortium: EARMetal"
       }
     ],
-    "keywords": ["Electrochemistry", "Nanoparticles", "Noble metals", "EQCM"],
+    "keywords": [
+      "Electrochemistry",
+      "Nanoparticles",
+      "Noble metals",
+      "EQCM"
+    ],
     "language": "eng",
     "license": {
       "id": "cc-by-nc-nd-4.0"

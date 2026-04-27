@@ -5,16 +5,15 @@
 - **DOI**: [10.5281/zenodo.7660056](https://doi.org/10.5281/zenodo.7660056)
 - **Publication date**: 2023-08-03
 - **License (upstream)**: cc-by-nc-nd-4.0
-- **Creators**: Reima Herrala, Zulin Wang, Jaana Vapaavuori, Mari Lundström,
-  Kirsi Yliniemi
+- **Creators**: Reima Herrala, Zulin Wang, Jaana Vapaavuori, Mari Lundström, Kirsi Yliniemi
 - **Keywords**: Electrochemistry, Nanoparticles, Noble metals, EQCM
 - **Fetched**: 2026-04-20T04:35:36+00:00
 
 ## Files
 
-| Key                          | Size (bytes) | Committed     | Local path                           |
-| ---------------------------- | ------------ | ------------- | ------------------------------------ |
-| `Au-Cu-Cl EAR dataset 1.zip` | 78356910     | no (.source/) | `.source/Au-Cu-Cl EAR dataset 1.zip` |
+| Key | Size (bytes) | Committed | Local path |
+| --- | --- | --- | --- |
+| `Au-Cu-Cl EAR dataset 1.zip` | 78356910 | no (.source/) | `.source/Au-Cu-Cl EAR dataset 1.zip` |
 
 ## Abstract (from Zenodo)
 
@@ -34,10 +33,10 @@
 
 ## MES relevance
 
-_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`, and
-`related_slugs` in `catalog.json` during the classification pass.
+_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`,
+and `related_slugs` in `catalog.json` during the classification pass.
 
 ## Attribution
 
-Cite the upstream record per its license. Zenodo DOI is the canonical citation
-anchor.
+Cite the upstream record per its license. Zenodo DOI is the canonical
+citation anchor.

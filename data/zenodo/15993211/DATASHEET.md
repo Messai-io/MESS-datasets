@@ -11,14 +11,14 @@
 
 ## Files
 
-| Key          | Size (bytes) | Committed | Local path         |
-| ------------ | ------------ | --------- | ------------------ |
-| `Fig2A.xlsx` | 55126        | yes       | `files/Fig2A.xlsx` |
-| `Fig2E.xlsx` | 188513       | yes       | `files/Fig2E.xlsx` |
-| `Fig2D.xlsx` | 139643       | yes       | `files/Fig2D.xlsx` |
-| `Fig2F.xlsx` | 159044       | yes       | `files/Fig2F.xlsx` |
-| `Fig2C.xlsx` | 290216       | yes       | `files/Fig2C.xlsx` |
-| `Fig2B.xlsx` | 33739        | yes       | `files/Fig2B.xlsx` |
+| Key | Size (bytes) | Committed | Local path |
+| --- | --- | --- | --- |
+| `Fig2A.xlsx` | 55126 | yes | `files/Fig2A.xlsx` |
+| `Fig2E.xlsx` | 188513 | yes | `files/Fig2E.xlsx` |
+| `Fig2D.xlsx` | 139643 | yes | `files/Fig2D.xlsx` |
+| `Fig2F.xlsx` | 159044 | yes | `files/Fig2F.xlsx` |
+| `Fig2C.xlsx` | 290216 | yes | `files/Fig2C.xlsx` |
+| `Fig2B.xlsx` | 33739 | yes | `files/Fig2B.xlsx` |
 
 ## Abstract (from Zenodo)
 
@@ -26,10 +26,10 @@
 
 ## MES relevance
 
-_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`, and
-`related_slugs` in `catalog.json` during the classification pass.
+_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`,
+and `related_slugs` in `catalog.json` during the classification pass.
 
 ## Attribution
 
-Cite the upstream record per its license. Zenodo DOI is the canonical citation
-anchor.
+Cite the upstream record per its license. Zenodo DOI is the canonical
+citation anchor.

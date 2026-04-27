@@ -6,15 +6,14 @@
 - **Publication date**: 2020-08-01
 - **License (upstream)**: cc-by-4.0
 - **Creators**: A. Prado, R. Berenguer, A. Berná, A. Esteve-Núñez
-- **Keywords**: Electrode materials, Electroactive biofilms, Bioelectrochemical
-  systems, Porous and non-porous electrodes
+- **Keywords**: Electrode materials, Electroactive biofilms, Bioelectrochemical systems, Porous and non-porous electrodes
 - **Fetched**: 2026-04-20T04:49:58+00:00
 
 ## Files
 
-| Key                                                                                                           | Size (bytes) | Committed | Local path                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------- | ------------ | --------- | ------------------------------------------------------------------------------------------------------------------- |
-| `Simultaneous characterization of porous and non-porous electrodes in microbial electrochemical systems.xlsx` | 552734       | yes       | `files/Simultaneous characterization of porous and non-porous electrodes in microbial electrochemical systems.xlsx` |
+| Key | Size (bytes) | Committed | Local path |
+| --- | --- | --- | --- |
+| `Simultaneous characterization of porous and non-porous electrodes in microbial electrochemical systems.xlsx` | 552734 | yes | `files/Simultaneous characterization of porous and non-porous electrodes in microbial electrochemical systems.xlsx` |
 
 ## Abstract (from Zenodo)
 
@@ -22,10 +21,10 @@
 
 ## MES relevance
 
-_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`, and
-`related_slugs` in `catalog.json` during the classification pass.
+_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`,
+and `related_slugs` in `catalog.json` during the classification pass.
 
 ## Attribution
 
-Cite the upstream record per its license. Zenodo DOI is the canonical citation
-anchor.
+Cite the upstream record per its license. Zenodo DOI is the canonical
+citation anchor.

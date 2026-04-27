@@ -43,26 +43,26 @@ The fetcher is idempotent — records already populated are skipped unless
 For each record, the fetcher decides per file:
 
 - **Committed** (`data/zenodo/<id>/files/<key>`) — small, non-archive,
-  human-readable source (CSVs ≤5MB, JSON, Python/R scripts, markdown, YAML,
-  plain text).
-- **Gitignored source copy** (`data/zenodo/<id>/.source/<key>`) — large files
-  and archives. Still present on disk for local analysis; never pushed to
-  GitHub.
+  human-readable source (CSVs ≤5MB, JSON, Python/R scripts, markdown,
+  YAML, plain text).
+- **Gitignored source copy** (`data/zenodo/<id>/.source/<key>`) — large
+  files and archives. Still present on disk for local analysis; never
+  pushed to GitHub.
 
-The per-record `manifest.json` records which bucket each file landed in, with
-MD5 checksums. Future on-demand fetching will read manifests to know what to
-pull from upstream.
+The per-record `manifest.json` records which bucket each file landed in,
+with MD5 checksums. Future on-demand fetching will read manifests to
+know what to pull from upstream.
 
 ## Rate limits
 
-Anonymous: 60 requests/minute, 2000/hour. We're well under that for current seed
-sizes. The fetcher sleeps 1s between records as a courtesy.
+Anonymous: 60 requests/minute, 2000/hour. We're well under that for
+current seed sizes. The fetcher sleeps 1s between records as a courtesy.
 
 ## Rerunning
 
-Safe to rerun. Existing `data/zenodo/<id>/` dirs are skipped unless `--refresh`
-is passed. After adding new IDs to `seed.yaml`, just rerun; only the new records
-are fetched.
+Safe to rerun. Existing `data/zenodo/<id>/` dirs are skipped unless
+`--refresh` is passed. After adding new IDs to `seed.yaml`, just rerun;
+only the new records are fetched.
 
 After any successful run, rebuild the catalog:
 

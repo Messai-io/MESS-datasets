@@ -5,16 +5,15 @@
 - **DOI**: [10.5281/zenodo.10669811](https://doi.org/10.5281/zenodo.10669811)
 - **Publication date**: 2024-02-16
 - **License (upstream)**: cc-by-4.0
-- **Creators**: Kubo, Nikolas Mao, Ketter, Fabian, Palkovits, Stefan, Palkovits,
-  Regina
+- **Creators**: Kubo, Nikolas Mao, Ketter, Fabian, Palkovits, Stefan, Palkovits, Regina
 - **Keywords**: _none_
 - **Fetched**: 2026-04-20T04:34:56+00:00
 
 ## Files
 
-| Key                                    | Size (bytes) | Committed     | Local path                                     |
-| -------------------------------------- | ------------ | ------------- | ---------------------------------------------- |
-| `Ni Base Alloys Experimental Data.zip` | 39276546     | no (.source/) | `.source/Ni Base Alloys Experimental Data.zip` |
+| Key | Size (bytes) | Committed | Local path |
+| --- | --- | --- | --- |
+| `Ni Base Alloys Experimental Data.zip` | 39276546 | no (.source/) | `.source/Ni Base Alloys Experimental Data.zip` |
 
 ## Abstract (from Zenodo)
 
@@ -22,10 +21,10 @@
 
 ## MES relevance
 
-_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`, and
-`related_slugs` in `catalog.json` during the classification pass.
+_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`,
+and `related_slugs` in `catalog.json` during the classification pass.
 
 ## Attribution
 
-Cite the upstream record per its license. Zenodo DOI is the canonical citation
-anchor.
+Cite the upstream record per its license. Zenodo DOI is the canonical
+citation anchor.

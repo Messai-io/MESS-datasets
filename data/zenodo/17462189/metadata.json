@@ -60,7 +60,10 @@
       }
     ],
     "doi": "10.5281/zenodo.17462189",
-    "keywords": ["bioelectrochemistry", "nitrogen fixation"],
+    "keywords": [
+      "bioelectrochemistry",
+      "nitrogen fixation"
+    ],
     "license": {
       "id": "cc-by-4.0"
     },

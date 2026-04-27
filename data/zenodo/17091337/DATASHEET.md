@@ -5,17 +5,15 @@
 - **DOI**: [10.5281/zenodo.17091337](https://doi.org/10.5281/zenodo.17091337)
 - **Publication date**: 2025-05-15
 - **License (upstream)**: cc-by-4.0
-- **Creators**: Hamalová, Kateřina, Sánchez-Segado, Sergio, Ortiz-Martínez,
-  Víctor Manuel, Salar-García, María José
-- **Keywords**: Microbial fuel cells, Deep eutectic solvents, Polymer inclusion
-  membranes, Bioenergy, Waste valorization
+- **Creators**: Hamalová, Kateřina, Sánchez-Segado, Sergio, Ortiz-Martínez, Víctor Manuel, Salar-García, María José
+- **Keywords**: Microbial fuel cells, Deep eutectic solvents, Polymer inclusion membranes, Bioenergy, Waste valorization
 - **Fetched**: 2026-04-20T04:30:29+00:00
 
 ## Files
 
-| Key                                               | Size (bytes) | Committed     | Local path                                                |
-| ------------------------------------------------- | ------------ | ------------- | --------------------------------------------------------- |
-| `Journal of Power Sources_Hamalova_2025_data.zip` | 1142287      | no (.source/) | `.source/Journal of Power Sources_Hamalova_2025_data.zip` |
+| Key | Size (bytes) | Committed | Local path |
+| --- | --- | --- | --- |
+| `Journal of Power Sources_Hamalova_2025_data.zip` | 1142287 | no (.source/) | `.source/Journal of Power Sources_Hamalova_2025_data.zip` |
 
 ## Abstract (from Zenodo)
 
@@ -69,10 +67,10 @@
 
 ## MES relevance
 
-_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`, and
-`related_slugs` in `catalog.json` during the classification pass.
+_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`,
+and `related_slugs` in `catalog.json` during the classification pass.
 
 ## Attribution
 
-Cite the upstream record per its license. Zenodo DOI is the canonical citation
-anchor.
+Cite the upstream record per its license. Zenodo DOI is the canonical
+citation anchor.

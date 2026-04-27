@@ -9,7 +9,9 @@
         "Sergey S. Ermakov",
         "Yulia G. Mourzina"
       ],
-      "data_kinds": ["experimental"],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.3389/fchem.2018.00256.s001",
       "files": {
         "committed_count": 1,
@@ -29,13 +31,17 @@
       ],
       "last_synced": "2026-04-20T05:33:22+00:00",
       "license": "CC BY 4.0",
-      "mes_domains": ["sensor"],
+      "mes_domains": [
+        "sensor"
+      ],
       "mes_relevance": "tangential",
       "paper_doi": "10.3389/fchem.2018.00256",
       "publication_date": "2018-06-29",
       "related_slugs": {
         "materials": [],
-        "parameters": ["current_density"]
+        "parameters": [
+          "current_density"
+        ]
       },
       "source": "figshare",
       "title": "Data_Sheet_1_Multisensor Systems by Electrochemical Nanowire Assembly for the Analysis of Aqueous Solutions.pdf"
@@ -48,7 +54,9 @@
         "Yi Sun",
         "Haobin Huang"
       ],
-      "data_kinds": ["experimental"],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.3389/fmicb.2019.00398.s001",
       "files": {
         "committed_count": 1,
@@ -65,20 +73,33 @@
       ],
       "last_synced": "2026-04-20T05:33:20+00:00",
       "license": "CC BY 4.0",
-      "mes_domains": ["biofilm", "mes_general", "mfc"],
+      "mes_domains": [
+        "biofilm",
+        "mes_general",
+        "mfc"
+      ],
       "mes_relevance": "core",
       "paper_doi": "10.3389/fmicb.2019.00398",
       "publication_date": "2019-03-06",
       "related_slugs": {
         "materials": [],
-        "parameters": ["shear_stress", "current_density", "biofilm_thickness"]
+        "parameters": [
+          "shear_stress",
+          "current_density",
+          "biofilm_thickness"
+        ]
       },
       "source": "figshare",
       "title": "Table_1_Shear Stress Affects Biofilm Structure and Consequently Current Generation of Bioanode in Microbial Electrochemical Systems (MESs).docx"
     },
     {
-      "creators": ["Cesar A. Hernandez", "Johann F. Osma"],
-      "data_kinds": ["other"],
+      "creators": [
+        "Cesar A. Hernandez",
+        "Johann F. Osma"
+      ],
+      "data_kinds": [
+        "other"
+      ],
       "doi": "10.3389/fenvs.2020.00044.s001",
       "files": {
         "committed_count": 1,
@@ -95,7 +116,11 @@
       ],
       "last_synced": "2026-04-20T05:33:27+00:00",
       "license": "CC BY 4.0",
-      "mes_domains": ["mes_general", "mfc", "mec"],
+      "mes_domains": [
+        "mes_general",
+        "mfc",
+        "mec"
+      ],
       "mes_relevance": "core",
       "paper_doi": "10.3389/fenvs.2020.00044",
       "publication_date": "2020-05-12",
@@ -118,7 +143,9 @@
         "Eduard Borràs",
         "Monica Della Pirriera"
       ],
-      "data_kinds": ["experimental"],
+      "data_kinds": [
+        "experimental"
+      ],
       "doi": "10.3389/fenrg.2020.00174.s004",
       "files": {
         "committed_count": 1,
@@ -136,13 +163,20 @@
       ],
       "last_synced": "2026-04-20T05:33:17+00:00",
       "license": "CC BY 4.0",
-      "mes_domains": ["mec", "mes_general", "co2_capture"],
+      "mes_domains": [
+        "mec",
+        "mes_general",
+        "co2_capture"
+      ],
       "mes_relevance": "core",
       "paper_doi": "10.3389/fenrg.2020.00174",
       "publication_date": "2020-07-28",
       "related_slugs": {
         "materials": [],
-        "parameters": ["current_density", "cell_voltage"]
+        "parameters": [
+          "current_density",
+          "cell_voltage"
+        ]
       },
       "source": "figshare",
       "title": "Table_1_How Operational Parameters Affect Electromethanogenesis in a Bioelectrochemical Power-to-Gas Prototype.DOCX"
@@ -154,7 +188,9 @@
         "Pei-Gen Xiao",
         "Lian-Feng Wang"
       ],
-      "data_kinds": ["other"],
+      "data_kinds": [
+        "other"
+      ],
       "doi": "10.3389/fmicb.2020.557400.s001",
       "files": {
         "committed_count": 1,
@@ -171,13 +207,18 @@
       ],
       "last_synced": "2026-04-20T05:33:30+00:00",
       "license": "CC BY 4.0",
-      "mes_domains": ["mfc", "bioremediation"],
+      "mes_domains": [
+        "mfc",
+        "bioremediation"
+      ],
       "mes_relevance": "core",
       "paper_doi": "10.3389/fmicb.2020.557400",
       "publication_date": "2020-10-23",
       "related_slugs": {
         "materials": [],
-        "parameters": ["current_density"]
+        "parameters": [
+          "current_density"
+        ]
       },
       "source": "figshare",
       "title": "Data_Sheet_1_The Utility of Electrochemical Systems in Microbial Degradation of Polycyclic Aromatic Hydrocarbons: Discourse, Diversity and Design.docx"
@@ -188,7 +229,10 @@
         "Adrie J. J. Straathof",
         "Ludovic Jourdin"
       ],
-      "data_kinds": ["simulation", "other"],
+      "data_kinds": [
+        "simulation",
+        "other"
+      ],
       "doi": "10.3389/fmicb.2021.669218.s001",
       "files": {
         "committed_count": 1,
@@ -206,13 +250,20 @@
       ],
       "last_synced": "2026-04-20T05:33:29+00:00",
       "license": "CC BY 4.0",
-      "mes_domains": ["mes_general", "co2_capture", "biofilm"],
+      "mes_domains": [
+        "mes_general",
+        "co2_capture",
+        "biofilm"
+      ],
       "mes_relevance": "core",
       "paper_doi": "10.3389/fmicb.2021.669218",
       "publication_date": "2021-06-04",
       "related_slugs": {
         "materials": [],
-        "parameters": ["current_density", "substrate_uptake_rate"]
+        "parameters": [
+          "current_density",
+          "substrate_uptake_rate"
+        ]
       },
       "source": "figshare",
       "title": "Data_Sheet_1_A General Model for Biofilm-Driven Microbial Electrosynthesis of Carboxylates From CO2.docx"
@@ -223,7 +274,9 @@
         "Sharon Velasquez-Orta",
         "Elizabeth Heidrich"
       ],
-      "data_kinds": ["other"],
+      "data_kinds": [
+        "other"
+      ],
       "doi": "10.3389/fmicb.2024.1511142.s001",
       "files": {
         "committed_count": 1,
@@ -241,13 +294,20 @@
       ],
       "last_synced": "2026-04-20T05:33:33+00:00",
       "license": "CC BY 4.0",
-      "mes_domains": ["mes_general", "mfc", "wastewater"],
+      "mes_domains": [
+        "mes_general",
+        "mfc",
+        "wastewater"
+      ],
       "mes_relevance": "core",
       "paper_doi": "10.3389/fmicb.2024.1511142",
       "publication_date": "2025-01-06",
       "related_slugs": {
         "materials": [],
-        "parameters": ["substrate_uptake_rate", "current_density"]
+        "parameters": [
+          "substrate_uptake_rate",
+          "current_density"
+        ]
       },
       "source": "figshare",
       "title": "Data Sheet 1_Understanding the limitations of substrate degradation in bioelectrochemical systems.pdf"

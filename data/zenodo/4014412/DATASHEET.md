@@ -1,4 +1,4 @@
-# Data from: A study of bacteria adhesion and microbial corrosion on different stainless steels in environment containing Desulfovibrio vulgaris manuscript
+# Data from:  A study of bacteria adhesion and microbial corrosion on different stainless steels in environment containing Desulfovibrio vulgaris manuscript
 
 - **Source**: Zenodo
 - **Record ID**: `4014412`
@@ -11,9 +11,9 @@
 
 ## Files
 
-| Key             | Size (bytes) | Committed | Local path            |
-| --------------- | ------------ | --------- | --------------------- |
-| `Raw_data.xlsx` | 199943       | yes       | `files/Raw_data.xlsx` |
+| Key | Size (bytes) | Committed | Local path |
+| --- | --- | --- | --- |
+| `Raw_data.xlsx` | 199943 | yes | `files/Raw_data.xlsx` |
 
 ## Abstract (from Zenodo)
 
@@ -21,10 +21,10 @@
 
 ## MES relevance
 
-_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`, and
-`related_slugs` in `catalog.json` during the classification pass.
+_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`,
+and `related_slugs` in `catalog.json` during the classification pass.
 
 ## Attribution
 
-Cite the upstream record per its license. Zenodo DOI is the canonical citation
-anchor.
+Cite the upstream record per its license. Zenodo DOI is the canonical
+citation anchor.

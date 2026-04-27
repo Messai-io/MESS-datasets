@@ -6,15 +6,14 @@
 - **Publication date**: 2025-04-24
 - **License (upstream)**: cc-by-4.0
 - **Creators**: Leitat Technological Center, University of Girona
-- **Keywords**: Cell Balance System, Diodes, Electromethanogenesis, Methanogens,
-  Power-to-gas
+- **Keywords**: Cell Balance System, Diodes, Electromethanogenesis, Methanogens, Power-to-gas
 - **Fetched**: 2026-04-20T04:48:58+00:00
 
 ## Files
 
-| Key                                                                                            | Size (bytes) | Committed | Local path                                                                                           |
-| ---------------------------------------------------------------------------------------------- | ------------ | --------- | ---------------------------------------------------------------------------------------------------- |
-| `Dataset - Stabilising methane production in a series-stack of bioelectrochemical systems.ods` | 437182       | yes       | `files/Dataset - Stabilising methane production in a series-stack of bioelectrochemical systems.ods` |
+| Key | Size (bytes) | Committed | Local path |
+| --- | --- | --- | --- |
+| `Dataset - Stabilising methane production in a series-stack of bioelectrochemical systems.ods` | 437182 | yes | `files/Dataset - Stabilising methane production in a series-stack of bioelectrochemical systems.ods` |
 
 ## Abstract (from Zenodo)
 
@@ -22,10 +21,10 @@
 
 ## MES relevance
 
-_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`, and
-`related_slugs` in `catalog.json` during the classification pass.
+_Unreviewed._ Populate `mes_relevance`, `mes_domains`, `data_kinds`,
+and `related_slugs` in `catalog.json` during the classification pass.
 
 ## Attribution
 
-Cite the upstream record per its license. Zenodo DOI is the canonical citation
-anchor.
+Cite the upstream record per its license. Zenodo DOI is the canonical
+citation anchor.

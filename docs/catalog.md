@@ -1,9 +1,9 @@
 # Catalog consumer contract
 
-Every ingest source writes an aggregated `data/<source>/catalog.json` conforming
-to `schemas/dataset-catalog.schema.json`. Downstream consumers (messai-ai,
-MESS-Learning, notebooks) read these catalogs to discover datasets without
-crawling the filesystem.
+Every ingest source writes an aggregated `data/<source>/catalog.json`
+conforming to `schemas/dataset-catalog.schema.json`. Downstream
+consumers (messai-ai, MESS-Learning, notebooks) read these catalogs
+to discover datasets without crawling the filesystem.
 
 ## Shape
 
@@ -43,34 +43,36 @@ crawling the filesystem.
 - **`source`** — namespace for `id`. `zenodo` today; more as we grow.
 - **`id`** — string. For Zenodo: the record ID as a decimal string.
 - **`doi`** — canonical DOI when one exists. Null otherwise.
-- **`mes_relevance`** — `core | adjacent | tangential | null`. `null` means not
-  yet reviewed. Assigned in a follow-up classification pass.
-- **`mes_domains`** — zero-or-more of
-  `mfc, mec, mes_general, biofilm, electrocatalysis, oect, bioremediation, corrosion, energy_storage, sensor, co2_capture, wastewater, metagenomics, other`.
-  A record can sit in multiple domains.
-- **`data_kinds`** — zero-or-more of
-  `experimental, time_series, spectroscopy, image, genomic, simulation, benchmark, code, mixed, other`.
-- **`related_slugs.parameters`** — MESS-Parameters slugs this dataset touches.
-  Join key for cross-repo queries.
-- **`related_slugs.materials`** — MESS-Materials slugs this dataset touches.
-  Same slug join as MESS-Materials uses against MESS-Parameters.
-- **`last_synced`** — UTC timestamp of the last fetcher run for this record.
+- **`mes_relevance`** — `core | adjacent | tangential | null`. `null`
+  means not yet reviewed. Assigned in a follow-up classification pass.
+- **`mes_domains`** — zero-or-more of `mfc, mec, mes_general, biofilm,
+  electrocatalysis, oect, bioremediation, corrosion, energy_storage,
+  sensor, co2_capture, wastewater, metagenomics, other`. A record can
+  sit in multiple domains.
+- **`data_kinds`** — zero-or-more of `experimental, time_series,
+  spectroscopy, image, genomic, simulation, benchmark, code, mixed,
+  other`.
+- **`related_slugs.parameters`** — MESS-Parameters slugs this dataset
+  touches. Join key for cross-repo queries.
+- **`related_slugs.materials`** — MESS-Materials slugs this dataset
+  touches. Same slug join as MESS-Materials uses against MESS-Parameters.
+- **`last_synced`** — UTC timestamp of the last fetcher run for this
+  record.
 
 ## Stability
 
 - Field names and enums are stable within a major version of this repo.
 - Adding enum values is a minor change; removing/renaming is breaking.
-- New optional fields may appear at any time; consumers should ignore unknown
-  fields.
+- New optional fields may appear at any time; consumers should ignore
+  unknown fields.
 
 ## Relation to per-record artifacts
 
-`catalog.json` is a _derived, summarized_ view. The full picture lives per
-record:
+`catalog.json` is a *derived, summarized* view. The full picture lives
+per record:
 
 - `data/<source>/<id>/metadata.json` — upstream API snapshot (source-specific)
-- `data/<source>/<id>/manifest.json` — file list + checksums
-  (schemas/dataset-manifest.schema.json)
+- `data/<source>/<id>/manifest.json` — file list + checksums (schemas/dataset-manifest.schema.json)
 - `data/<source>/<id>/DATASHEET.md` — human-readable record card
 
 Consumers that need file-level detail should follow the catalog entry's
