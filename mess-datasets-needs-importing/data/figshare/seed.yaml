@@ -1,0 +1,31 @@
+# Seed file for Figshare ingest. Read by scripts/fetch-figshare.py.
+#
+# Each record carries the Figshare article ID and a short note. Figshare
+# articles typically bundle supplementary files attached to a published
+# paper — the paper DOI is captured as `paper_doi` in the manifest/catalog
+# so records can be joined against a papers database.
+
+source: figshare
+
+search_provenance:
+  - source: 'user-curated'
+    query: 'microbial electrochemical / bioelectrochemical supplementary data'
+    added: '2026-04-20'
+    note: 'Frontiers supplementary data for BES/MES-relevant papers.'
+
+records:
+  - id: '12725867'
+    note: 'Electromethanogenesis operational parameters — bioelectrochemical power-to-gas prototype'
+    paper_doi_hint: '10.3389/fenrg.2020.00174'
+  - id: '7808354'
+    note: 'Shear stress affects biofilm structure + current generation of bioanode in MES'
+  - id: '6724823'
+    note: 'Multisensor systems — electrochemical nanowire assembly for aqueous solution analysis'
+  - id: '12286127'
+    note: 'MES: future trends from historical perspectives + characterization strategies'
+  - id: '14728959'
+    note: 'General model for biofilm-driven microbial electrosynthesis of carboxylates from CO2'
+  - id: '13134110'
+    note: 'Electrochemical systems in microbial degradation of PAHs — discourse, diversity, design'
+  - id: '28140617'
+    note: 'Limitations of substrate degradation in bioelectrochemical systems'

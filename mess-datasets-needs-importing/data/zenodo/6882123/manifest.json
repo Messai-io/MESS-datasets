@@ -1,0 +1,17 @@
+{
+  "doi": "10.5281/zenodo.6882123",
+  "fetched_at": "2026-04-20T04:49:01+00:00",
+  "files": [
+    {
+      "checksum": "md5:136036e16c0c381651dcfe2495acb877",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/6882123/files/Dataset%20Losantosetal.xlsx/content",
+      "key": "Dataset Losantosetal.xlsx",
+      "local_path": "files/Dataset Losantosetal.xlsx",
+      "size": 155542,
+      "skipped_reason": null
+    }
+  ],
+  "id": "6882123",
+  "source": "zenodo"
+}

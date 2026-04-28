@@ -1,0 +1,133 @@
+{
+  "conceptdoi": "10.5281/zenodo.14886856",
+  "conceptrecid": "14886856",
+  "created": "2025-02-18T10:10:49.423804+00:00",
+  "doi": "10.5281/zenodo.14886857",
+  "doi_url": "https://doi.org/10.5281/zenodo.14886857",
+  "files": [
+    {
+      "checksum": "md5:c72294064bc772b7f1e6424959bf546b",
+      "id": "a9afbdbd-3524-468c-ab62-81b615721ff5",
+      "key": "Data GC-FID ALS Liquid samples.7z",
+      "links": {
+        "self": "https://zenodo.org/api/records/14886857/files/Data%20GC-FID%20ALS%20Liquid%20samples.7z/content"
+      },
+      "size": 283847706
+    }
+  ],
+  "id": 14886857,
+  "links": {
+    "access": "https://zenodo.org/api/records/14886857/access",
+    "access_grants": "https://zenodo.org/api/records/14886857/access/grants",
+    "access_links": "https://zenodo.org/api/records/14886857/access/links",
+    "access_request": "https://zenodo.org/api/records/14886857/access/request",
+    "access_users": "https://zenodo.org/api/records/14886857/access/users",
+    "archive": "https://zenodo.org/api/records/14886857/files-archive",
+    "archive_media": "https://zenodo.org/api/records/14886857/media-files-archive",
+    "communities": "https://zenodo.org/api/records/14886857/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/14886857/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.14886857",
+    "draft": "https://zenodo.org/api/records/14886857/draft",
+    "file_modification": "https://zenodo.org/api/records/14886857/file-modification",
+    "files": "https://zenodo.org/api/records/14886857/files",
+    "latest": "https://zenodo.org/api/records/14886857/versions/latest",
+    "latest_html": "https://zenodo.org/records/14886857/latest",
+    "media_files": "https://zenodo.org/api/records/14886857/media-files",
+    "parent": "https://zenodo.org/api/records/14886856",
+    "parent_doi": "https://doi.org/10.5281/zenodo.14886856",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14886856",
+    "parent_html": "https://zenodo.org/records/14886856",
+    "preview_html": "https://zenodo.org/records/14886857?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/14886857/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/14886857/request-deletion",
+    "requests": "https://zenodo.org/api/records/14886857/requests",
+    "reserve_doi": "https://zenodo.org/api/records/14886857/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/14886857",
+    "self_doi": "https://doi.org/10.5281/zenodo.14886857",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14886857",
+    "self_html": "https://zenodo.org/records/14886857",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14886857/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14886857/sequence/default",
+    "versions": "https://zenodo.org/api/records/14886857/versions"
+  },
+  "metadata": {
+    "access_right": "open",
+    "communities": [
+      {
+        "id": "ebio"
+      },
+      {
+        "id": "eu"
+      }
+    ],
+    "creators": [
+      {
+        "affiliation": "University of Twente",
+        "name": "Ashraf, Talal",
+        "orcid": "0000-0003-3532-2715"
+      }
+    ],
+    "description": "<p>The uploaded data files contain <strong>Gas Chromatography-Flame Ionization Detector (GC-FID) with Autosampler (ALS)</strong> analysis results for liquid samples obtained from electrochemical decarboxylation experiments. These experiments were conducted as part of <strong>Work Package 2 (WP2) of the EBIO project</strong>, focusing on electrochemical transformations of carboxylated compounds.</p>\n<p>The GC-FID technique was employed to analyze the composition of reaction products, identifying and quantifying key volatile organic compounds formed during the electrochemical decarboxylation process. The use of an <strong>autosampler (ALS)</strong> ensured consistent and automated sample injection, improving reproducibility and efficiency in data collection.</p>",
+    "doi": "10.5281/zenodo.14886857",
+    "grants": [
+      {
+        "acronym": "EBIO",
+        "code": "101006612",
+        "funder": {
+          "acronym": "EC",
+          "doi": "10.13039/501100000780",
+          "name": "European Commission"
+        },
+        "internal_id": "10.13039/501100000780::101006612",
+        "program": "H2020-EU.3.3.",
+        "title": "Biofuels through Electrochemical transformation of intermediate BIO-liquids",
+        "url": "https://cordis.europa.eu/projects/101006612"
+      }
+    ],
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "publication_date": "2025-02-18",
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "14886856"
+          }
+        }
+      ]
+    },
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "title": "Raw Data GC-FID-ALS volatile liquid samples (methanol, methyl acetate, acetaldehyde, ethanol, ethyl propionate, acetone, formaldehyde, eugenol, cresol, isopropanol, phenol)"
+  },
+  "modified": "2025-02-18T10:10:49.563263+00:00",
+  "owners": [
+    {
+      "id": "1208096"
+    }
+  ],
+  "recid": "14886857",
+  "revision": 4,
+  "state": "done",
+  "stats": {
+    "downloads": 98,
+    "unique_downloads": 97,
+    "unique_views": 190,
+    "version_downloads": 98,
+    "version_unique_downloads": 97,
+    "version_unique_views": 190,
+    "version_views": 199,
+    "views": 199
+  },
+  "status": "published",
+  "submitted": true,
+  "swh": {},
+  "title": "Raw Data GC-FID-ALS volatile liquid samples (methanol, methyl acetate, acetaldehyde, ethanol, ethyl propionate, acetone, formaldehyde, eugenol, cresol, isopropanol, phenol)",
+  "updated": "2025-02-18T10:10:49.563263+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "doi": "10.5281/zenodo.13347935",
+  "fetched_at": "2026-04-20T04:39:20+00:00",
+  "files": [
+    {
+      "checksum": "md5:9db7ebb01a12d012c97eca295b28506a",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/13347935/files/Data%20repository.zip/content",
+      "key": "Data repository.zip",
+      "local_path": ".source/Data repository.zip",
+      "size": 998379397,
+      "skipped_reason": null
+    }
+  ],
+  "id": "13347935",
+  "source": "zenodo"
+}

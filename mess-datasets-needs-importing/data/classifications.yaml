@@ -1,0 +1,327 @@
+# Human-curated classifications for data/<source>/<id>/ records.
+#
+# Keyed by "<source>:<id>". Each entry fills:
+#   - mes_relevance: core | adjacent | tangential
+#   - mes_domains: subset of catalog schema enum
+#   - data_kinds:   subset of catalog schema enum
+#   - related_slugs.parameters: MESS-Parameters slugs this dataset touches
+#   - related_slugs.materials:  MESS-Materials slugs this dataset touches
+#   - reviewed_by / reviewed_at: provenance for this classification
+#
+# Semantics (from docs/architecture.md §2.3):
+#   null     = not yet reviewed
+#   []       = reviewed, confirmed empty (no relevant slug)
+#   [slug..] = reviewed, these slugs apply
+#
+# build-catalog.py merges this into data/catalog.json (and per-source
+# catalogs) on every rebuild. YAML wins over any prior catalog values.
+#
+# Referential integrity of the slug lists is CI-gated by
+# scripts/validate-references.py — CI fails if any slug here doesn't
+# resolve in the pinned MESS-Parameters / MESS-Materials slug lists.
+
+reviewer_defaults:
+  reviewed_by: claude-opus-4-7
+  reviewed_at: '2026-04-20'
+
+entries:
+  # ============================================================
+  # CORE — direct microbial electrochemical systems relevance
+  # ============================================================
+
+  'zenodo:17091337':
+    mes_relevance: core
+    mes_domains: [mfc, mes_general]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: [coulombic_efficiency, current_density, power_density, internal_resistance]
+      materials: [polymer_separator]
+
+  'zenodo:15275012':
+    mes_relevance: core
+    mes_domains: [mec, mes_general, co2_capture]
+    data_kinds: [experimental, time_series]
+    related_slugs:
+      parameters: [current_density, cell_voltage, stack_voltage]
+      materials: []
+
+  'zenodo:15300087':
+    mes_relevance: core
+    mes_domains: [wastewater, mes_general]
+    data_kinds: [experimental, simulation, code]
+    related_slugs:
+      parameters: [current_density, wastewater_type]
+      materials: []
+
+  'zenodo:17462189':
+    mes_relevance: core
+    mes_domains: [mes_general, mec]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: [current_density, nitrogen_concentration]
+      materials: []
+
+  'zenodo:4310338':
+    mes_relevance: core
+    mes_domains: [mes_general, mec, biofilm]
+    data_kinds: [experimental, genomic]
+    related_slugs:
+      parameters: [current_density]
+      materials: []
+
+  'zenodo:4529615':
+    mes_relevance: core
+    mes_domains: [mes_general, wastewater, bioremediation]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: [current_density]
+      materials: []
+
+  'zenodo:4531295':
+    mes_relevance: core
+    mes_domains: [mes_general, mfc]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: [current_density, electrode_surface_area, electrode_porosity]
+      materials: [carbon_felt, carbon_cloth]
+
+  'zenodo:4944335':
+    mes_relevance: core
+    mes_domains: [biofilm, mes_general]
+    data_kinds: [experimental, spectroscopy, image]
+    related_slugs:
+      parameters: [biofilm_thickness]
+      materials: []
+
+  'zenodo:6827450':
+    mes_relevance: core
+    mes_domains: [mes_general]
+    data_kinds: [simulation, benchmark]
+    related_slugs:
+      parameters: [current_density]
+      materials: []
+
+  'zenodo:6882123':
+    mes_relevance: core
+    mes_domains: [mec, wastewater, mes_general]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: [current_density, nitrogen_concentration, nitrogen_removal]
+      materials: []
+
+  'zenodo:7050972':
+    mes_relevance: core
+    mes_domains: [mes_general, mfc]
+    data_kinds: [experimental, time_series, benchmark, code]
+    related_slugs:
+      parameters: [current_density, coulombic_efficiency]
+      materials: []
+
+  'zenodo:7415472':
+    mes_relevance: core
+    mes_domains: [bioremediation, mes_general]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: []
+      materials: []
+
+  'zenodo:7415636':
+    mes_relevance: core
+    mes_domains: [bioremediation, mes_general, wastewater]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: []
+      materials: []
+
+  'figshare:12286127':
+    mes_relevance: core
+    mes_domains: [mes_general, mfc, mec]
+    data_kinds: [other]
+    related_slugs:
+      parameters: []
+      materials: []
+
+  'figshare:12725867':
+    mes_relevance: core
+    mes_domains: [mec, mes_general, co2_capture]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: [current_density, cell_voltage]
+      materials: []
+
+  'figshare:13134110':
+    mes_relevance: core
+    mes_domains: [mfc, bioremediation]
+    data_kinds: [other]
+    related_slugs:
+      parameters: [current_density]
+      materials: []
+
+  'figshare:14728959':
+    mes_relevance: core
+    mes_domains: [mes_general, co2_capture, biofilm]
+    data_kinds: [simulation, other]
+    related_slugs:
+      parameters: [current_density, substrate_uptake_rate]
+      materials: []
+
+  'figshare:28140617':
+    mes_relevance: core
+    mes_domains: [mes_general, mfc, wastewater]
+    data_kinds: [other]
+    related_slugs:
+      parameters: [substrate_uptake_rate, current_density]
+      materials: []
+
+  'figshare:7808354':
+    mes_relevance: core
+    mes_domains: [biofilm, mes_general, mfc]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: [shear_stress, current_density, biofilm_thickness]
+      materials: []
+
+  # ============================================================
+  # ADJACENT — electrochemistry / bioelectrochemistry adjacent,
+  # methods or materials applicable to MES
+  # ============================================================
+
+  'zenodo:10517218':
+    mes_relevance: adjacent
+    mes_domains: [co2_capture]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: [current_density, faradaic_efficiency_co2, co2_capture_rate]
+      materials: []
+
+  'zenodo:10669811':
+    mes_relevance: adjacent
+    mes_domains: [electrocatalysis]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: [current_density, overpotential, tafel_slope, electrode_surface_area]
+      materials: []
+
+  'zenodo:13347935':
+    mes_relevance: adjacent
+    mes_domains: [electrocatalysis]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: [current_density, overpotential, tafel_slope]
+      materials: []
+
+  'zenodo:15682546':
+    mes_relevance: adjacent
+    mes_domains: [electrocatalysis]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: [current_density, overpotential, tafel_slope]
+      materials: []
+
+  'zenodo:4014412':
+    mes_relevance: adjacent
+    mes_domains: [corrosion, biofilm]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: [biofilm_adhesion_strength, chloride_ion_concentration, sulfate_ion_concentration]
+      materials: [stainless_steel]
+
+  # ============================================================
+  # TANGENTIAL — electrochemistry-only, weak MES link
+  # ============================================================
+
+  'zenodo:10987633':
+    mes_relevance: tangential
+    mes_domains: [oect]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: []
+      materials: []
+
+  'zenodo:13903078':
+    mes_relevance: tangential
+    mes_domains: [oect]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: []
+      materials: []
+
+  'zenodo:14000203':
+    mes_relevance: tangential
+    mes_domains: [oect]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: []
+      materials: []
+
+  'zenodo:14886857':
+    mes_relevance: tangential
+    mes_domains: [electrocatalysis]
+    data_kinds: [experimental, spectroscopy]
+    related_slugs:
+      parameters: []
+      materials: []
+
+  'zenodo:15244569':
+    mes_relevance: tangential
+    mes_domains: [oect]
+    data_kinds: [experimental, simulation]
+    related_slugs:
+      parameters: []
+      materials: []
+
+  'zenodo:15993211':
+    mes_relevance: tangential
+    mes_domains: [electrocatalysis]
+    data_kinds: [experimental, spectroscopy]
+    related_slugs:
+      parameters: [charge_transfer_resistance, impedance_magnitude]
+      materials: []
+
+  'zenodo:17804246':
+    mes_relevance: tangential
+    mes_domains: [sensor]
+    data_kinds: [experimental, image, simulation]
+    related_slugs:
+      parameters: [dissolved_oxygen, oxygen_concentration, current_density]
+      materials: []
+
+  'zenodo:18385300':
+    mes_relevance: tangential
+    mes_domains: [energy_storage]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: [energy_density, current_density]
+      materials: []
+
+  'zenodo:7660056':
+    mes_relevance: tangential
+    mes_domains: [electrocatalysis, other]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: []
+      materials: []
+
+  'zenodo:7970574':
+    mes_relevance: tangential
+    mes_domains: [energy_storage, electrocatalysis]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: [current_density, energy_density]
+      materials: []
+
+  'zenodo:8288205':
+    mes_relevance: tangential
+    mes_domains: [electrocatalysis, energy_storage]
+    data_kinds: [experimental, image]
+    related_slugs:
+      parameters: [current_density, charge_transfer_resistance, impedance_magnitude]
+      materials: []
+
+  'figshare:6724823':
+    mes_relevance: tangential
+    mes_domains: [sensor]
+    data_kinds: [experimental]
+    related_slugs:
+      parameters: [current_density]
+      materials: []

@@ -1,0 +1,113 @@
+{
+  "conceptdoi": "10.5281/zenodo.17672120",
+  "conceptrecid": "17672120",
+  "created": "2025-12-03T16:44:30.877853+00:00",
+  "doi": "10.5281/zenodo.17804246",
+  "doi_url": "https://doi.org/10.5281/zenodo.17804246",
+  "files": [
+    {
+      "checksum": "md5:593dac6bc57f56bfa34c3b5794c6cf75",
+      "id": "502636dc-9fec-4969-8565-59ad76e1ef67",
+      "key": "SI.zip",
+      "links": {
+        "self": "https://zenodo.org/api/records/17804246/files/SI.zip/content"
+      },
+      "size": 145076060
+    }
+  ],
+  "id": 17804246,
+  "links": {
+    "access": "https://zenodo.org/api/records/17804246/access",
+    "access_grants": "https://zenodo.org/api/records/17804246/access/grants",
+    "access_links": "https://zenodo.org/api/records/17804246/access/links",
+    "access_request": "https://zenodo.org/api/records/17804246/access/request",
+    "access_users": "https://zenodo.org/api/records/17804246/access/users",
+    "archive": "https://zenodo.org/api/records/17804246/files-archive",
+    "archive_media": "https://zenodo.org/api/records/17804246/media-files-archive",
+    "communities": "https://zenodo.org/api/records/17804246/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/17804246/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.17804246",
+    "draft": "https://zenodo.org/api/records/17804246/draft",
+    "file_modification": "https://zenodo.org/api/records/17804246/file-modification",
+    "files": "https://zenodo.org/api/records/17804246/files",
+    "latest": "https://zenodo.org/api/records/17804246/versions/latest",
+    "latest_html": "https://zenodo.org/records/17804246/latest",
+    "media_files": "https://zenodo.org/api/records/17804246/media-files",
+    "parent": "https://zenodo.org/api/records/17672120",
+    "parent_doi": "https://doi.org/10.5281/zenodo.17672120",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17672120",
+    "parent_html": "https://zenodo.org/records/17672120",
+    "preview_html": "https://zenodo.org/records/17804246?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/17804246/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/17804246/request-deletion",
+    "requests": "https://zenodo.org/api/records/17804246/requests",
+    "reserve_doi": "https://zenodo.org/api/records/17804246/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/17804246",
+    "self_doi": "https://doi.org/10.5281/zenodo.17804246",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17804246",
+    "self_html": "https://zenodo.org/records/17804246",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17804246/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17804246/sequence/default",
+    "versions": "https://zenodo.org/api/records/17804246/versions"
+  },
+  "metadata": {
+    "access_right": "open",
+    "creators": [
+      {
+        "affiliation": null,
+        "name": "Marrero, Denise",
+        "orcid": "0000-0002-8726-6463"
+      }
+    ],
+    "description": "<p>This repository includes the data related to this article: Low-temperature inkjet-printed electrochemical sensors on OSTE+ microfluidics for oxygen monitoring and scavenging. It includes different types of data from optical images, SEM, simulation data, electrochemical characterization, and dissolved oxygen values.&nbsp;<br>A preprint of this article can be found here: https://doi.org/10.1101/2025.09.23.675348</p>",
+    "doi": "10.5281/zenodo.17804246",
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "publication_date": "2025-12-03",
+    "relations": {
+      "version": [
+        {
+          "index": 1,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "17672120"
+          }
+        }
+      ]
+    },
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "thesis": {
+      "university": "Universitat Autònoma de Barcelona"
+    },
+    "title": "Low-temperature inkjet-printed electrochemical sensors on OSTE+ microfluidics for oxygen monitoring and scavenging"
+  },
+  "modified": "2025-12-03T16:44:31.119953+00:00",
+  "owners": [
+    {
+      "id": "1405614"
+    }
+  ],
+  "recid": "17804246",
+  "revision": 4,
+  "state": "done",
+  "stats": {
+    "downloads": 3,
+    "unique_downloads": 3,
+    "unique_views": 30,
+    "version_downloads": 1,
+    "version_unique_downloads": 1,
+    "version_unique_views": 14,
+    "version_views": 20,
+    "views": 39
+  },
+  "status": "published",
+  "submitted": true,
+  "swh": {},
+  "title": "Low-temperature inkjet-printed electrochemical sensors on OSTE+ microfluidics for oxygen monitoring and scavenging",
+  "updated": "2025-12-03T16:44:31.119953+00:00"
+}

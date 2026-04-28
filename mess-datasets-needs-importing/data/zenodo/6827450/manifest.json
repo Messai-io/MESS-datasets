@@ -1,0 +1,269 @@
+{
+  "doi": "10.5281/zenodo.6827450",
+  "fetched_at": "2026-04-20T04:49:43+00:00",
+  "files": [
+    {
+      "checksum": "md5:d1db3a50202746492556e9d37cdfd1a0",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/Bewise_scale_outputs_active_6.tar/content",
+      "key": "Bewise_scale_outputs_active_6.tar",
+      "local_path": ".source/Bewise_scale_outputs_active_6.tar",
+      "size": 24238080,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:e8114e876b781d5069294b7b365a9eff",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/Bewise_scale_outputs_active_4.tar/content",
+      "key": "Bewise_scale_outputs_active_4.tar",
+      "local_path": ".source/Bewise_scale_outputs_active_4.tar",
+      "size": 22067200,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:832fecc570d5c569a35e10d66ea739ec",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/Bewise_scale_outputs_active_5.tar/content",
+      "key": "Bewise_scale_outputs_active_5.tar",
+      "local_path": ".source/Bewise_scale_outputs_active_5.tar",
+      "size": 23193600,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:0c4365971ef40984201e962c2e5e18cb",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/Bewise_scale_outputs_active_2.tar/content",
+      "key": "Bewise_scale_outputs_active_2.tar",
+      "local_path": ".source/Bewise_scale_outputs_active_2.tar",
+      "size": 19671040,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:ab99d6db9df72765bce47ba90a9f7361",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/Bewise_scale_outputs_active_3.tar/content",
+      "key": "Bewise_scale_outputs_active_3.tar",
+      "local_path": ".source/Bewise_scale_outputs_active_3.tar",
+      "size": 20899840,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:0626866318ac91d7ed96737c36a7052b",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/Bewise_scale_outputs_active_1.tar/content",
+      "key": "Bewise_scale_outputs_active_1.tar",
+      "local_path": ".source/Bewise_scale_outputs_active_1.tar",
+      "size": 18350080,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:296ffda6322766565340e4b1d9d5c9a8",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/6827450/files/bewise_baffles_summary.csv/content",
+      "key": "bewise_baffles_summary.csv",
+      "local_path": "files/bewise_baffles_summary.csv",
+      "size": 36406,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:3655951f46f041b467e6044dc04e008c",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_6-90.tar/content",
+      "key": "pilot_scale_outputs_active_6-90.tar",
+      "local_path": ".source/pilot_scale_outputs_active_6-90.tar",
+      "size": 24637440,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:297dd9c966b7295aaa94c1e79c4e46a3",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_6-80.tar/content",
+      "key": "pilot_scale_outputs_active_6-80.tar",
+      "local_path": ".source/pilot_scale_outputs_active_6-80.tar",
+      "size": 24412160,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:9c2c5397f8756cfcd0722927ff766eda",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_6-70.tar/content",
+      "key": "pilot_scale_outputs_active_6-70.tar",
+      "local_path": ".source/pilot_scale_outputs_active_6-70.tar",
+      "size": 24350720,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:7e671d2b82768ba1d777860b9a34199a",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_5-90.tar/content",
+      "key": "pilot_scale_outputs_active_5-90.tar",
+      "local_path": ".source/pilot_scale_outputs_active_5-90.tar",
+      "size": 23756800,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:3b9e5a8c784eea76549b26203b660ce8",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_5-80.tar/content",
+      "key": "pilot_scale_outputs_active_5-80.tar",
+      "local_path": ".source/pilot_scale_outputs_active_5-80.tar",
+      "size": 23582720,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:48c267774b11ad629c0f9da64c56767e",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_5-70.tar/content",
+      "key": "pilot_scale_outputs_active_5-70.tar",
+      "local_path": ".source/pilot_scale_outputs_active_5-70.tar",
+      "size": 23623680,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:7532de8a5b7afcd6db8fe2534edf84bb",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_4-90.tar/content",
+      "key": "pilot_scale_outputs_active_4-90.tar",
+      "local_path": ".source/pilot_scale_outputs_active_4-90.tar",
+      "size": 22773760,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:bdafae6f69867423ecb19a189fd16f91",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_4-80.tar/content",
+      "key": "pilot_scale_outputs_active_4-80.tar",
+      "local_path": ".source/pilot_scale_outputs_active_4-80.tar",
+      "size": 22671360,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:af039ebf0f57bc1d172cd11167deacc6",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_4-70.tar/content",
+      "key": "pilot_scale_outputs_active_4-70.tar",
+      "local_path": ".source/pilot_scale_outputs_active_4-70.tar",
+      "size": 22824960,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:82d88b8c936143d6db61b88f3d58f463",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_3-90.tar/content",
+      "key": "pilot_scale_outputs_active_3-90.tar",
+      "local_path": ".source/pilot_scale_outputs_active_3-90.tar",
+      "size": 21729280,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:51b3d8f05697496f843bea565db7f55c",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_3-80.tar/content",
+      "key": "pilot_scale_outputs_active_3-80.tar",
+      "local_path": ".source/pilot_scale_outputs_active_3-80.tar",
+      "size": 22005760,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:88ec521c23d481231852ae69df046b65",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_3-70.tar/content",
+      "key": "pilot_scale_outputs_active_3-70.tar",
+      "local_path": ".source/pilot_scale_outputs_active_3-70.tar",
+      "size": 22005760,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:af8775eb2a1f4b60ce9d233ba53b4d4e",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_2-90.tar/content",
+      "key": "pilot_scale_outputs_active_2-90.tar",
+      "local_path": ".source/pilot_scale_outputs_active_2-90.tar",
+      "size": 20613120,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:bfd617144ebda9849e975eb742c1a911",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_2-80.tar/content",
+      "key": "pilot_scale_outputs_active_2-80.tar",
+      "local_path": ".source/pilot_scale_outputs_active_2-80.tar",
+      "size": 20674560,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:11cc0f0755c8c07bdcc4d561a23f1e93",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_2-70.tar/content",
+      "key": "pilot_scale_outputs_active_2-70.tar",
+      "local_path": ".source/pilot_scale_outputs_active_2-70.tar",
+      "size": 21155840,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:a06242dc385298e28dbee24d24712537",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_1-90.tar/content",
+      "key": "pilot_scale_outputs_active_1-90.tar",
+      "local_path": ".source/pilot_scale_outputs_active_1-90.tar",
+      "size": 19353600,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:11e93cf9278bda6c666d58c3a8ed1bea",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_1-80.tar/content",
+      "key": "pilot_scale_outputs_active_1-80.tar",
+      "local_path": ".source/pilot_scale_outputs_active_1-80.tar",
+      "size": 19517440,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:eeb0fc0446418dbd67889d801d719fe4",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_1-70.tar/content",
+      "key": "pilot_scale_outputs_active_1-70.tar",
+      "local_path": ".source/pilot_scale_outputs_active_1-70.tar",
+      "size": 20244480,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:1bcd20bb29e91a9e9c6cb87ddd11fc0d",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/6827450/files/Pilot_baffles_length_comp.csv/content",
+      "key": "Pilot_baffles_length_comp.csv",
+      "local_path": "files/Pilot_baffles_length_comp.csv",
+      "size": 59578,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:19a347017454cfd2ca9843853c7dba6e",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/Bewise_scale_outputs_active_9.tar/content",
+      "key": "Bewise_scale_outputs_active_9.tar",
+      "local_path": ".source/Bewise_scale_outputs_active_9.tar",
+      "size": 27064320,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:291c200280da7b299bd060e3faf804ee",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/Bewise_scale_outputs_active_8.tar/content",
+      "key": "Bewise_scale_outputs_active_8.tar",
+      "local_path": ".source/Bewise_scale_outputs_active_8.tar",
+      "size": 26163200,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:6435d88685e11d84c99006b99848ed19",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/6827450/files/Bewise_scale_outputs_active_7.tar/content",
+      "key": "Bewise_scale_outputs_active_7.tar",
+      "local_path": ".source/Bewise_scale_outputs_active_7.tar",
+      "size": 25221120,
+      "skipped_reason": null
+    }
+  ],
+  "id": "6827450",
+  "source": "zenodo"
+}

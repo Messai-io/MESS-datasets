@@ -1,0 +1,17 @@
+{
+  "doi": "10.5281/zenodo.4529615",
+  "fetched_at": "2026-04-20T04:49:56+00:00",
+  "files": [
+    {
+      "checksum": "md5:11a45850e1513442bba0686cce1c3de0",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/4529615/files/Novel%20bioelectrochemical%20strategies%20for%20domesticating%20the%20electron%20flow.xlsx/content",
+      "key": "Novel bioelectrochemical strategies for domesticating the electron flow.xlsx",
+      "local_path": "files/Novel bioelectrochemical strategies for domesticating the electron flow.xlsx",
+      "size": 27738,
+      "skipped_reason": null
+    }
+  ],
+  "id": "4529615",
+  "source": "zenodo"
+}

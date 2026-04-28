@@ -1,0 +1,126 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://messai.io/schemas/dataset-catalog.schema.json",
+  "title": "MESS-datasets Aggregated Catalog",
+  "description": "data/<source>/catalog.json — one array entry per record. Downstream consumers read this to discover datasets without crawling the filesystem. Source-agnostic; new sources add entries with a matching `source` field.",
+  "type": "object",
+  "required": ["generated_at", "records"],
+  "additionalProperties": false,
+  "properties": {
+    "generated_at": { "type": "string", "format": "date-time" },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "source",
+          "id",
+          "title",
+          "license",
+          "files",
+          "mes_relevance",
+          "mes_domains",
+          "data_kinds",
+          "related_slugs",
+          "last_synced"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "source": { "type": "string", "enum": ["zenodo", "figshare"] },
+          "id": { "type": "string" },
+          "doi": { "type": ["string", "null"] },
+          "paper_doi": {
+            "type": ["string", "null"],
+            "description": "DOI of the paper this record supplements, when known. Join key to papers databases."
+          },
+          "title": { "type": "string" },
+          "publication_date": { "type": ["string", "null"] },
+          "license": { "type": ["string", "null"] },
+          "creators": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "keywords": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "files": {
+            "type": "object",
+            "required": ["count", "total_bytes", "committed_count"],
+            "additionalProperties": false,
+            "properties": {
+              "count": { "type": "integer", "minimum": 0 },
+              "total_bytes": { "type": "integer", "minimum": 0 },
+              "committed_count": { "type": "integer", "minimum": 0 }
+            }
+          },
+          "mes_relevance": {
+            "type": ["string", "null"],
+            "enum": ["core", "adjacent", "tangential", null],
+            "description": "Assigned in a follow-up classification pass. Null until reviewed."
+          },
+          "mes_domains": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "mfc",
+                "mec",
+                "mes_general",
+                "biofilm",
+                "electrocatalysis",
+                "oect",
+                "bioremediation",
+                "corrosion",
+                "energy_storage",
+                "sensor",
+                "co2_capture",
+                "wastewater",
+                "metagenomics",
+                "other"
+              ]
+            },
+            "uniqueItems": true
+          },
+          "data_kinds": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "experimental",
+                "time_series",
+                "spectroscopy",
+                "image",
+                "genomic",
+                "simulation",
+                "benchmark",
+                "code",
+                "mixed",
+                "other"
+              ]
+            },
+            "uniqueItems": true
+          },
+          "related_slugs": {
+            "type": "object",
+            "required": ["parameters", "materials"],
+            "additionalProperties": false,
+            "properties": {
+              "parameters": {
+                "type": "array",
+                "items": { "type": "string" },
+                "description": "MESS-Parameters slugs this record touches."
+              },
+              "materials": {
+                "type": "array",
+                "items": { "type": "string" },
+                "description": "MESS-Materials slugs this record touches."
+              }
+            }
+          },
+          "last_synced": { "type": "string", "format": "date-time" }
+        }
+      }
+    }
+  }
+}

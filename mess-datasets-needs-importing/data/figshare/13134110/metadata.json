@@ -1,0 +1,974 @@
+{
+  "authors": [
+    {
+      "first_name": "Da-Cheng",
+      "full_name": "Da-Cheng Hao",
+      "id": 3989648,
+      "is_active": false,
+      "last_name": "Hao",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Xiao-Jing",
+      "full_name": "Xiao-Jing Li",
+      "id": 222738,
+      "is_active": false,
+      "last_name": "Li",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Pei-Gen",
+      "full_name": "Pei-Gen Xiao",
+      "id": 9555029,
+      "is_active": false,
+      "last_name": "Xiao",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Lian-Feng",
+      "full_name": "Lian-Feng Wang",
+      "id": 9555032,
+      "is_active": false,
+      "last_name": "Wang",
+      "orcid_id": "",
+      "url_name": "_"
+    }
+  ],
+  "categories": [
+    {
+      "id": 8,
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Microbiology"
+    },
+    {
+      "id": 706,
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Microbial Genetics"
+    },
+    {
+      "id": 707,
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Microbial Ecology"
+    },
+    {
+      "id": 708,
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Mycology"
+    }
+  ],
+  "citation": "Hao, Da-Cheng; Li, Xiao-Jing; Xiao, Pei-Gen; Wang, Lian-Feng (2020). Data_Sheet_1_The Utility of Electrochemical Systems in Microbial Degradation of Polycyclic Aromatic Hydrocarbons: Discourse, Diversity and Design.docx. Frontiers. Dataset. https://doi.org/10.3389/fmicb.2020.557400.s001",
+  "confidential_reason": "",
+  "created_date": "2020-10-23T05:01:33Z",
+  "custom_fields": [],
+  "defined_type": 3,
+  "defined_type_name": "dataset",
+  "description": "<p>Polycyclic aromatic hydrocarbons (PAHs), especially high molecular weight PAHs, are carcinogenic and mutagenic organic compounds that are difficult to degrade. Microbial remediation is a popular method for the PAH removal in diverse environments and yet it is limited by the lack of electron acceptors. An emerging solution is to use the microbial electrochemical system, in which the solid anode is used as an inexhaustible electron acceptor and the microbial activity is stimulated by biocurrent in situ to ensure the PAH removal and avoid the defects of bioremediation. Based on the extensive investigation of recent literatures, this paper summarizes and comments on the research progress of PAH removal by the microbial electrochemical system of diversified design, enhanced measures and functional microorganisms. First, the bioelectrochemical degradation of PAHs is reviewed in separate and mixed PAH degradation, and the removal performance of PAHs in different system configurations is compared with the anode modification, the enhancement of substrate and electron transfer, the addition of chemical reagents, and the combination with phytoremediation. Second, the key functional microbiota including PAH degrading microbes and exoelectrogens are overviewed as well as the reduced microbes without competitive advantage. Finally, the typical representations of electrochemical activity especially the internal resistance, power density and current density of systems and influence factors are reviewed with the correlation analysis between PAH removal and energy generation. Presently, most studies focused on the anode modification in the bioelectrochemical degradation of PAHs and actually more attentions need to be paid to enhance the mass transfer and thus larger remediation radius, and other smart designs are also proposed, especially that the combined use of phytoremediation could be an eco-friendly and sustainable approach. Additionally, exoelectrogens and PAH degraders are partially overlapping, but the exact functional mechanisms of interaction network are still elusive, which could be revealed with the aid of advanced bioinformatics technology. In order to optimize the efficacy of functional community, more advanced techniques such as omics technology, photoelectrocatalysis and nanotechnology should be considered in the future research to improve the energy generation and PAH biodegradation rate simultaneously.</p>",
+  "doi": "10.3389/fmicb.2020.557400.s001",
+  "download_disabled": false,
+  "embargo_date": null,
+  "embargo_options": [],
+  "embargo_reason": "",
+  "embargo_title": "",
+  "embargo_type": null,
+  "figshare_url": "https://frontiersin.figshare.com/articles/dataset/Data_Sheet_1_The_Utility_of_Electrochemical_Systems_in_Microbial_Degradation_of_Polycyclic_Aromatic_Hydrocarbons_Discourse_Diversity_and_Design_docx/13134110",
+  "files": [
+    {
+      "computed_md5": "6cff8c2b1132bc0d30e2697098086421",
+      "download_url": "https://ndownloader.figshare.com/files/25209287",
+      "id": 25209287,
+      "is_link_only": false,
+      "mimetype": "undefined",
+      "name": "Data_Sheet_1_The Utility of Electrochemical Systems in Microbial Degradation of Polycyclic Aromatic Hydrocarbons: Discourse, Diversity and Design.docx",
+      "size": 55649,
+      "supplied_md5": "6cff8c2b1132bc0d30e2697098086421"
+    }
+  ],
+  "folder_structure": {},
+  "funding": null,
+  "funding_list": [],
+  "group_id": 11818,
+  "handle": "",
+  "has_linked_file": false,
+  "id": 13134110,
+  "is_confidential": false,
+  "is_embargoed": false,
+  "is_metadata_record": false,
+  "is_public": true,
+  "keywords": [
+    "polycyclic aromatic hydrocarbon",
+    "microbial fuel cell",
+    "anode modification",
+    "electroactive microbe",
+    "degradation"
+  ],
+  "license": {
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "value": 1
+  },
+  "metadata_reason": "",
+  "modified_date": "2023-06-01T15:07:22Z",
+  "published_date": "2020-10-23T05:01:33Z",
+  "references": [
+    "https://doi.org//10.1002/elsc.201300089",
+    "https://doi.org//10.1016/j.ibiod.2016.10.021",
+    "https://doi.org//10.1016/j.biortech.2012.09.095",
+    "https://doi.org//10.1007/s00253-013-5328-5",
+    "https://doi.org//10.1111/j.1574-6941.2012.01328.x",
+    "https://doi.org//10.1590/s1517-838246120131354",
+    "https://doi.org//10.1016/j.biortech.2015.03.148",
+    "https://doi.org//10.1080/07388551.2017.1311296",
+    "https://doi.org//10.1016/j.watres.2017.02.030",
+    "https://doi.org//10.1021/acsnano.6b03655",
+    "https://doi.org//10.1016/j.biortech.2020.123420",
+    "https://doi.org//10.18520/cs/v116/i7/1218-1228",
+    "https://doi.org//10.1016/j.scitotenv.2016.09.232",
+    "https://doi.org//10.1002/jobm.201700663",
+    "https://doi.org//10.1016/j.biortech.2009.01.030",
+    "https://doi.org//10.1039/c3ra43180k",
+    "https://doi.org//10.1016/j.cej.2011.06.024",
+    "https://doi.org//10.1016/j.ibiod.2015.03.014",
+    "https://doi.org//10.1016/j.bioelechem.2017.06.003",
+    "https://doi.org//10.1016/s0032-9592%2803%2900203-6",
+    "https://doi.org//10.1111/j.1462-2920.2010.02284.x",
+    "https://doi.org//10.1007/s11356-019-04297-w",
+    "https://doi.org//10.1111/j.1462-2920.2012.02832.x",
+    "https://doi.org//10.1371/journal.pone.0077443",
+    "https://doi.org//10.1016/j.envpol.2017.08.048",
+    "https://doi.org//10.1016/j.cej.2012.09.029",
+    "https://doi.org//10.1371/journal.pone.0145430",
+    "https://doi.org//10.1016/j.jpowsour.2017.03.066",
+    "https://doi.org//10.1002/elan.200704094",
+    "https://doi.org//10.1016/j.scitotenv.2018.09.098",
+    "https://doi.org//10.1016/j.chemosphere.2019.01.040",
+    "https://doi.org//10.1016/j.chemosphere.2015.06.025",
+    "https://doi.org//10.1002/jctb.4660",
+    "https://doi.org//10.1039/c4ra10673c",
+    "https://doi.org//10.1016/j.bios.2016.05.001",
+    "https://doi.org//10.1016/j.jhazmat.2017.09.050",
+    "https://doi.org//10.1007/s10532-014-9702-5",
+    "https://doi.org//10.1016/j.scitotenv.2019.136483",
+    "https://doi.org//10.1016/j.jhazmat.2019.120896",
+    "https://doi.org//10.1021/es050316c",
+    "https://doi.org//10.1038/s41579-019-0173-x",
+    "https://doi.org//10.1021/es4057906",
+    "https://doi.org//10.1016/j.jpowsour.2012.08.034",
+    "https://doi.org//10.1016/j.bios.2015.02.025",
+    "https://doi.org//10.1016/j.biortech.2014.01.120",
+    "https://doi.org//10.1016/j.biortech.2011.07.038",
+    "https://doi.org//10.1016/j.bioelechem.2015.07.011",
+    "https://doi.org//10.1016/j.cej.2008.05.028",
+    "https://doi.org//10.1016/j.tim.2020.01.008",
+    "https://doi.org//10.1016/s1001-0742%2813%2960535-5",
+    "https://doi.org//10.1016/j.scitotenv.2020.137370",
+    "https://doi.org//10.1016/j.tim.2019.11.006",
+    "https://doi.org//10.1016/j.jenvman.2018.11.005",
+    "https://doi.org//10.1016/j.ecoenv.2011.12.005",
+    "https://doi.org//10.1016/j.jhazmat.2019.121845",
+    "https://doi.org//10.1016/j.bioelechem.2020.107527",
+    "https://doi.org//10.1016/j.biortech.2015.06.002",
+    "https://doi.org//10.3389/fmicb.2016.00092",
+    "https://doi.org//10.3390/en11010124",
+    "https://doi.org//10.3389/fmicb.2016.00006",
+    "https://doi.org//10.1007/s00253-017-8214-8",
+    "https://doi.org//10.1016/j.scitotenv.2015.08.098",
+    "https://doi.org//10.1016/j.scitotenv.2018.05.290",
+    "https://doi.org//10.1016/j.jhazmat.2019.121726",
+    "https://doi.org//10.1016/j.chemosphere.2019.06.229",
+    "https://doi.org//10.1016/j.watres.2018.11.075",
+    "https://doi.org//10.1002/bit.23351",
+    "https://doi.org//10.1007/s11368-019-02247-0",
+    "https://doi.org//10.1021/acs.est.7b00209",
+    "https://doi.org//10.1016/j.jes.2019.04.027",
+    "https://doi.org//10.1088/1361-6528/ab6ab5",
+    "https://doi.org//10.1016/j.jhazmat.2019.05.052",
+    "https://doi.org//10.1016/j.jhazmat.2017.04.066",
+    "https://doi.org//10.1007/s11356-014-3539-7",
+    "https://doi.org//10.1007/s00253-015-6420-9",
+    "https://doi.org//10.1016/j.jhazmat.2016.06.055",
+    "https://doi.org//10.1016/j.jclepro.2019.02.212",
+    "https://doi.org//10.1016/j.biortech.2017.03.002",
+    "https://doi.org//10.1016/j.jhazmat.2018.01.060",
+    "https://doi.org//10.1002/elan.201501052",
+    "https://doi.org//10.1016/j.jhazmat.2019.120945",
+    "https://doi.org/10.3389/fmicb.2020.557400"
+  ],
+  "related_materials": [
+    {
+      "id": 20697671,
+      "identifier": "https://doi.org//10.1002/elsc.201300089",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/elsc.201300089",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697674,
+      "identifier": "https://doi.org//10.1016/j.ibiod.2016.10.021",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.ibiod.2016.10.021",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697680,
+      "identifier": "https://doi.org//10.1016/j.biortech.2012.09.095",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2012.09.095",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697686,
+      "identifier": "https://doi.org//10.1007/s00253-013-5328-5",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s00253-013-5328-5",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697689,
+      "identifier": "https://doi.org//10.1111/j.1574-6941.2012.01328.x",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.1574-6941.2012.01328.x",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697695,
+      "identifier": "https://doi.org//10.1590/s1517-838246120131354",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1590/s1517-838246120131354",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697701,
+      "identifier": "https://doi.org//10.1016/j.biortech.2015.03.148",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2015.03.148",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697704,
+      "identifier": "https://doi.org//10.1080/07388551.2017.1311296",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1080/07388551.2017.1311296",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697707,
+      "identifier": "https://doi.org//10.1016/j.watres.2017.02.030",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.watres.2017.02.030",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697710,
+      "identifier": "https://doi.org//10.1021/acsnano.6b03655",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/acsnano.6b03655",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697713,
+      "identifier": "https://doi.org//10.1016/j.biortech.2020.123420",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2020.123420",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697719,
+      "identifier": "https://doi.org//10.18520/cs/v116/i7/1218-1228",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.18520/cs/v116/i7/1218-1228",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697725,
+      "identifier": "https://doi.org//10.1016/j.scitotenv.2016.09.232",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.scitotenv.2016.09.232",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697728,
+      "identifier": "https://doi.org//10.1002/jobm.201700663",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/jobm.201700663",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697734,
+      "identifier": "https://doi.org//10.1016/j.biortech.2009.01.030",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2009.01.030",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697740,
+      "identifier": "https://doi.org//10.1039/c3ra43180k",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1039/c3ra43180k",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697746,
+      "identifier": "https://doi.org//10.1016/j.cej.2011.06.024",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.cej.2011.06.024",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697752,
+      "identifier": "https://doi.org//10.1016/j.ibiod.2015.03.014",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.ibiod.2015.03.014",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697761,
+      "identifier": "https://doi.org//10.1016/j.bioelechem.2017.06.003",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.bioelechem.2017.06.003",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697767,
+      "identifier": "https://doi.org//10.1016/s0032-9592(03)00203-6",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/s0032-9592(03)00203-6",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697773,
+      "identifier": "https://doi.org//10.1111/j.1462-2920.2010.02284.x",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.1462-2920.2010.02284.x",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697788,
+      "identifier": "https://doi.org//10.1007/s11356-019-04297-w",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s11356-019-04297-w",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697797,
+      "identifier": "https://doi.org//10.1111/j.1462-2920.2012.02832.x",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.1462-2920.2012.02832.x",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697803,
+      "identifier": "https://doi.org//10.1371/journal.pone.0077443",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1371/journal.pone.0077443",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697806,
+      "identifier": "https://doi.org//10.1016/j.envpol.2017.08.048",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.envpol.2017.08.048",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697815,
+      "identifier": "https://doi.org//10.1016/j.cej.2012.09.029",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.cej.2012.09.029",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697824,
+      "identifier": "https://doi.org//10.1371/journal.pone.0145430",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1371/journal.pone.0145430",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697830,
+      "identifier": "https://doi.org//10.1016/j.jpowsour.2017.03.066",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jpowsour.2017.03.066",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697836,
+      "identifier": "https://doi.org//10.1002/elan.200704094",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/elan.200704094",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697839,
+      "identifier": "https://doi.org//10.1016/j.scitotenv.2018.09.098",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.scitotenv.2018.09.098",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697842,
+      "identifier": "https://doi.org//10.1016/j.chemosphere.2019.01.040",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.chemosphere.2019.01.040",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697845,
+      "identifier": "https://doi.org//10.1016/j.chemosphere.2015.06.025",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.chemosphere.2015.06.025",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697851,
+      "identifier": "https://doi.org//10.1002/jctb.4660",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/jctb.4660",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697857,
+      "identifier": "https://doi.org//10.1039/c4ra10673c",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1039/c4ra10673c",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697863,
+      "identifier": "https://doi.org//10.1016/j.bios.2016.05.001",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.bios.2016.05.001",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697872,
+      "identifier": "https://doi.org//10.1016/j.jhazmat.2017.09.050",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jhazmat.2017.09.050",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697878,
+      "identifier": "https://doi.org//10.1007/s10532-014-9702-5",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s10532-014-9702-5",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697884,
+      "identifier": "https://doi.org//10.1016/j.scitotenv.2019.136483",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.scitotenv.2019.136483",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697893,
+      "identifier": "https://doi.org//10.1016/j.jhazmat.2019.120896",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jhazmat.2019.120896",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697902,
+      "identifier": "https://doi.org//10.1021/es050316c",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/es050316c",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697911,
+      "identifier": "https://doi.org//10.1038/s41579-019-0173-x",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/s41579-019-0173-x",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697920,
+      "identifier": "https://doi.org//10.1021/es4057906",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/es4057906",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697929,
+      "identifier": "https://doi.org//10.1016/j.jpowsour.2012.08.034",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jpowsour.2012.08.034",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697938,
+      "identifier": "https://doi.org//10.1016/j.bios.2015.02.025",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.bios.2015.02.025",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697947,
+      "identifier": "https://doi.org//10.1016/j.biortech.2014.01.120",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2014.01.120",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697956,
+      "identifier": "https://doi.org//10.1016/j.biortech.2011.07.038",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2011.07.038",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697965,
+      "identifier": "https://doi.org//10.1016/j.bioelechem.2015.07.011",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.bioelechem.2015.07.011",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697971,
+      "identifier": "https://doi.org//10.1016/j.cej.2008.05.028",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.cej.2008.05.028",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697977,
+      "identifier": "https://doi.org//10.1016/j.tim.2020.01.008",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.tim.2020.01.008",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697986,
+      "identifier": "https://doi.org//10.1016/s1001-0742(13)60535-5",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/s1001-0742(13)60535-5",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697992,
+      "identifier": "https://doi.org//10.1016/j.scitotenv.2020.137370",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.scitotenv.2020.137370",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20697998,
+      "identifier": "https://doi.org//10.1016/j.tim.2019.11.006",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.tim.2019.11.006",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698007,
+      "identifier": "https://doi.org//10.1016/j.jenvman.2018.11.005",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jenvman.2018.11.005",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698016,
+      "identifier": "https://doi.org//10.1016/j.ecoenv.2011.12.005",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.ecoenv.2011.12.005",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698025,
+      "identifier": "https://doi.org//10.1016/j.jhazmat.2019.121845",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jhazmat.2019.121845",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698028,
+      "identifier": "https://doi.org//10.1016/j.bioelechem.2020.107527",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.bioelechem.2020.107527",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698034,
+      "identifier": "https://doi.org//10.1016/j.biortech.2015.06.002",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2015.06.002",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698040,
+      "identifier": "https://doi.org//10.3389/fmicb.2016.00092",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fmicb.2016.00092",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698049,
+      "identifier": "https://doi.org//10.3390/en11010124",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3390/en11010124",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698058,
+      "identifier": "https://doi.org//10.3389/fmicb.2016.00006",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fmicb.2016.00006",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698064,
+      "identifier": "https://doi.org//10.1007/s00253-017-8214-8",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s00253-017-8214-8",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698067,
+      "identifier": "https://doi.org//10.1016/j.scitotenv.2015.08.098",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.scitotenv.2015.08.098",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698076,
+      "identifier": "https://doi.org//10.1016/j.scitotenv.2018.05.290",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.scitotenv.2018.05.290",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698082,
+      "identifier": "https://doi.org//10.1016/j.jhazmat.2019.121726",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jhazmat.2019.121726",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698088,
+      "identifier": "https://doi.org//10.1016/j.chemosphere.2019.06.229",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.chemosphere.2019.06.229",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698094,
+      "identifier": "https://doi.org//10.1016/j.watres.2018.11.075",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.watres.2018.11.075",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698100,
+      "identifier": "https://doi.org//10.1002/bit.23351",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/bit.23351",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698106,
+      "identifier": "https://doi.org//10.1007/s11368-019-02247-0",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s11368-019-02247-0",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698112,
+      "identifier": "https://doi.org//10.1021/acs.est.7b00209",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/acs.est.7b00209",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698118,
+      "identifier": "https://doi.org//10.1016/j.jes.2019.04.027",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jes.2019.04.027",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698121,
+      "identifier": "https://doi.org//10.1088/1361-6528/ab6ab5",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1088/1361-6528/ab6ab5",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698127,
+      "identifier": "https://doi.org//10.1016/j.jhazmat.2019.05.052",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jhazmat.2019.05.052",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698136,
+      "identifier": "https://doi.org//10.1016/j.jhazmat.2017.04.066",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jhazmat.2017.04.066",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698142,
+      "identifier": "https://doi.org//10.1007/s11356-014-3539-7",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s11356-014-3539-7",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698148,
+      "identifier": "https://doi.org//10.1007/s00253-015-6420-9",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s00253-015-6420-9",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698154,
+      "identifier": "https://doi.org//10.1016/j.jhazmat.2016.06.055",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jhazmat.2016.06.055",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698160,
+      "identifier": "https://doi.org//10.1016/j.jclepro.2019.02.212",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jclepro.2019.02.212",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698166,
+      "identifier": "https://doi.org//10.1016/j.biortech.2017.03.002",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2017.03.002",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698175,
+      "identifier": "https://doi.org//10.1016/j.jhazmat.2018.01.060",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jhazmat.2018.01.060",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698181,
+      "identifier": "https://doi.org//10.1002/elan.201501052",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/elan.201501052",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698187,
+      "identifier": "https://doi.org//10.1016/j.jhazmat.2019.120945",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jhazmat.2019.120945",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 20698196,
+      "identifier": "10.3389/fmicb.2020.557400",
+      "identifier_type": "DOI",
+      "is_linkout": true,
+      "link": "https://doi.org/10.3389/fmicb.2020.557400",
+      "relation": "IsSupplementTo",
+      "title": "The Utility of Electrochemical Systems in Microbial Degradation of Polycyclic Aromatic Hydrocarbons: Discourse, Diversity and Design"
+    }
+  ],
+  "resource_doi": "10.3389/fmicb.2020.557400",
+  "resource_title": "The Utility of Electrochemical Systems in Microbial Degradation of Polycyclic Aromatic Hydrocarbons: Discourse, Diversity and Design",
+  "size": 55649,
+  "status": "public",
+  "tags": [
+    "polycyclic aromatic hydrocarbon",
+    "microbial fuel cell",
+    "anode modification",
+    "electroactive microbe",
+    "degradation"
+  ],
+  "thumb": "",
+  "timeline": {
+    "firstOnline": "2020-10-23T05:01:33",
+    "posted": "2020-10-23T05:01:33"
+  },
+  "title": "Data_Sheet_1_The Utility of Electrochemical Systems in Microbial Degradation of Polycyclic Aromatic Hydrocarbons: Discourse, Diversity and Design.docx",
+  "url": "https://api.figshare.com/v2/articles/13134110",
+  "url_private_api": "https://api.figshare.com/v2/account/articles/13134110",
+  "url_private_html": "https://figshare.com/account/articles/13134110",
+  "url_public_api": "https://api.figshare.com/v2/articles/13134110",
+  "url_public_html": "https://frontiersin.figshare.com/articles/dataset/Data_Sheet_1_The_Utility_of_Electrochemical_Systems_in_Microbial_Degradation_of_Polycyclic_Aromatic_Hydrocarbons_Discourse_Diversity_and_Design_docx/13134110",
+  "version": 1
+}

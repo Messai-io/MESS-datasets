@@ -1,0 +1,53 @@
+{
+  "doi": "10.5281/zenodo.7050972",
+  "fetched_at": "2026-04-20T04:39:27+00:00",
+  "files": [
+    {
+      "checksum": "md5:c575ec757c8c1224f901ec14fb099650",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/7050972/files/statistics%20summary.csv/content",
+      "key": "statistics summary.csv",
+      "local_path": "files/statistics summary.csv",
+      "size": 15438,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:a1caa0f9a3b0dc4e2717043a452f6525",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/7050972/files/Data%20with%20average%20of%20four%20data%20sets%20for%20impact%20of%20mediators.zip/content",
+      "key": "Data with average of four data sets for impact of mediators.zip",
+      "local_path": ".source/Data with average of four data sets for impact of mediators.zip",
+      "size": 57418251,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:7f6aa63af37f11ce0e1be8a807d70d7f",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/7050972/files/Slope%20EF.py/content",
+      "key": "Slope EF.py",
+      "local_path": "files/Slope EF.py",
+      "size": 3634,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:96bb6496ad75481d561541c44d3f4da0",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/7050972/files/2D%20Bayesian%20Optimization%20mapping.py/content",
+      "key": "2D Bayesian Optimization mapping.py",
+      "local_path": "files/2D Bayesian Optimization mapping.py",
+      "size": 6074,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:d23a2480da439992928a2cec98c567aa",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/7050972/files/2D%20Bayesian%20Optimization_slice.py/content",
+      "key": "2D Bayesian Optimization_slice.py",
+      "local_path": "files/2D Bayesian Optimization_slice.py",
+      "size": 3125,
+      "skipped_reason": null
+    }
+  ],
+  "id": "7050972",
+  "source": "zenodo"
+}

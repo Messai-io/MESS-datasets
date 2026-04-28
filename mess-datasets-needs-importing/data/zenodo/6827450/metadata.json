@@ -1,0 +1,376 @@
+{
+  "conceptdoi": "10.5281/zenodo.6827449",
+  "conceptrecid": "6827449",
+  "created": "2022-07-13T13:58:38.784633+00:00",
+  "doi": "10.5281/zenodo.6827450",
+  "doi_url": "https://doi.org/10.5281/zenodo.6827450",
+  "files": [
+    {
+      "checksum": "md5:d1db3a50202746492556e9d37cdfd1a0",
+      "id": "8262c506-0d05-4e0a-b65c-909efbda4508",
+      "key": "Bewise_scale_outputs_active_6.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/Bewise_scale_outputs_active_6.tar/content"
+      },
+      "size": 24238080
+    },
+    {
+      "checksum": "md5:e8114e876b781d5069294b7b365a9eff",
+      "id": "c3e69f39-5fbe-43d4-8515-ce0862456404",
+      "key": "Bewise_scale_outputs_active_4.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/Bewise_scale_outputs_active_4.tar/content"
+      },
+      "size": 22067200
+    },
+    {
+      "checksum": "md5:832fecc570d5c569a35e10d66ea739ec",
+      "id": "e80b909b-bf79-41a2-9070-65f90231cfcd",
+      "key": "Bewise_scale_outputs_active_5.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/Bewise_scale_outputs_active_5.tar/content"
+      },
+      "size": 23193600
+    },
+    {
+      "checksum": "md5:0c4365971ef40984201e962c2e5e18cb",
+      "id": "812df6a0-7b53-4537-ad57-e74093173192",
+      "key": "Bewise_scale_outputs_active_2.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/Bewise_scale_outputs_active_2.tar/content"
+      },
+      "size": 19671040
+    },
+    {
+      "checksum": "md5:ab99d6db9df72765bce47ba90a9f7361",
+      "id": "c02e912a-2842-4adb-af53-5274073d6c11",
+      "key": "Bewise_scale_outputs_active_3.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/Bewise_scale_outputs_active_3.tar/content"
+      },
+      "size": 20899840
+    },
+    {
+      "checksum": "md5:0626866318ac91d7ed96737c36a7052b",
+      "id": "5ac4af1f-b74b-4fb0-a924-64faf93d7c72",
+      "key": "Bewise_scale_outputs_active_1.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/Bewise_scale_outputs_active_1.tar/content"
+      },
+      "size": 18350080
+    },
+    {
+      "checksum": "md5:296ffda6322766565340e4b1d9d5c9a8",
+      "id": "a0bb9cd8-a432-437d-833b-bb2586f6ae6a",
+      "key": "bewise_baffles_summary.csv",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/bewise_baffles_summary.csv/content"
+      },
+      "size": 36406
+    },
+    {
+      "checksum": "md5:3655951f46f041b467e6044dc04e008c",
+      "id": "9ee108ca-6a03-4dba-ade2-01c8a632fb20",
+      "key": "pilot_scale_outputs_active_6-90.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_6-90.tar/content"
+      },
+      "size": 24637440
+    },
+    {
+      "checksum": "md5:297dd9c966b7295aaa94c1e79c4e46a3",
+      "id": "38165299-15af-48eb-b512-a503489d7f87",
+      "key": "pilot_scale_outputs_active_6-80.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_6-80.tar/content"
+      },
+      "size": 24412160
+    },
+    {
+      "checksum": "md5:9c2c5397f8756cfcd0722927ff766eda",
+      "id": "ae9a7975-d74d-4fdf-9402-c12b0fe2facc",
+      "key": "pilot_scale_outputs_active_6-70.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_6-70.tar/content"
+      },
+      "size": 24350720
+    },
+    {
+      "checksum": "md5:7e671d2b82768ba1d777860b9a34199a",
+      "id": "3d7a99cf-b101-41ae-8c8e-dfd1115e382d",
+      "key": "pilot_scale_outputs_active_5-90.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_5-90.tar/content"
+      },
+      "size": 23756800
+    },
+    {
+      "checksum": "md5:3b9e5a8c784eea76549b26203b660ce8",
+      "id": "778cfaf1-d9b8-41a5-bba8-f073a66d67f5",
+      "key": "pilot_scale_outputs_active_5-80.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_5-80.tar/content"
+      },
+      "size": 23582720
+    },
+    {
+      "checksum": "md5:48c267774b11ad629c0f9da64c56767e",
+      "id": "84c4ed6f-6276-438e-9c19-f1e49e445002",
+      "key": "pilot_scale_outputs_active_5-70.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_5-70.tar/content"
+      },
+      "size": 23623680
+    },
+    {
+      "checksum": "md5:7532de8a5b7afcd6db8fe2534edf84bb",
+      "id": "95061ff4-62de-4737-abfa-a46475900a04",
+      "key": "pilot_scale_outputs_active_4-90.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_4-90.tar/content"
+      },
+      "size": 22773760
+    },
+    {
+      "checksum": "md5:bdafae6f69867423ecb19a189fd16f91",
+      "id": "6453bf6e-f1e1-4a0d-a3b2-f3ba039d0349",
+      "key": "pilot_scale_outputs_active_4-80.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_4-80.tar/content"
+      },
+      "size": 22671360
+    },
+    {
+      "checksum": "md5:af039ebf0f57bc1d172cd11167deacc6",
+      "id": "2427c4d3-5796-4d84-8f4e-c94458132662",
+      "key": "pilot_scale_outputs_active_4-70.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_4-70.tar/content"
+      },
+      "size": 22824960
+    },
+    {
+      "checksum": "md5:82d88b8c936143d6db61b88f3d58f463",
+      "id": "7d870d9e-1c43-4ec4-a2fb-c8d53b7ac846",
+      "key": "pilot_scale_outputs_active_3-90.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_3-90.tar/content"
+      },
+      "size": 21729280
+    },
+    {
+      "checksum": "md5:51b3d8f05697496f843bea565db7f55c",
+      "id": "2d4f175c-e7dd-4fa4-9554-9a955a630903",
+      "key": "pilot_scale_outputs_active_3-80.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_3-80.tar/content"
+      },
+      "size": 22005760
+    },
+    {
+      "checksum": "md5:88ec521c23d481231852ae69df046b65",
+      "id": "18ecd7d2-4adb-48e1-8ab3-c1a6aeb31900",
+      "key": "pilot_scale_outputs_active_3-70.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_3-70.tar/content"
+      },
+      "size": 22005760
+    },
+    {
+      "checksum": "md5:af8775eb2a1f4b60ce9d233ba53b4d4e",
+      "id": "320755f8-6214-4873-a845-8f5db0db06e8",
+      "key": "pilot_scale_outputs_active_2-90.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_2-90.tar/content"
+      },
+      "size": 20613120
+    },
+    {
+      "checksum": "md5:bfd617144ebda9849e975eb742c1a911",
+      "id": "07d1f257-fa73-4e97-9dea-eae5664dfc07",
+      "key": "pilot_scale_outputs_active_2-80.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_2-80.tar/content"
+      },
+      "size": 20674560
+    },
+    {
+      "checksum": "md5:11cc0f0755c8c07bdcc4d561a23f1e93",
+      "id": "c5cb71dd-544c-4945-aa01-614bdc17a360",
+      "key": "pilot_scale_outputs_active_2-70.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_2-70.tar/content"
+      },
+      "size": 21155840
+    },
+    {
+      "checksum": "md5:a06242dc385298e28dbee24d24712537",
+      "id": "5a5f65c1-5838-4ad6-bfdd-6aa3f202870a",
+      "key": "pilot_scale_outputs_active_1-90.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_1-90.tar/content"
+      },
+      "size": 19353600
+    },
+    {
+      "checksum": "md5:11e93cf9278bda6c666d58c3a8ed1bea",
+      "id": "0941b7d7-2d5c-49fc-8875-30e6260dbbb2",
+      "key": "pilot_scale_outputs_active_1-80.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_1-80.tar/content"
+      },
+      "size": 19517440
+    },
+    {
+      "checksum": "md5:eeb0fc0446418dbd67889d801d719fe4",
+      "id": "7163a29f-149d-4f6a-b3b2-b491e1ea6356",
+      "key": "pilot_scale_outputs_active_1-70.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/pilot_scale_outputs_active_1-70.tar/content"
+      },
+      "size": 20244480
+    },
+    {
+      "checksum": "md5:1bcd20bb29e91a9e9c6cb87ddd11fc0d",
+      "id": "6a6b3e1f-1cfb-4f39-a4e3-3c55ab8f897c",
+      "key": "Pilot_baffles_length_comp.csv",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/Pilot_baffles_length_comp.csv/content"
+      },
+      "size": 59578
+    },
+    {
+      "checksum": "md5:19a347017454cfd2ca9843853c7dba6e",
+      "id": "08ec4be1-02f9-4426-b01d-cf1823fabeca",
+      "key": "Bewise_scale_outputs_active_9.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/Bewise_scale_outputs_active_9.tar/content"
+      },
+      "size": 27064320
+    },
+    {
+      "checksum": "md5:291c200280da7b299bd060e3faf804ee",
+      "id": "a0a57cd6-df16-4d79-96da-f579716987f0",
+      "key": "Bewise_scale_outputs_active_8.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/Bewise_scale_outputs_active_8.tar/content"
+      },
+      "size": 26163200
+    },
+    {
+      "checksum": "md5:6435d88685e11d84c99006b99848ed19",
+      "id": "7a81e8c4-dd53-48e6-ba5b-ac6a69bdffcc",
+      "key": "Bewise_scale_outputs_active_7.tar",
+      "links": {
+        "self": "https://zenodo.org/api/records/6827450/files/Bewise_scale_outputs_active_7.tar/content"
+      },
+      "size": 25221120
+    }
+  ],
+  "id": 6827450,
+  "links": {
+    "access": "https://zenodo.org/api/records/6827450/access",
+    "access_grants": "https://zenodo.org/api/records/6827450/access/grants",
+    "access_links": "https://zenodo.org/api/records/6827450/access/links",
+    "access_request": "https://zenodo.org/api/records/6827450/access/request",
+    "access_users": "https://zenodo.org/api/records/6827450/access/users",
+    "archive": "https://zenodo.org/api/records/6827450/files-archive",
+    "archive_media": "https://zenodo.org/api/records/6827450/media-files-archive",
+    "communities": "https://zenodo.org/api/records/6827450/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/6827450/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.6827450",
+    "draft": "https://zenodo.org/api/records/6827450/draft",
+    "file_modification": "https://zenodo.org/api/records/6827450/file-modification",
+    "files": "https://zenodo.org/api/records/6827450/files",
+    "latest": "https://zenodo.org/api/records/6827450/versions/latest",
+    "latest_html": "https://zenodo.org/records/6827450/latest",
+    "media_files": "https://zenodo.org/api/records/6827450/media-files",
+    "parent": "https://zenodo.org/api/records/6827449",
+    "parent_doi": "https://doi.org/10.5281/zenodo.6827449",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6827449",
+    "parent_html": "https://zenodo.org/records/6827449",
+    "preview_html": "https://zenodo.org/records/6827450?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/6827450/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/6827450/request-deletion",
+    "requests": "https://zenodo.org/api/records/6827450/requests",
+    "reserve_doi": "https://zenodo.org/api/records/6827450/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/6827450",
+    "self_doi": "https://doi.org/10.5281/zenodo.6827450",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6827450",
+    "self_html": "https://zenodo.org/records/6827450",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:6827450/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:6827450/sequence/default",
+    "versions": "https://zenodo.org/api/records/6827450/versions"
+  },
+  "metadata": {
+    "access_right": "open",
+    "creators": [
+      {
+        "affiliation": "Newcastle University",
+        "name": "Day, Jordan R",
+        "orcid": "0000-0002-3451-366X"
+      },
+      {
+        "affiliation": "Newcastle University",
+        "name": "Wood, Toby S",
+        "orcid": "0000-0003-1044-170x"
+      },
+      {
+        "affiliation": "Newcastle University",
+        "name": "Heidrich, Elizabeth S",
+        "orcid": "0000-0001-7964-4156"
+      }
+    ],
+    "description": "<p>A dataset containing simulation results for the optimising&nbsp;bioelectrochemical systems project.</p>\n\n<p>This contains&nbsp;steady-state data packed within TAR&nbsp;files. This data has been extracted and summarised within the CSV files.</p>\n\n<p>Data was gathered from adapting the mathematical model for simulation of bioelectrochemical systems published in Day et al 2022, this code will be released upon the submission of JDays thesis in late 2022. Steady-state data is saved as compressed NumPy files and can be extracted using python.</p>\n\n<p>&nbsp;</p>",
+    "doi": "10.5281/zenodo.6827450",
+    "language": "eng",
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "publication_date": "2022-07-13",
+    "references": [
+      "Day, Jordan R., Heidrich, Elizabeth S., Wood, Toby S. \"A Scalable model of fluid flow, substrate removal and current production in microbial fuel cells\" Chemosphere 2022"
+    ],
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "6827449"
+          }
+        }
+      ]
+    },
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "title": "Optimising bioelectrochemical systems using Hartree HPC Datasets"
+  },
+  "modified": "2022-07-14T01:48:48.118567+00:00",
+  "owners": [
+    {
+      "id": "372712"
+    }
+  ],
+  "recid": "6827450",
+  "revision": 2,
+  "state": "done",
+  "stats": {
+    "downloads": 1231,
+    "unique_downloads": 1224,
+    "unique_views": 154,
+    "version_downloads": 1231,
+    "version_unique_downloads": 1224,
+    "version_unique_views": 154,
+    "version_views": 158,
+    "views": 158
+  },
+  "status": "published",
+  "submitted": true,
+  "swh": {},
+  "title": "Optimising bioelectrochemical systems using Hartree HPC Datasets",
+  "updated": "2022-07-14T01:48:48.118567+00:00"
+}

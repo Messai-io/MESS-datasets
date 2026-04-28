@@ -1,0 +1,798 @@
+{
+  "conceptrecid": "8288204",
+  "created": "2023-08-28T04:51:27.377851+00:00",
+  "doi": "10.1088/2515-7655/aceeb5",
+  "doi_url": "https://doi.org/10.1088/2515-7655/aceeb5",
+  "files": [
+    {
+      "checksum": "md5:4020f36d1e94ca1b4091a26cd354295d",
+      "id": "d6ac974c-4ae5-432f-8b73-efddd5ff1933",
+      "key": "Figure.5.xlsx",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/Figure.5.xlsx/content"
+      },
+      "size": 332949
+    },
+    {
+      "checksum": "md5:c6a22cbbe710fc78804cff2a05ba1e4d",
+      "id": "2a2a4618-b15b-4b3a-ae24-7d8d66c9db1c",
+      "key": "Figure.2.xlsx",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/Figure.2.xlsx/content"
+      },
+      "size": 55523
+    },
+    {
+      "checksum": "md5:def3d769831d0e221a7ad0d7faef4c7b",
+      "id": "4f5c8628-230e-41f2-9b2e-2cc08a8dc9bb",
+      "key": "Figure.8.xlsx",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/Figure.8.xlsx/content"
+      },
+      "size": 82165
+    },
+    {
+      "checksum": "md5:e2521080fa469a098a22ff5eb64ea22d",
+      "id": "eb4c941b-701c-4c49-9a70-f500139d9ab1",
+      "key": "Figure.4.xlsx",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/Figure.4.xlsx/content"
+      },
+      "size": 358259
+    },
+    {
+      "checksum": "md5:33d16c1507315920054092b0ceaa1ca8",
+      "id": "80c306fc-8ffb-423f-ba97-7041821f3d7f",
+      "key": "Figure.6+7.xlsx",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/Figure.6+7.xlsx/content"
+      },
+      "size": 9857
+    },
+    {
+      "checksum": "md5:b6a15cdcca0958ac040004579fac42b6",
+      "id": "75253d8d-d8cb-467c-904c-497c984f5be5",
+      "key": "Figure.3.xlsx",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/Figure.3.xlsx/content"
+      },
+      "size": 13629
+    },
+    {
+      "checksum": "md5:9c81deabe54ab77a9addc0e819bbee75",
+      "id": "0352a319-3a18-4ac2-a79e-78d8b9f96387",
+      "key": "figure5a.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure5a.PNG.png/content"
+      },
+      "size": 88383
+    },
+    {
+      "checksum": "md5:b489317d9aef1f00dd2b079d0fbe788c",
+      "id": "79d638c1-9a42-455a-be19-d66525ff256c",
+      "key": "figureS2b.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS2b.PNG.png/content"
+      },
+      "size": 80890
+    },
+    {
+      "checksum": "md5:c6f4d2d059b26691126b70030f42bbea",
+      "id": "41502ef9-5921-40ea-80bf-d67ed1c76557",
+      "key": "figureS13b.JPG.jpg",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS13b.JPG.jpg/content"
+      },
+      "size": 874978
+    },
+    {
+      "checksum": "md5:3d7421ac9da3d340110e138460e08239",
+      "id": "b4387f56-3364-4ef1-b061-03832c7d7e6b",
+      "key": "figure6c.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure6c.PNG.png/content"
+      },
+      "size": 82271
+    },
+    {
+      "checksum": "md5:99a671de7f3781c8397907706cd5d6ba",
+      "id": "03987b0a-0428-4473-9982-d21d2589ff3b",
+      "key": "figureS9c.JPG.jpg",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS9c.JPG.jpg/content"
+      },
+      "size": 193857
+    },
+    {
+      "checksum": "md5:7519ab09529d084a90540016eb48228f",
+      "id": "0177825c-b0e8-4666-8747-e80ad73a601d",
+      "key": "figure6d.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure6d.PNG.png/content"
+      },
+      "size": 84641
+    },
+    {
+      "checksum": "md5:a5e128af4b154f840909871a885d064e",
+      "id": "2d294fa5-be36-4558-95ff-af5cf4c60467",
+      "key": "figureS3a.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS3a.PNG.png/content"
+      },
+      "size": 72686
+    },
+    {
+      "checksum": "md5:bf7ef057dcdfdc6915009d85bd0c8315",
+      "id": "f17083c0-f3fe-44e8-8db4-5046b8b5359e",
+      "key": "figureS13c.JPG.jpg",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS13c.JPG.jpg/content"
+      },
+      "size": 854566
+    },
+    {
+      "checksum": "md5:46e04def1b6809d96850a18b19f57d9e",
+      "id": "03bab8f5-a964-4383-b148-abde6a576bcb",
+      "key": "figureS8c.JPG.jpg",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS8c.JPG.jpg/content"
+      },
+      "size": 97236
+    },
+    {
+      "checksum": "md5:c5e1083a13529c19f9626ace61d863d0",
+      "id": "ede4360c-510a-4b07-8354-a89da924318a",
+      "key": "figureS12.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS12.PNG.png/content"
+      },
+      "size": 59172
+    },
+    {
+      "checksum": "md5:9c68cce3c78125791b4c58a5bd154c05",
+      "id": "a4c7292f-294e-44b2-bebe-8cb5638831e6",
+      "key": "figureS13d.JPG.jpg",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS13d.JPG.jpg/content"
+      },
+      "size": 867755
+    },
+    {
+      "checksum": "md5:a08291510b5e5ceec9918c2d3ddc8bec",
+      "id": "41548cd1-68e3-44b0-bd94-0178e6903886",
+      "key": "figureS10.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS10.PNG.png/content"
+      },
+      "size": 55861
+    },
+    {
+      "checksum": "md5:7bfe64a68039ff42c3b9f6851eaa7de9",
+      "id": "c59c8a8f-c266-47bc-8241-dabf18ef7437",
+      "key": "figure7a.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure7a.PNG.png/content"
+      },
+      "size": 70726
+    },
+    {
+      "checksum": "md5:3a14183521db53a2bc52f12ba2b2ac35",
+      "id": "201e0fc2-74cf-4149-b9c3-1b74198b9f37",
+      "key": "figureS11c.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS11c.PNG.png/content"
+      },
+      "size": 54767
+    },
+    {
+      "checksum": "md5:c3c109f6b260fdc5bdc5550593a4ffac",
+      "id": "95a8a900-8c6e-499b-a45a-b46b34ac345e",
+      "key": "figureS7a.PNG.PNG",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS7a.PNG.PNG/content"
+      },
+      "size": 533697
+    },
+    {
+      "checksum": "md5:c2efdb538bab6c669ad375b7d5259e3a",
+      "id": "4ed3b48d-af81-4a3d-ac69-6763802e655a",
+      "key": "figureS11e.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS11e.PNG.png/content"
+      },
+      "size": 58743
+    },
+    {
+      "checksum": "md5:c20709a9bd042911fdea3ff7cac2d08b",
+      "id": "6d4299c1-ed00-47b7-b23e-67fc61cb18d2",
+      "key": "figureS2a.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS2a.PNG.png/content"
+      },
+      "size": 77150
+    },
+    {
+      "checksum": "md5:4e0570045194fb60890f180556f6584e",
+      "id": "e22a0436-a4ed-4064-9f23-1bdc3ea2408a",
+      "key": "figureS4b.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS4b.PNG.png/content"
+      },
+      "size": 96004
+    },
+    {
+      "checksum": "md5:ca4124132e0113ab61562e1065d34a62",
+      "id": "4da36435-a67a-4cc6-8c7f-d376136c98de",
+      "key": "figureS13e.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS13e.PNG.png/content"
+      },
+      "size": 78637
+    },
+    {
+      "checksum": "md5:fb5155610d9b6c1c3f42d8d8c5cbc75f",
+      "id": "c0e0a988-34ac-4151-85b7-8ca457cb846a",
+      "key": "figure8b.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure8b.PNG.png/content"
+      },
+      "size": 69734
+    },
+    {
+      "checksum": "md5:8230fa85aac7bceff7d8413f78899b78",
+      "id": "3174ad5f-6ac2-48b9-b3c7-9b36f2585bf2",
+      "key": "figure7b.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure7b.PNG.png/content"
+      },
+      "size": 68897
+    },
+    {
+      "checksum": "md5:af7b649f3b84444b353842a61ca93093",
+      "id": "73fa7f30-5c04-4785-826e-33a77601f94d",
+      "key": "figureS14a.JPG.jpg",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS14a.JPG.jpg/content"
+      },
+      "size": 950706
+    },
+    {
+      "checksum": "md5:7ca3f0c713fb376e0eb368ef23dc2fac",
+      "id": "c23e44f9-ad0b-4bba-90db-c6d4c3ec1d0d",
+      "key": "figureS11b.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS11b.PNG.png/content"
+      },
+      "size": 53714
+    },
+    {
+      "checksum": "md5:7906aaeb5ce66f7b535a5004f3515ef7",
+      "id": "3fa99eeb-30d7-4c5f-8a7e-036e0627f95d",
+      "key": "figure8a.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure8a.PNG.png/content"
+      },
+      "size": 131124
+    },
+    {
+      "checksum": "md5:651ce7ba3b73882a19ea9299266913e6",
+      "id": "e879585f-830f-46ce-9d77-59414dbf110b",
+      "key": "figure6b.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure6b.PNG.png/content"
+      },
+      "size": 74401
+    },
+    {
+      "checksum": "md5:a49dae46edc20e10a03e14cd619f7c8b",
+      "id": "b2f3a6f5-939a-414c-9815-d1f5c2046390",
+      "key": "figureS1.JPG.jpg",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS1.JPG.jpg/content"
+      },
+      "size": 677472
+    },
+    {
+      "checksum": "md5:1fd0b350a32e11bd840a0a25d01a6f65",
+      "id": "e53ab40d-fc06-428b-8207-62d84855cee6",
+      "key": "figure5b.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure5b.PNG.png/content"
+      },
+      "size": 76611
+    },
+    {
+      "checksum": "md5:33b3c877067d7cb4d86c086b68c648ce",
+      "id": "db213329-cf1a-43f7-aba2-85c86e1fb3f3",
+      "key": "figure7d.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure7d.PNG.png/content"
+      },
+      "size": 75093
+    },
+    {
+      "checksum": "md5:f4b3aaa42e754d513e85417acf6d5caa",
+      "id": "45f44a94-ddd0-4268-a876-0bce9ef24664",
+      "key": "figureS7b.PNG.PNG",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS7b.PNG.PNG/content"
+      },
+      "size": 728330
+    },
+    {
+      "checksum": "md5:7182ee4c7ab2dec9430b407bd2f4385f",
+      "id": "9bb27a84-11e1-4b90-9346-214635fbb114",
+      "key": "figureS4a.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS4a.PNG.png/content"
+      },
+      "size": 91939
+    },
+    {
+      "checksum": "md5:6b0db949f935517bb2a3aaa5e79dcaa0",
+      "id": "9ffc7b9b-b9b4-4b09-a02a-f466d4813f08",
+      "key": "figureS9b.JPG.jpg",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS9b.JPG.jpg/content"
+      },
+      "size": 205325
+    },
+    {
+      "checksum": "md5:7f9c04936de12c8217d0c22a64b8a434",
+      "id": "390039f8-5931-4355-beb0-c76af132f11b",
+      "key": "figureS5b.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS5b.PNG.png/content"
+      },
+      "size": 69590
+    },
+    {
+      "checksum": "md5:cbbe0b99eb40393d451882d4027aba0d",
+      "id": "b4c45068-4272-455b-82e6-26008d76300f",
+      "key": "figureS8b.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS8b.PNG.png/content"
+      },
+      "size": 373163
+    },
+    {
+      "checksum": "md5:068b4dac8002a18a9574d030247d8a56",
+      "id": "92f8f135-a83e-4f1e-8bad-24059f420ce9",
+      "key": "figureS16.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS16.PNG.png/content"
+      },
+      "size": 60400
+    },
+    {
+      "checksum": "md5:d318189dc24e7449ef73cc185bc19cff",
+      "id": "5430f17e-cab7-49c6-9ec3-b9469d0f62cd",
+      "key": "figureS3b.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS3b.PNG.png/content"
+      },
+      "size": 73634
+    },
+    {
+      "checksum": "md5:3920770dd7a991642081cd0192e5cca1",
+      "id": "10d8befc-8e3f-493c-a480-51eae7b0a2c9",
+      "key": "figure6a.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure6a.PNG.png/content"
+      },
+      "size": 68568
+    },
+    {
+      "checksum": "md5:b0f286b16da10b9f830dacd93b214afe",
+      "id": "6aaa4c6f-4521-4c2a-bea9-5a3e314bcb91",
+      "key": "figureS11f.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS11f.PNG.png/content"
+      },
+      "size": 62468
+    },
+    {
+      "checksum": "md5:139e96939070c08cfee5e853ede0b465",
+      "id": "04476072-687d-4b7c-8312-db288f372e95",
+      "key": "figureS13f.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS13f.PNG.png/content"
+      },
+      "size": 86472
+    },
+    {
+      "checksum": "md5:e2590d07fbaee99fcc1254abfb10e579",
+      "id": "29325c2c-aab7-48ac-aedf-36b12f463e51",
+      "key": "figure7c.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure7c.PNG.png/content"
+      },
+      "size": 82640
+    },
+    {
+      "checksum": "md5:334f154f8c150d8a4d72f8584dbeb309",
+      "id": "b9abe15d-9475-460d-a493-082cd62fe309",
+      "key": "figureS6.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS6.PNG.png/content"
+      },
+      "size": 1103367
+    },
+    {
+      "checksum": "md5:42e788c67e0164ae05029b8f70847728",
+      "id": "c1ca71a6-4184-4e74-81bb-5c295f132154",
+      "key": "figureS11a.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS11a.PNG.png/content"
+      },
+      "size": 54556
+    },
+    {
+      "checksum": "md5:487e96c0654304fc38a6f670e094c287",
+      "id": "49d2cda8-864a-4ed6-a73a-2b6c46db5016",
+      "key": "figureS8a.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS8a.PNG.png/content"
+      },
+      "size": 264089
+    },
+    {
+      "checksum": "md5:90d9b11417eeff776bb44609c9c36b74",
+      "id": "87ef7f5f-67ba-42cf-afe6-ceb92c705cfe",
+      "key": "figureS9a.JPG.jpg",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS9a.JPG.jpg/content"
+      },
+      "size": 152390
+    },
+    {
+      "checksum": "md5:bfecbecfdf818e7c7ad101fc6f029199",
+      "id": "ee240c86-2ee5-4ef7-b034-cf03db390817",
+      "key": "figureS7c.PNG.PNG",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS7c.PNG.PNG/content"
+      },
+      "size": 697454
+    },
+    {
+      "checksum": "md5:75a9053572366b048f6ceb0749c45a4b",
+      "id": "806c6b23-3819-4482-8993-f6d5a4fd6516",
+      "key": "figureS15.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS15.PNG.png/content"
+      },
+      "size": 48145
+    },
+    {
+      "checksum": "md5:5eaa3d41c7c06980e331c27c114f59a7",
+      "id": "d2a4eff0-a9fa-4479-8f62-04b30e83e826",
+      "key": "figureS13a.JPG.jpg",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS13a.JPG.jpg/content"
+      },
+      "size": 871413
+    },
+    {
+      "checksum": "md5:fdc2d27c7655cffe8f36abf2c7a359f5",
+      "id": "00f4f367-5735-4144-b46a-9799a3f98220",
+      "key": "figureS5a.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS5a.PNG.png/content"
+      },
+      "size": 70987
+    },
+    {
+      "checksum": "md5:6afd36ad2ae5834de3808febbf47fcb8",
+      "id": "afac6f26-4ce2-4b0c-bc18-534fe70f2de5",
+      "key": "figureS14b.JPG.jpg",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS14b.JPG.jpg/content"
+      },
+      "size": 930560
+    },
+    {
+      "checksum": "md5:d0d5d65f585ddd01298ba5fa96cda3ef",
+      "id": "4215f073-c317-44f1-81d4-774f30fe8774",
+      "key": "figureS11d.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS11d.PNG.png/content"
+      },
+      "size": 56241
+    },
+    {
+      "checksum": "md5:dd6e9274b3df034d117bef33dcddd9e0",
+      "id": "59017bfd-44c7-4f44-8b09-2299b02574ad",
+      "key": "figureS4c.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS4c.PNG.png/content"
+      },
+      "size": 91304
+    },
+    {
+      "checksum": "md5:1e681d1873c25064829e58666d015d42",
+      "id": "fa146793-0250-4d3e-afe1-d1079e840783",
+      "key": "figureS4d.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figureS4d.PNG.png/content"
+      },
+      "size": 95344
+    },
+    {
+      "checksum": "md5:35a7e92e290351fd6ad4a95f2b91de7c",
+      "id": "857a062a-0e9d-4999-9017-a5b3efbd5eb6",
+      "key": "figure1a.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure1a.PNG.png/content"
+      },
+      "size": 546576
+    },
+    {
+      "checksum": "md5:cd73bff78aae9d0b062c191dfa360d81",
+      "id": "33212eee-f514-4e30-bc52-5fd8e07dc65a",
+      "key": "figure3b.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure3b.PNG.png/content"
+      },
+      "size": 62503
+    },
+    {
+      "checksum": "md5:d79e0686e0dc83b874660d1a2d3a167b",
+      "id": "4a6c48e0-63ba-4c2d-a8c5-aae3a76c1c24",
+      "key": "figure3f.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure3f.PNG.png/content"
+      },
+      "size": 62734
+    },
+    {
+      "checksum": "md5:f1442d276640ce56f56a739b892bdfa0",
+      "id": "8d539035-7c53-49b1-92f8-61d39487299d",
+      "key": "figure3e.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure3e.PNG.png/content"
+      },
+      "size": 63075
+    },
+    {
+      "checksum": "md5:29e6c69255c4b2897b6eb84e8eb4ed72",
+      "id": "3536965d-bc1f-4fa0-a617-ba43fb6976c2",
+      "key": "figure2.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure2.PNG.png/content"
+      },
+      "size": 169864
+    },
+    {
+      "checksum": "md5:fd092d4b5e7badf1e38275cc62377fa0",
+      "id": "e9d5a718-3604-468b-a38b-a9768843d5ef",
+      "key": "figure1f.JPG.jpg",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure1f.JPG.jpg/content"
+      },
+      "size": 227040
+    },
+    {
+      "checksum": "md5:157951c8de610bd487a3fa8d159c9f7e",
+      "id": "6964def3-c16d-4aa7-b28a-42d8f42517d6",
+      "key": "figure4a.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure4a.PNG.png/content"
+      },
+      "size": 82071
+    },
+    {
+      "checksum": "md5:2b7199df2ed71de551ef5cd41cfb89fe",
+      "id": "54ce32ee-fcdb-4f59-8e5d-4e2d1287d9f0",
+      "key": "figure3c.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure3c.PNG.png/content"
+      },
+      "size": 63379
+    },
+    {
+      "checksum": "md5:5b1360c398aa1c8dc379551260f508a2",
+      "id": "99c48bff-e4f8-4883-9199-6457e52aa6f5",
+      "key": "figure3a.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure3a.PNG.png/content"
+      },
+      "size": 63263
+    },
+    {
+      "checksum": "md5:bf7ef057dcdfdc6915009d85bd0c8315",
+      "id": "7ac8965c-2533-4039-9e9b-26ad193bb6d8",
+      "key": "figure4d.JPG.jpg",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure4d.JPG.jpg/content"
+      },
+      "size": 854566
+    },
+    {
+      "checksum": "md5:3c522dc149c9af224d99e263a77e4297",
+      "id": "cd321f03-ba02-43e7-b111-1b8f7bd9ae80",
+      "key": "figure1b.JPG.jpg",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure1b.JPG.jpg/content"
+      },
+      "size": 168907
+    },
+    {
+      "checksum": "md5:e7d59ad98a4c04fdaca2e198b9547619",
+      "id": "6f5afbd4-59cc-417a-a86b-0318f1b37022",
+      "key": "figure4c.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure4c.PNG.png/content"
+      },
+      "size": 71409
+    },
+    {
+      "checksum": "md5:6c6e8d197b6539cf33a34f6b9be5f189",
+      "id": "f2e39786-b3bd-4e18-b28b-6d886eb7811a",
+      "key": "figure1e.PNG.jpg",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure1e.PNG.jpg/content"
+      },
+      "size": 190190
+    },
+    {
+      "checksum": "md5:6a248f0398215b194141ab34ea1eeed4",
+      "id": "05485773-d780-4d61-a689-a4a025afa34e",
+      "key": "figure3d.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure3d.PNG.png/content"
+      },
+      "size": 62233
+    },
+    {
+      "checksum": "md5:f4a6ef76f29729ce29bbf327dd178474",
+      "id": "d7739ef0-4518-4914-a5bf-7331069a6359",
+      "key": "figure1d.JPG.jpg",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure1d.JPG.jpg/content"
+      },
+      "size": 235109
+    },
+    {
+      "checksum": "md5:3d1b9624059a3ce83a3a2bdc73fd5f9c",
+      "id": "b638d7df-7f89-4b29-a27f-c5fdc6fbe0ae",
+      "key": "figure4b.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure4b.PNG.png/content"
+      },
+      "size": 81971
+    },
+    {
+      "checksum": "md5:ac5dcbb5158595fce782a785a08e64cc",
+      "id": "4d586580-6f29-4e17-ac21-c0400331033f",
+      "key": "figure1c.PNG.png",
+      "links": {
+        "self": "https://zenodo.org/api/records/8288205/files/figure1c.PNG.png/content"
+      },
+      "size": 677598
+    }
+  ],
+  "id": 8288205,
+  "links": {
+    "access": "https://zenodo.org/api/records/8288205/access",
+    "access_grants": "https://zenodo.org/api/records/8288205/access/grants",
+    "access_links": "https://zenodo.org/api/records/8288205/access/links",
+    "access_request": "https://zenodo.org/api/records/8288205/access/request",
+    "access_users": "https://zenodo.org/api/records/8288205/access/users",
+    "archive": "https://zenodo.org/api/records/8288205/files-archive",
+    "archive_media": "https://zenodo.org/api/records/8288205/media-files-archive",
+    "communities": "https://zenodo.org/api/records/8288205/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/8288205/communities-suggestions",
+    "doi": "https://doi.org/10.1088/2515-7655/aceeb5",
+    "draft": "https://zenodo.org/api/records/8288205/draft",
+    "file_modification": "https://zenodo.org/api/records/8288205/file-modification",
+    "files": "https://zenodo.org/api/records/8288205/files",
+    "latest": "https://zenodo.org/api/records/8288205/versions/latest",
+    "latest_html": "https://zenodo.org/records/8288205/latest",
+    "media_files": "https://zenodo.org/api/records/8288205/media-files",
+    "parent": "https://zenodo.org/api/records/8288204",
+    "parent_html": "https://zenodo.org/records/8288204",
+    "preview_html": "https://zenodo.org/records/8288205?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/8288205/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/8288205/request-deletion",
+    "requests": "https://zenodo.org/api/records/8288205/requests",
+    "reserve_doi": "https://zenodo.org/api/records/8288205/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/8288205",
+    "self_doi": "https://doi.org/10.1088/2515-7655/aceeb5",
+    "self_doi_html": "https://zenodo.org/doi/10.1088/2515-7655/aceeb5",
+    "self_html": "https://zenodo.org/records/8288205",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:8288205/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:8288205/sequence/default",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:8288205:figure5a.PNG.png/full/%5E10,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:8288205:figure5a.PNG.png/full/%5E100,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:8288205:figure5a.PNG.png/full/%5E1200,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:8288205:figure5a.PNG.png/full/%5E250,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:8288205:figure5a.PNG.png/full/%5E50,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:8288205:figure5a.PNG.png/full/%5E750,/0/default.jpg"
+    },
+    "versions": "https://zenodo.org/api/records/8288205/versions"
+  },
+  "metadata": {
+    "access_right": "open",
+    "communities": [
+      {
+        "id": "electroceramic-materials"
+      }
+    ],
+    "creators": [
+      {
+        "affiliation": "Imperial College London",
+        "name": "Zheng Xie",
+        "orcid": "0009-0001-6622-538X"
+      },
+      {
+        "affiliation": "Imperial College London",
+        "name": "Inyoung Jang",
+        "orcid": "0000-0002-7478-8940"
+      },
+      {
+        "affiliation": "Imperial College London",
+        "name": "Mengzheng Ouyang",
+        "orcid": "0000-0003-4896-416X"
+      },
+      {
+        "affiliation": "Imperial College London",
+        "name": "Anna Hankin",
+        "orcid": "0000-0001-8358-2349"
+      },
+      {
+        "affiliation": "Imperial College London",
+        "name": "Stephen J Skinner",
+        "orcid": "0000-0001-5446-2647"
+      }
+    ],
+    "description": "<p>A composite electrode composed of Pr4Ni3O&mdash;Ce0.75Gd0.1Pr0.15O (50 wt.%&ndash;50 wt.%) was thoroughly investigated in terms of the electrochemical performance as a function of microstructure. The electrochemical performance was characterized by electrochemical impedance spectroscopy and the microstructures, characterized by focused ion beam-scanning electron microscopy and 3D reconstructions, were modified by changing the particle size of Pr4Ni3O and the electrode thickness. The distribution of relaxation time method was applied to help resolve electrochemical processes occurring in the electrodes. It was found that an appropriate increase in electrode thickness and an appropriate decrease in particle size enhanced the oxygen reduction reaction (ORR) kinetics. The lowest area specific resistance obtained in this study at 670&thinsp;∘C under pO 2 of 0.21&thinsp;atm was 0.055&thinsp;&Omega;&thinsp;cm2. Finally, a comparison to the Adler-Lane-Steele (ALS) model was made and the main active site for the ORR was concluded to be triple phase boundaries. A fuel cell made of the composite material as the cathode was fabricated and tested. The peak power density was 1&thinsp;W&thinsp;cm&minus;2 at 800&thinsp;∘C, which demonstrates that this composite material is promising for solid oxide fuel cell cathodes.</p>",
+    "doi": "10.1088/2515-7655/aceeb5",
+    "language": "eng",
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "publication_date": "2023-08-25",
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "8288204"
+          }
+        }
+      ]
+    },
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "title": "High performance composite Pr4Ni3O—Ce0.75Gd0.1Pr0.15O solid oxide cell air electrode"
+  },
+  "modified": "2024-07-11T11:11:30.853466+00:00",
+  "owners": [
+    {
+      "id": "599769"
+    }
+  ],
+  "recid": "8288205",
+  "revision": 9,
+  "state": "done",
+  "stats": {
+    "downloads": 2059,
+    "unique_downloads": 2056,
+    "unique_views": 203,
+    "version_downloads": 2059,
+    "version_unique_downloads": 2056,
+    "version_unique_views": 203,
+    "version_views": 209,
+    "views": 209
+  },
+  "status": "published",
+  "submitted": true,
+  "swh": {},
+  "title": "High performance composite Pr4Ni3O—Ce0.75Gd0.1Pr0.15O solid oxide cell air electrode",
+  "updated": "2024-07-11T11:11:30.853466+00:00"
+}

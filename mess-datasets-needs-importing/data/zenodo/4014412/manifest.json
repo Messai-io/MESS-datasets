@@ -1,0 +1,17 @@
+{
+  "doi": "10.5061/dryad.18931zcvg",
+  "fetched_at": "2026-04-20T04:39:22+00:00",
+  "files": [
+    {
+      "checksum": "md5:d5fd337653e3ced8b1a4dd632bd934cf",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/4014412/files/Raw_data.xlsx/content",
+      "key": "Raw_data.xlsx",
+      "local_path": "files/Raw_data.xlsx",
+      "size": 199943,
+      "skipped_reason": null
+    }
+  ],
+  "id": "4014412",
+  "source": "zenodo"
+}

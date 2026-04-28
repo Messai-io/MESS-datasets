@@ -1,0 +1,154 @@
+{
+  "conceptdoi": "10.5281/zenodo.10517217",
+  "conceptrecid": "10517217",
+  "created": "2024-01-16T08:25:58.370369+00:00",
+  "doi": "10.5281/zenodo.10517218",
+  "doi_url": "https://doi.org/10.5281/zenodo.10517218",
+  "files": [
+    {
+      "checksum": "md5:4ac12cf36b277e46c7c7b59bfa4b8635",
+      "id": "2d6dad8c-a338-4d2e-a15b-2cca171cc683",
+      "key": "Figure_4_S2.xlsx",
+      "links": {
+        "self": "https://zenodo.org/api/records/10517218/files/Figure_4_S2.xlsx/content"
+      },
+      "size": 10121
+    },
+    {
+      "checksum": "md5:89ec5603fb7dbd6b09b78ccaf0849b6b",
+      "id": "2c78b097-20e2-4c9d-803c-cb32985532d4",
+      "key": "Figure_6_S3_S4.xlsx",
+      "links": {
+        "self": "https://zenodo.org/api/records/10517218/files/Figure_6_S3_S4.xlsx/content"
+      },
+      "size": 57326
+    },
+    {
+      "checksum": "md5:40cbb029795a171e228b91fd756a68dc",
+      "id": "b2b60ab8-df81-445f-b953-18b2735922d3",
+      "key": "Figure_3.xlsx",
+      "links": {
+        "self": "https://zenodo.org/api/records/10517218/files/Figure_3.xlsx/content"
+      },
+      "size": 418581
+    },
+    {
+      "checksum": "md5:5bd618f333156d11ed59a28510a27844",
+      "id": "c4bffde3-4416-4aac-b316-34285c67e43a",
+      "key": "Figure_5.xlsx",
+      "links": {
+        "self": "https://zenodo.org/api/records/10517218/files/Figure_5.xlsx/content"
+      },
+      "size": 25518
+    }
+  ],
+  "id": 10517218,
+  "links": {
+    "access": "https://zenodo.org/api/records/10517218/access",
+    "access_grants": "https://zenodo.org/api/records/10517218/access/grants",
+    "access_links": "https://zenodo.org/api/records/10517218/access/links",
+    "access_request": "https://zenodo.org/api/records/10517218/access/request",
+    "access_users": "https://zenodo.org/api/records/10517218/access/users",
+    "archive": "https://zenodo.org/api/records/10517218/files-archive",
+    "archive_media": "https://zenodo.org/api/records/10517218/media-files-archive",
+    "communities": "https://zenodo.org/api/records/10517218/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/10517218/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.10517218",
+    "draft": "https://zenodo.org/api/records/10517218/draft",
+    "file_modification": "https://zenodo.org/api/records/10517218/file-modification",
+    "files": "https://zenodo.org/api/records/10517218/files",
+    "latest": "https://zenodo.org/api/records/10517218/versions/latest",
+    "latest_html": "https://zenodo.org/records/10517218/latest",
+    "media_files": "https://zenodo.org/api/records/10517218/media-files",
+    "parent": "https://zenodo.org/api/records/10517217",
+    "parent_doi": "https://doi.org/10.5281/zenodo.10517217",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.10517217",
+    "parent_html": "https://zenodo.org/records/10517217",
+    "preview_html": "https://zenodo.org/records/10517218?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/10517218/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/10517218/request-deletion",
+    "requests": "https://zenodo.org/api/records/10517218/requests",
+    "reserve_doi": "https://zenodo.org/api/records/10517218/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/10517218",
+    "self_doi": "https://doi.org/10.5281/zenodo.10517218",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.10517218",
+    "self_html": "https://zenodo.org/records/10517218",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:10517218/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:10517218/sequence/default",
+    "versions": "https://zenodo.org/api/records/10517218/versions"
+  },
+  "metadata": {
+    "access_right": "open",
+    "creators": [
+      {
+        "affiliation": "Paul Scherrer Institute",
+        "name": "Muroyama, Alexander",
+        "orcid": "0000-0003-1535-8032"
+      }
+    ],
+    "description": "<p>Experimental dataset for journal publication \"Performance Enhancement of a Membrane Electrochemical Cell for CO2 Capture,\" published in the Journal of the Electrochemical Society (DOI: 10.1149/1945-7111/ad1acf). Data are organized according to figure number.</p>",
+    "doi": "10.5281/zenodo.10517218",
+    "grants": [
+      {
+        "code": "201881",
+        "funder": {
+          "acronym": "SNSF",
+          "doi": "10.13039/501100001711",
+          "name": "Swiss National Science Foundation"
+        },
+        "internal_id": "10.13039/501100001711::201881",
+        "program": "Careers",
+        "title": "A novel process for electrochemical direct-air capture of CO2"
+      }
+    ],
+    "journal": {
+      "title": "Journal of The Electrochemical Society"
+    },
+    "language": "eng",
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "publication_date": "2024-01-04",
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "10517217"
+          }
+        }
+      ]
+    },
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "title": "Dataset: Performance Enhancement of a Membrane Electrochemical Cell for CO2 Capture"
+  },
+  "modified": "2024-01-18T11:52:39.578587+00:00",
+  "owners": [
+    {
+      "id": "461743"
+    }
+  ],
+  "recid": "10517218",
+  "revision": 7,
+  "state": "done",
+  "stats": {
+    "downloads": 89,
+    "unique_downloads": 85,
+    "unique_views": 121,
+    "version_downloads": 89,
+    "version_unique_downloads": 85,
+    "version_unique_views": 121,
+    "version_views": 139,
+    "views": 139
+  },
+  "status": "published",
+  "submitted": true,
+  "swh": {},
+  "title": "Dataset: Performance Enhancement of a Membrane Electrochemical Cell for CO2 Capture",
+  "updated": "2024-01-18T11:52:39.578587+00:00"
+}

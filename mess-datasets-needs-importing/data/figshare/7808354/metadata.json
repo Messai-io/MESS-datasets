@@ -1,0 +1,593 @@
+{
+  "authors": [
+    {
+      "first_name": "Jiawei",
+      "full_name": "Jiawei Yang",
+      "id": 228436,
+      "is_active": false,
+      "last_name": "Yang",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Shaoan",
+      "full_name": "Shaoan Cheng",
+      "id": 1615723,
+      "is_active": false,
+      "last_name": "Cheng",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Chaochao",
+      "full_name": "Chaochao Li",
+      "id": 491064,
+      "is_active": false,
+      "last_name": "Li",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Yi",
+      "full_name": "Yi Sun",
+      "id": 118759,
+      "is_active": false,
+      "last_name": "Sun",
+      "orcid_id": "",
+      "url_name": "Yi_Sun"
+    },
+    {
+      "first_name": "Haobin",
+      "full_name": "Haobin Huang",
+      "id": 6428552,
+      "is_active": false,
+      "last_name": "Huang",
+      "orcid_id": "",
+      "url_name": "_"
+    }
+  ],
+  "categories": [
+    {
+      "id": 8,
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Microbiology"
+    },
+    {
+      "id": 706,
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Microbial Genetics"
+    },
+    {
+      "id": 707,
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Microbial Ecology"
+    },
+    {
+      "id": 708,
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Mycology"
+    }
+  ],
+  "citation": "Yang, Jiawei; Cheng, Shaoan; Li, Chaochao; Sun, Yi; Huang, Haobin (2019). Table_1_Shear Stress Affects Biofilm Structure and Consequently Current Generation of Bioanode in Microbial Electrochemical Systems (MESs).docx. Frontiers. Dataset. https://doi.org/10.3389/fmicb.2019.00398.s001",
+  "confidential_reason": "",
+  "created_date": "2019-03-06T13:00:47Z",
+  "custom_fields": [],
+  "defined_type": 3,
+  "defined_type_name": "dataset",
+  "description": "<p>Shear stress is an important factor that affects the formation and structure of anode biofilms, which are strongly related to the extracellular electron transfer phenomena and bioelectric performance of bioanodes. Here, we show that using nitrogen sparging to induce shear stress during anode biofilm formation increases the linear sweep voltammetry peak current density of the mature anode biofilm from 2.37 ± 0.15 to 4.05 ± 0.25 A/m<sup>2</sup>. Electrochemical impedance spectroscopy results revealed that the shear-stress-enriched anode biofilm had a low charge transfer resistance of 46.34 Ω compared to that of the unperturbed enriched anode biofilm (72.2 Ω). Confocal laser scanning microscopy observations showed that the shear-stress-enriched biofilms were entirely viable, whereas the unperturbed enriched anode biofilm consisted of a live outer layer covering a dead inner-core layer. Based on biomass and community analyses, the shear-stress-enriched biofilm had four times the biofilm density (136.0 vs. 27.50 μg DNA/cm<sup>3</sup>) and twice the relative abundance of Geobacteraceae (over 80 vs. 40%) in comparison with those of the unperturbed enriched anode biofilm. These results show that applying high shear stress during anode biofilm enrichment can result in an entirely viable and dense biofilm with a high relative abundance of exoelectrogens and, consequently, better performance.</p>",
+  "doi": "10.3389/fmicb.2019.00398.s001",
+  "download_disabled": false,
+  "embargo_date": null,
+  "embargo_options": [],
+  "embargo_reason": "",
+  "embargo_title": "",
+  "embargo_type": null,
+  "figshare_url": "https://frontiersin.figshare.com/articles/dataset/Table_1_Shear_Stress_Affects_Biofilm_Structure_and_Consequently_Current_Generation_of_Bioanode_in_Microbial_Electrochemical_Systems_MESs_docx/7808354",
+  "files": [
+    {
+      "computed_md5": "0a31e660a91073ec406177c5b3706149",
+      "download_url": "https://ndownloader.figshare.com/files/14530637",
+      "id": 14530637,
+      "is_link_only": false,
+      "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "name": "Table_1_Shear Stress Affects Biofilm Structure and Consequently Current Generation of Bioanode in Microbial Electrochemical Systems (MESs).docx",
+      "size": 405799,
+      "supplied_md5": "0a31e660a91073ec406177c5b3706149"
+    }
+  ],
+  "folder_structure": {},
+  "funding": null,
+  "funding_list": [],
+  "group_id": 11818,
+  "handle": "",
+  "has_linked_file": false,
+  "id": 7808354,
+  "is_confidential": false,
+  "is_embargoed": false,
+  "is_metadata_record": false,
+  "is_public": true,
+  "keywords": [
+    "anode biofilm",
+    "shear stress",
+    "anode performance",
+    "viability",
+    "microbial community"
+  ],
+  "license": {
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "value": 1
+  },
+  "metadata_reason": "",
+  "modified_date": "2023-06-03T03:25:55Z",
+  "published_date": "2019-03-06T13:00:47Z",
+  "references": [
+    "https://doi.org//10.1128/AEM.69.3.1548-1555.2003",
+    "https://doi.org//10.1016/j.bej.2009.08.008",
+    "https://doi.org//10.3389/fmicb.2017.00892",
+    "https://doi.org//10.1016/j.watres.2008.02.031",
+    "https://doi.org//10.1016/j.elecom.2006.10.023",
+    "https://doi.org//10.1016/j.bioelechem.2013.03.001",
+    "https://doi.org//10.1016/j.watres.2017.10.028",
+    "https://doi.org//10.1016/j.jpowsour.2017.01.093",
+    "https://doi.org//10.1021/acs.est.8b01468",
+    "https://doi.org//10.1016/j.biortech.2015.12.090",
+    "https://doi.org//10.1099/00207713-34-3-346",
+    "https://doi.org//10.3389/fmicb.2017.01371",
+    "https://doi.org//10.3389/fmicb.2016.00699",
+    "https://doi.org//10.1016/j.jpowsour.2014.02.035",
+    "https://doi.org//10.3389/fmicb.2016.00756",
+    "https://doi.org//10.1016/j.biortech.2010.05.017",
+    "https://doi.org//10.1016/j.apenergy.2017.04.078",
+    "https://doi.org//10.2166/wst.1994.0292",
+    "https://doi.org//10.1021/es050316c",
+    "https://doi.org//10.3389/fmicb.2017.00920",
+    "https://doi.org//10.1016/S0043-1354%2801%2900379-7",
+    "https://doi.org//10.1146/annurev-micro-092611-150104",
+    "https://doi.org//10.1039/c2ee03388g",
+    "https://doi.org//10.1016/j.biortech.2011.07.087",
+    "https://doi.org//10.1111/j.1751-7915.2008.00049.x",
+    "https://doi.org//10.1007/s00284-011-0033-z",
+    "https://doi.org//10.1128/AEM.70.12.7426",
+    "https://doi.org//10.1016/j.watres.2008.09.015",
+    "https://doi.org//10.1016/j.biortech.2013.02.069",
+    "https://doi.org//10.1046/j.1365-2818.2001.00951.x",
+    "https://doi.org//10.1002/jctb.4465",
+    "https://doi.org//10.1039/c1ee01753e",
+    "https://doi.org//10.1099/ijs.0.063917-0",
+    "https://doi.org//10.1021/acs.est.5b00175",
+    "https://doi.org//10.1016/j.jpowsour.2016.11.115",
+    "https://doi.org//10.3389/fmicb.2017.00643",
+    "https://doi.org//10.1016/j.enzmictec.2016.01.009",
+    "https://doi.org//10.3389/fmicb.2015.01410",
+    "https://doi.org//10.1007/s00253-009-2240-0",
+    "https://doi.org//10.15244/pjoes/81700",
+    "https://doi.org//10.1007/s10529-017-2384-4",
+    "https://doi.org//10.1038/ismej.2012.42",
+    "https://doi.org/10.3389/fmicb.2019.00398"
+  ],
+  "related_materials": [
+    {
+      "id": 34655999,
+      "identifier": "https://doi.org//10.1128/AEM.69.3.1548-1555.2003",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1128/AEM.69.3.1548-1555.2003",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656002,
+      "identifier": "https://doi.org//10.1016/j.bej.2009.08.008",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.bej.2009.08.008",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656005,
+      "identifier": "https://doi.org//10.3389/fmicb.2017.00892",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fmicb.2017.00892",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656008,
+      "identifier": "https://doi.org//10.1016/j.watres.2008.02.031",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.watres.2008.02.031",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656011,
+      "identifier": "https://doi.org//10.1016/j.elecom.2006.10.023",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.elecom.2006.10.023",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656014,
+      "identifier": "https://doi.org//10.1016/j.bioelechem.2013.03.001",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.bioelechem.2013.03.001",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656017,
+      "identifier": "https://doi.org//10.1016/j.watres.2017.10.028",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.watres.2017.10.028",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656020,
+      "identifier": "https://doi.org//10.1016/j.jpowsour.2017.01.093",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jpowsour.2017.01.093",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656023,
+      "identifier": "https://doi.org//10.1021/acs.est.8b01468",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/acs.est.8b01468",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656026,
+      "identifier": "https://doi.org//10.1016/j.biortech.2015.12.090",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2015.12.090",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656029,
+      "identifier": "https://doi.org//10.1099/00207713-34-3-346",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1099/00207713-34-3-346",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656032,
+      "identifier": "https://doi.org//10.3389/fmicb.2017.01371",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fmicb.2017.01371",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656035,
+      "identifier": "https://doi.org//10.3389/fmicb.2016.00699",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fmicb.2016.00699",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656038,
+      "identifier": "https://doi.org//10.1016/j.jpowsour.2014.02.035",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jpowsour.2014.02.035",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656041,
+      "identifier": "https://doi.org//10.3389/fmicb.2016.00756",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fmicb.2016.00756",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656044,
+      "identifier": "https://doi.org//10.1016/j.biortech.2010.05.017",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2010.05.017",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656047,
+      "identifier": "https://doi.org//10.1016/j.apenergy.2017.04.078",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.apenergy.2017.04.078",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656050,
+      "identifier": "https://doi.org//10.2166/wst.1994.0292",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.2166/wst.1994.0292",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656053,
+      "identifier": "https://doi.org//10.1021/es050316c",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/es050316c",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656056,
+      "identifier": "https://doi.org//10.3389/fmicb.2017.00920",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fmicb.2017.00920",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656059,
+      "identifier": "https://doi.org//10.1016/S0043-1354(01)00379-7",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/S0043-1354(01)00379-7",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656062,
+      "identifier": "https://doi.org//10.1146/annurev-micro-092611-150104",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1146/annurev-micro-092611-150104",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656065,
+      "identifier": "https://doi.org//10.1039/c2ee03388g",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1039/c2ee03388g",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656068,
+      "identifier": "https://doi.org//10.1016/j.biortech.2011.07.087",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2011.07.087",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656071,
+      "identifier": "https://doi.org//10.1111/j.1751-7915.2008.00049.x",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.1751-7915.2008.00049.x",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656074,
+      "identifier": "https://doi.org//10.1007/s00284-011-0033-z",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s00284-011-0033-z",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656077,
+      "identifier": "https://doi.org//10.1128/AEM.70.12.7426",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1128/AEM.70.12.7426",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656080,
+      "identifier": "https://doi.org//10.1016/j.watres.2008.09.015",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.watres.2008.09.015",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656083,
+      "identifier": "https://doi.org//10.1016/j.biortech.2013.02.069",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2013.02.069",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656086,
+      "identifier": "https://doi.org//10.1046/j.1365-2818.2001.00951.x",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1046/j.1365-2818.2001.00951.x",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656089,
+      "identifier": "https://doi.org//10.1002/jctb.4465",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/jctb.4465",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656092,
+      "identifier": "https://doi.org//10.1039/c1ee01753e",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1039/c1ee01753e",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656095,
+      "identifier": "https://doi.org//10.1099/ijs.0.063917-0",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1099/ijs.0.063917-0",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656098,
+      "identifier": "https://doi.org//10.1021/acs.est.5b00175",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/acs.est.5b00175",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656101,
+      "identifier": "https://doi.org//10.1016/j.jpowsour.2016.11.115",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jpowsour.2016.11.115",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656104,
+      "identifier": "https://doi.org//10.3389/fmicb.2017.00643",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fmicb.2017.00643",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656107,
+      "identifier": "https://doi.org//10.1016/j.enzmictec.2016.01.009",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.enzmictec.2016.01.009",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656110,
+      "identifier": "https://doi.org//10.3389/fmicb.2015.01410",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fmicb.2015.01410",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656113,
+      "identifier": "https://doi.org//10.1007/s00253-009-2240-0",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s00253-009-2240-0",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656116,
+      "identifier": "https://doi.org//10.15244/pjoes/81700",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.15244/pjoes/81700",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656119,
+      "identifier": "https://doi.org//10.1007/s10529-017-2384-4",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s10529-017-2384-4",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656122,
+      "identifier": "https://doi.org//10.1038/ismej.2012.42",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/ismej.2012.42",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34656125,
+      "identifier": "10.3389/fmicb.2019.00398",
+      "identifier_type": "DOI",
+      "is_linkout": true,
+      "link": "https://doi.org/10.3389/fmicb.2019.00398",
+      "relation": "IsSupplementTo",
+      "title": "Shear Stress Affects Biofilm Structure and Consequently Current Generation of Bioanode in Microbial Electrochemical Systems (MESs)"
+    }
+  ],
+  "resource_doi": "10.3389/fmicb.2019.00398",
+  "resource_title": "Shear Stress Affects Biofilm Structure and Consequently Current Generation of Bioanode in Microbial Electrochemical Systems (MESs)",
+  "size": 405799,
+  "status": "public",
+  "tags": [
+    "anode biofilm",
+    "shear stress",
+    "anode performance",
+    "viability",
+    "microbial community"
+  ],
+  "thumb": "https://s3-eu-west-1.amazonaws.com/ppreviews-frontiersin-8483929402184328/14530637/thumb.png",
+  "timeline": {
+    "firstOnline": "2019-03-06T13:00:47",
+    "posted": "2019-03-06T13:00:47"
+  },
+  "title": "Table_1_Shear Stress Affects Biofilm Structure and Consequently Current Generation of Bioanode in Microbial Electrochemical Systems (MESs).docx",
+  "url": "https://api.figshare.com/v2/articles/7808354",
+  "url_private_api": "https://api.figshare.com/v2/account/articles/7808354",
+  "url_private_html": "https://figshare.com/account/articles/7808354",
+  "url_public_api": "https://api.figshare.com/v2/articles/7808354",
+  "url_public_html": "https://frontiersin.figshare.com/articles/dataset/Table_1_Shear_Stress_Affects_Biofilm_Structure_and_Consequently_Current_Generation_of_Bioanode_in_Microbial_Electrochemical_Systems_MESs_docx/7808354",
+  "version": 1
+}

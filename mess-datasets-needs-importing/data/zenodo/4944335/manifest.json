@@ -1,0 +1,71 @@
+{
+  "doi": "10.5061/dryad.8sc52",
+  "fetched_at": "2026-04-20T04:38:28+00:00",
+  "files": [
+    {
+      "checksum": "md5:800420d9591c61541494dba7a5e82adb",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/4944335/files/Proxy%20component%20spectra.WIP/content",
+      "key": "Proxy component spectra.WIP",
+      "local_path": "files/Proxy component spectra.WIP",
+      "size": 673643,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:f20d9d846e1ccd4ec8860a59a3fb2ad3",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/4944335/files/Min_CRM2_9d_ac_z0_VidIm15_Scan_002_Spec.Data_1_F_CRR.txt/content",
+      "key": "Min_CRM2_9d_ac_z0_VidIm15_Scan_002_Spec.Data_1_F_CRR.txt",
+      "local_path": ".source/Min_CRM2_9d_ac_z0_VidIm15_Scan_002_Spec.Data_1_F_CRR.txt",
+      "size": 1310422400,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:1492336482030c1dc3d00531b8e1d87e",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/4944335/files/6d%20CRM2%20VidIm14%20Scan9%20CRR.WID/content",
+      "key": "6d CRM2 VidIm14 Scan9 CRR.WID",
+      "local_path": ".source/6d CRM2 VidIm14 Scan9 CRR.WID",
+      "size": 403206475,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:63183aa266932541390693405ee2d602",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/4944335/files/35d%20CRM2%20Scan1%20CRR.WID/content",
+      "key": "35d CRM2 Scan1 CRR.WID",
+      "local_path": ".source/35d CRM2 Scan1 CRR.WID",
+      "size": 403206108,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:e40a4232d38f60706bae252d4dc86cf0",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/4944335/files/9d%20CRM2%20VidIm15%20Scan2%20CRR.WID/content",
+      "key": "9d CRM2 VidIm15 Scan2 CRR.WID",
+      "local_path": ".source/9d CRM2 VidIm15 Scan2 CRR.WID",
+      "size": 403206456,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:f311be83c80cc8298a19e6e1a3f6be9e",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/4944335/files/Min_CRM2_6d_ac_z0_VidIm14_ImageScan_009_Spec.Data_1_F_CRR.txt/content",
+      "key": "Min_CRM2_6d_ac_z0_VidIm14_ImageScan_009_Spec.Data_1_F_CRR.txt",
+      "local_path": ".source/Min_CRM2_6d_ac_z0_VidIm14_ImageScan_009_Spec.Data_1_F_CRR.txt",
+      "size": 1310422400,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:1cfede999efbcbfddb2edf9c472ec922",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/4944335/files/35d_CRM2_Scan1_CRR.txt/content",
+      "key": "35d_CRM2_Scan1_CRR.txt",
+      "local_path": ".source/35d_CRM2_Scan1_CRR.txt",
+      "size": 1310422400,
+      "skipped_reason": null
+    }
+  ],
+  "id": "4944335",
+  "source": "zenodo"
+}

@@ -1,0 +1,17 @@
+{
+  "doi": "10.5281/zenodo.15244569",
+  "fetched_at": "2026-04-20T04:39:31+00:00",
+  "files": [
+    {
+      "checksum": "md5:43869d4d515d34e31ea713fb8ef09ca2",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/15244569/files/dataset.zip/content",
+      "key": "dataset.zip",
+      "local_path": ".source/dataset.zip",
+      "size": 2480,
+      "skipped_reason": null
+    }
+  ],
+  "id": "15244569",
+  "source": "zenodo"
+}

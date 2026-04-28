@@ -1,0 +1,1036 @@
+{
+  "authors": [
+    {
+      "first_name": "Cesar A.",
+      "full_name": "Cesar A. Hernandez",
+      "id": 8825678,
+      "is_active": false,
+      "last_name": "Hernandez",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Johann F.",
+      "full_name": "Johann F. Osma",
+      "id": 8065937,
+      "is_active": false,
+      "last_name": "Osma",
+      "orcid_id": "",
+      "url_name": "_"
+    }
+  ],
+  "categories": [
+    {
+      "id": 34,
+      "parent_id": 33,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Environmental Science"
+    },
+    {
+      "id": 259,
+      "parent_id": 33,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Environmental Impact Assessment"
+    },
+    {
+      "id": 260,
+      "parent_id": 33,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Environmental Management"
+    },
+    {
+      "id": 268,
+      "parent_id": 33,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Soil Biology"
+    },
+    {
+      "id": 546,
+      "parent_id": 5,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Water Treatment Processes"
+    },
+    {
+      "id": 144,
+      "parent_id": 33,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Climate Science"
+    },
+    {
+      "id": 568,
+      "parent_id": 5,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Environmental Engineering Design"
+    },
+    {
+      "id": 569,
+      "parent_id": 5,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Environmental Engineering Modelling"
+    },
+    {
+      "id": 570,
+      "parent_id": 5,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Environmental Technologies"
+    }
+  ],
+  "citation": "Hernandez, Cesar A.; Osma, Johann F. (2020). Table_1_Microbial Electrochemical Systems: Deriving Future Trends From Historical Perspectives and Characterization Strategies.XLSX. Frontiers. Dataset. https://doi.org/10.3389/fenvs.2020.00044.s001",
+  "confidential_reason": "",
+  "created_date": "2020-05-12T05:02:22Z",
+  "custom_fields": [],
+  "defined_type": 3,
+  "defined_type_name": "dataset",
+  "description": "<p>Microbial electrochemical systems (MES) can be described as a combination of technologies with the unique ability to use microorganisms to conduct the transformation between chemical and electric energy. This property holds the promise to offer an alternative to the use of fossil fuels in the generation of electricity and hazardous compounds in the production of chemical products. In this review, the fundamental aspects to describe the mechanisms involved in the MES microbe–electrode interaction are presented. Furthermore, a detailed discussion on the current classification strategies is performed including the techniques used at distinctive characterization levels. Also, the implementation of a dual-iterative bibliographic analysis was conducted. The first iteration of the bibliographic analysis was considered from a historical perspective, allowing one to identify, in a systematic manner, the main research areas related to MES. In the second iteration, the previously identified areas were surveyed in order to obtain a representative sample for the analysis and identification of trends and main research objectives of MES technologies. The MES areas that displayed the highest growth rate value are those related to “wastewater,” “wastewater treatment,” and “extracellular electron transfer,” while “system (configuration/application)” and “microbial fuel cell” reported the highest number of related documents.</p>",
+  "doi": "10.3389/fenvs.2020.00044.s001",
+  "download_disabled": false,
+  "embargo_date": null,
+  "embargo_options": [],
+  "embargo_reason": "",
+  "embargo_title": "",
+  "embargo_type": null,
+  "figshare_url": "https://frontiersin.figshare.com/articles/dataset/Table_1_Microbial_Electrochemical_Systems_Deriving_Future_Trends_From_Historical_Perspectives_and_Characterization_Strategies_XLSX/12286127",
+  "files": [
+    {
+      "computed_md5": "2a295fbcac2a6bbb9d1400897e08c208",
+      "download_url": "https://ndownloader.figshare.com/files/22641365",
+      "id": 22641365,
+      "is_link_only": false,
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "name": "Table_1_Microbial Electrochemical Systems: Deriving Future Trends From Historical Perspectives and Characterization Strategies.XLSX",
+      "size": 2190179,
+      "supplied_md5": "2a295fbcac2a6bbb9d1400897e08c208"
+    }
+  ],
+  "folder_structure": {},
+  "funding": null,
+  "funding_list": [],
+  "group_id": 11800,
+  "handle": "",
+  "has_linked_file": false,
+  "id": 12286127,
+  "is_confidential": false,
+  "is_embargoed": false,
+  "is_metadata_record": false,
+  "is_public": true,
+  "keywords": [
+    "microbial electrochemical system",
+    "characterization",
+    "classification",
+    "bibliographic analysis",
+    "review"
+  ],
+  "license": {
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "value": 1
+  },
+  "metadata_reason": "",
+  "modified_date": "2023-05-31T22:23:10Z",
+  "published_date": "2020-05-12T05:02:22Z",
+  "references": [
+    "https://doi.org//10.1080/08927014.2012.710324",
+    "https://doi.org//10.1016/j.renene.2016.03.002",
+    "https://doi.org//10.1016/j.scitotenv.2019.06.361",
+    "https://doi.org//10.1038/ncomms10535",
+    "https://doi.org//10.1002/aris.1440370106",
+    "https://doi.org//10.1016/j.bios.2018.06.059",
+    "https://doi.org//10.1016/j.apenergy.2018.10.015",
+    "https://doi.org//10.1016/j.cbpa.2018.06.007",
+    "https://doi.org//10.1016/j.elecom.2010.01.026",
+    "https://doi.org//10.1016/S0065-2164%2808%2970006-6",
+    "https://doi.org//10.1073/pnas.1004880107",
+    "https://doi.org//10.1016/j.apenergy.2018.09.030",
+    "https://doi.org//10.3389/fenrg.2019.00002",
+    "https://doi.org//10.1146/annurev-micro-090816-093913",
+    "https://doi.org//10.1073/pnas.0604517103",
+    "https://doi.org//10.1063/1.4922853",
+    "https://doi.org//10.1016/j.watres.2018.01.020",
+    "https://doi.org//10.1002/asia.201100740",
+    "https://doi.org//10.1002/cssc.201100817",
+    "https://doi.org//10.1002/cssc.201402736",
+    "https://doi.org//10.1002/anie.201711727",
+    "https://doi.org//10.1007/s00775-007-0278-y",
+    "https://doi.org//10.1016/j.jpowsour.2019.03.112",
+    "https://doi.org//10.3390/bios9040131",
+    "https://doi.org//10.1111/j.1462-2920.2006.01065.x",
+    "https://doi.org//10.1007/10_2018_75",
+    "https://doi.org//10.1016/S1389-1723%2801%2980191-2",
+    "https://doi.org//10.1016/j.rser.2017.03.096",
+    "https://doi.org//10.1073/pnas.1011699107",
+    "https://doi.org//10.1038/ncomms3751",
+    "https://doi.org//10.1002/celc.201600079",
+    "https://doi.org//10.3389/fmicb.2016.01890",
+    "https://doi.org//10.3389/fmicb.2015.00575",
+    "https://doi.org//10.1038/s41570-017-0024",
+    "https://doi.org//10.3390/en11020343",
+    "https://doi.org//10.1016/j.rser.2015.12.029",
+    "https://doi.org//10.1002/anie.201000315",
+    "https://doi.org//10.1016/j.biotechadv.2018.07.001",
+    "https://doi.org//10.1002/cssc.201100604",
+    "https://doi.org//10.1021/es0605016",
+    "https://doi.org//10.1021/es0627592",
+    "https://doi.org//10.1038/s41579-019-0173-x",
+    "https://doi.org//10.1111/j.1758-2229.2010.00211.x",
+    "https://doi.org//10.1146/annurev-micro-092611-150104",
+    "https://doi.org//10.1128/AEM.00500-11",
+    "https://doi.org//10.1002/cphc.201100865",
+    "https://doi.org//10.1021/es903043p",
+    "https://doi.org//10.1016/j.bej.2018.05.002",
+    "https://doi.org//10.1042/BST20120115",
+    "https://doi.org//10.1016/B978-0-444-64052-9.00001-7",
+    "https://doi.org//10.1016/j.jhazmat.2009.12.059",
+    "https://doi.org//10.1002/cssc.201902923",
+    "https://doi.org//10.3389/fenrg.2019.00018",
+    "https://doi.org//10.1177/2472630316689285",
+    "https://doi.org//10.1038/35011098",
+    "https://doi.org//10.1016/j.jclepro.2019.02.172",
+    "https://doi.org//10.1016/j.coelec.2017.09.013",
+    "https://doi.org//10.1111/j.1365-2672.2008.04103.x",
+    "https://doi.org//10.1098/rspb.1911.0073",
+    "https://doi.org//10.1038/nature03661",
+    "https://doi.org//10.1016/j.biortech.2010.07.008",
+    "https://doi.org//10.1007/s00253-013-5396-6",
+    "https://doi.org//10.1021/nl903141j",
+    "https://doi.org//10.1016/j.bios.2008.10.003",
+    "https://doi.org//10.1016/j.bbabio.2012.09.005",
+    "https://doi.org//10.1039/B703627M",
+    "https://doi.org//10.1039/C4EE03359K",
+    "https://doi.org//10.1128/AEM.01834-09",
+    "https://doi.org//10.15406/ijbsbe.2017.03.00068",
+    "https://doi.org//10.1016/j.electacta.2014.02.111",
+    "https://doi.org//10.1016/j.biortech.2018.02.059",
+    "https://doi.org//10.1007/s00253-014-6005-z",
+    "https://doi.org//10.3389/fmicb.2015.00287",
+    "https://doi.org//10.1016/j.apenergy.2016.10.109",
+    "https://doi.org//10.1111/j.1432-1033.1969.tb00640.x",
+    "https://doi.org//10.1142/S0218488507004911",
+    "https://doi.org//10.1007/s11192-009-0146-3",
+    "https://doi.org//10.1128/AEM.01387-07",
+    "https://doi.org//10.18520/cs/v109/i12/2204-2211",
+    "https://doi.org//10.1016/bs.ampbs.2016.02.002",
+    "https://doi.org//10.1080/10643389.2015.1061884",
+    "https://doi.org//10.1021/acs.est.6b01601",
+    "https://doi.org//10.1016/j.rser.2018.12.027",
+    "https://doi.org//10.1016/j.biortech.2014.08.096",
+    "https://doi.org//10.1016/j.biortech.2011.11.019",
+    "https://doi.org/10.3389/fenvs.2020.00044"
+  ],
+  "related_materials": [
+    {
+      "id": 14563769,
+      "identifier": "https://doi.org//10.1080/08927014.2012.710324",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1080/08927014.2012.710324",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563772,
+      "identifier": "https://doi.org//10.1016/j.renene.2016.03.002",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.renene.2016.03.002",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563775,
+      "identifier": "https://doi.org//10.1016/j.scitotenv.2019.06.361",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.scitotenv.2019.06.361",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563778,
+      "identifier": "https://doi.org//10.1038/ncomms10535",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/ncomms10535",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563781,
+      "identifier": "https://doi.org//10.1002/aris.1440370106",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/aris.1440370106",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563784,
+      "identifier": "https://doi.org//10.1016/j.bios.2018.06.059",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.bios.2018.06.059",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563787,
+      "identifier": "https://doi.org//10.1016/j.apenergy.2018.10.015",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.apenergy.2018.10.015",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563790,
+      "identifier": "https://doi.org//10.1016/j.cbpa.2018.06.007",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.cbpa.2018.06.007",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563793,
+      "identifier": "https://doi.org//10.1016/j.elecom.2010.01.026",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.elecom.2010.01.026",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563796,
+      "identifier": "https://doi.org//10.1016/S0065-2164(08)70006-6",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/S0065-2164(08)70006-6",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563799,
+      "identifier": "https://doi.org//10.1073/pnas.1004880107",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1073/pnas.1004880107",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563802,
+      "identifier": "https://doi.org//10.1016/j.apenergy.2018.09.030",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.apenergy.2018.09.030",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563805,
+      "identifier": "https://doi.org//10.3389/fenrg.2019.00002",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fenrg.2019.00002",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563808,
+      "identifier": "https://doi.org//10.1146/annurev-micro-090816-093913",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1146/annurev-micro-090816-093913",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563811,
+      "identifier": "https://doi.org//10.1073/pnas.0604517103",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1073/pnas.0604517103",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563814,
+      "identifier": "https://doi.org//10.1063/1.4922853",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1063/1.4922853",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563817,
+      "identifier": "https://doi.org//10.1016/j.watres.2018.01.020",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.watres.2018.01.020",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563820,
+      "identifier": "https://doi.org//10.1002/asia.201100740",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/asia.201100740",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563823,
+      "identifier": "https://doi.org//10.1002/cssc.201100817",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/cssc.201100817",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563826,
+      "identifier": "https://doi.org//10.1002/cssc.201402736",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/cssc.201402736",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563829,
+      "identifier": "https://doi.org//10.1002/anie.201711727",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/anie.201711727",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563832,
+      "identifier": "https://doi.org//10.1007/s00775-007-0278-y",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s00775-007-0278-y",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563835,
+      "identifier": "https://doi.org//10.1016/j.jpowsour.2019.03.112",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jpowsour.2019.03.112",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563838,
+      "identifier": "https://doi.org//10.3390/bios9040131",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3390/bios9040131",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563841,
+      "identifier": "https://doi.org//10.1111/j.1462-2920.2006.01065.x",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.1462-2920.2006.01065.x",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563844,
+      "identifier": "https://doi.org//10.1007/10_2018_75",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/10_2018_75",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563847,
+      "identifier": "https://doi.org//10.1016/S1389-1723(01)80191-2",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/S1389-1723(01)80191-2",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563850,
+      "identifier": "https://doi.org//10.1016/j.rser.2017.03.096",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.rser.2017.03.096",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563853,
+      "identifier": "https://doi.org//10.1073/pnas.1011699107",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1073/pnas.1011699107",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563856,
+      "identifier": "https://doi.org//10.1038/ncomms3751",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/ncomms3751",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563859,
+      "identifier": "https://doi.org//10.1002/celc.201600079",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/celc.201600079",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563862,
+      "identifier": "https://doi.org//10.3389/fmicb.2016.01890",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fmicb.2016.01890",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563868,
+      "identifier": "https://doi.org//10.3389/fmicb.2015.00575",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fmicb.2015.00575",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563871,
+      "identifier": "https://doi.org//10.1038/s41570-017-0024",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/s41570-017-0024",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563874,
+      "identifier": "https://doi.org//10.3390/en11020343",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3390/en11020343",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563877,
+      "identifier": "https://doi.org//10.1016/j.rser.2015.12.029",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.rser.2015.12.029",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563880,
+      "identifier": "https://doi.org//10.1002/anie.201000315",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/anie.201000315",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563883,
+      "identifier": "https://doi.org//10.1016/j.biotechadv.2018.07.001",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biotechadv.2018.07.001",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563886,
+      "identifier": "https://doi.org//10.1002/cssc.201100604",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/cssc.201100604",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563889,
+      "identifier": "https://doi.org//10.1021/es0605016",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/es0605016",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563892,
+      "identifier": "https://doi.org//10.1021/es0627592",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/es0627592",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563895,
+      "identifier": "https://doi.org//10.1038/s41579-019-0173-x",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/s41579-019-0173-x",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563898,
+      "identifier": "https://doi.org//10.1111/j.1758-2229.2010.00211.x",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.1758-2229.2010.00211.x",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563901,
+      "identifier": "https://doi.org//10.1146/annurev-micro-092611-150104",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1146/annurev-micro-092611-150104",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563904,
+      "identifier": "https://doi.org//10.1128/AEM.00500-11",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1128/AEM.00500-11",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563910,
+      "identifier": "https://doi.org//10.1002/cphc.201100865",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/cphc.201100865",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563913,
+      "identifier": "https://doi.org//10.1021/es903043p",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/es903043p",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563916,
+      "identifier": "https://doi.org//10.1016/j.bej.2018.05.002",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.bej.2018.05.002",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563919,
+      "identifier": "https://doi.org//10.1042/BST20120115",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1042/BST20120115",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563922,
+      "identifier": "https://doi.org//10.1016/B978-0-444-64052-9.00001-7",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/B978-0-444-64052-9.00001-7",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563925,
+      "identifier": "https://doi.org//10.1016/j.jhazmat.2009.12.059",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jhazmat.2009.12.059",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563928,
+      "identifier": "https://doi.org//10.1002/cssc.201902923",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/cssc.201902923",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563931,
+      "identifier": "https://doi.org//10.3389/fenrg.2019.00018",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fenrg.2019.00018",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563934,
+      "identifier": "https://doi.org//10.1177/2472630316689285",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1177/2472630316689285",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563937,
+      "identifier": "https://doi.org//10.1038/35011098",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/35011098",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563940,
+      "identifier": "https://doi.org//10.1016/j.jclepro.2019.02.172",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jclepro.2019.02.172",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563943,
+      "identifier": "https://doi.org//10.1016/j.coelec.2017.09.013",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.coelec.2017.09.013",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563946,
+      "identifier": "https://doi.org//10.1111/j.1365-2672.2008.04103.x",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.1365-2672.2008.04103.x",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563949,
+      "identifier": "https://doi.org//10.1098/rspb.1911.0073",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1098/rspb.1911.0073",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563952,
+      "identifier": "https://doi.org//10.1038/nature03661",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/nature03661",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563955,
+      "identifier": "https://doi.org//10.1016/j.biortech.2010.07.008",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2010.07.008",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563958,
+      "identifier": "https://doi.org//10.1007/s00253-013-5396-6",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s00253-013-5396-6",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563961,
+      "identifier": "https://doi.org//10.1021/nl903141j",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/nl903141j",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563964,
+      "identifier": "https://doi.org//10.1016/j.bios.2008.10.003",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.bios.2008.10.003",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563967,
+      "identifier": "https://doi.org//10.1016/j.bbabio.2012.09.005",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.bbabio.2012.09.005",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563970,
+      "identifier": "https://doi.org//10.1039/B703627M",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1039/B703627M",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563973,
+      "identifier": "https://doi.org//10.1039/C4EE03359K",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1039/C4EE03359K",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563976,
+      "identifier": "https://doi.org//10.1128/AEM.01834-09",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1128/AEM.01834-09",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563979,
+      "identifier": "https://doi.org//10.15406/ijbsbe.2017.03.00068",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.15406/ijbsbe.2017.03.00068",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563982,
+      "identifier": "https://doi.org//10.1016/j.electacta.2014.02.111",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.electacta.2014.02.111",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563985,
+      "identifier": "https://doi.org//10.1016/j.biortech.2018.02.059",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2018.02.059",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563988,
+      "identifier": "https://doi.org//10.1007/s00253-014-6005-z",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s00253-014-6005-z",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563991,
+      "identifier": "https://doi.org//10.3389/fmicb.2015.00287",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3389/fmicb.2015.00287",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563994,
+      "identifier": "https://doi.org//10.1016/j.apenergy.2016.10.109",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.apenergy.2016.10.109",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14563997,
+      "identifier": "https://doi.org//10.1111/j.1432-1033.1969.tb00640.x",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1111/j.1432-1033.1969.tb00640.x",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14564000,
+      "identifier": "https://doi.org//10.1142/S0218488507004911",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1142/S0218488507004911",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14564003,
+      "identifier": "https://doi.org//10.1007/s11192-009-0146-3",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s11192-009-0146-3",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14564006,
+      "identifier": "https://doi.org//10.1128/AEM.01387-07",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1128/AEM.01387-07",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14564009,
+      "identifier": "https://doi.org//10.18520/cs/v109/i12/2204-2211",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.18520/cs/v109/i12/2204-2211",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14564012,
+      "identifier": "https://doi.org//10.1016/bs.ampbs.2016.02.002",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/bs.ampbs.2016.02.002",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14564015,
+      "identifier": "https://doi.org//10.1080/10643389.2015.1061884",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1080/10643389.2015.1061884",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14564018,
+      "identifier": "https://doi.org//10.1021/acs.est.6b01601",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/acs.est.6b01601",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14564021,
+      "identifier": "https://doi.org//10.1016/j.rser.2018.12.027",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.rser.2018.12.027",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14564024,
+      "identifier": "https://doi.org//10.1016/j.biortech.2014.08.096",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2014.08.096",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14564027,
+      "identifier": "https://doi.org//10.1016/j.biortech.2011.11.019",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.biortech.2011.11.019",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 14564030,
+      "identifier": "10.3389/fenvs.2020.00044",
+      "identifier_type": "DOI",
+      "is_linkout": true,
+      "link": "https://doi.org/10.3389/fenvs.2020.00044",
+      "relation": "IsSupplementTo",
+      "title": "Microbial Electrochemical Systems: Deriving Future Trends From Historical Perspectives and Characterization Strategies"
+    }
+  ],
+  "resource_doi": "10.3389/fenvs.2020.00044",
+  "resource_title": "Microbial Electrochemical Systems: Deriving Future Trends From Historical Perspectives and Characterization Strategies",
+  "size": 2190179,
+  "status": "public",
+  "tags": [
+    "microbial electrochemical system",
+    "characterization",
+    "classification",
+    "bibliographic analysis",
+    "review"
+  ],
+  "thumb": "",
+  "timeline": {
+    "firstOnline": "2020-05-12T05:02:22",
+    "posted": "2020-05-12T05:02:22"
+  },
+  "title": "Table_1_Microbial Electrochemical Systems: Deriving Future Trends From Historical Perspectives and Characterization Strategies.XLSX",
+  "url": "https://api.figshare.com/v2/articles/12286127",
+  "url_private_api": "https://api.figshare.com/v2/account/articles/12286127",
+  "url_private_html": "https://figshare.com/account/articles/12286127",
+  "url_public_api": "https://api.figshare.com/v2/articles/12286127",
+  "url_public_html": "https://frontiersin.figshare.com/articles/dataset/Table_1_Microbial_Electrochemical_Systems_Deriving_Future_Trends_From_Historical_Perspectives_and_Characterization_Strategies_XLSX/12286127",
+  "version": 1
+}

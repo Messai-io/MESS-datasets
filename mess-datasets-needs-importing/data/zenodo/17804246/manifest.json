@@ -1,0 +1,17 @@
+{
+  "doi": "10.5281/zenodo.17804246",
+  "fetched_at": "2026-04-20T04:35:09+00:00",
+  "files": [
+    {
+      "checksum": "md5:593dac6bc57f56bfa34c3b5794c6cf75",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/17804246/files/SI.zip/content",
+      "key": "SI.zip",
+      "local_path": ".source/SI.zip",
+      "size": 145076060,
+      "skipped_reason": null
+    }
+  ],
+  "id": "17804246",
+  "source": "zenodo"
+}

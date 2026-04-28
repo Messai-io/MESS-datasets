@@ -1,0 +1,105 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://messai.io/schemas/zenodo-record.schema.json",
+  "title": "Zenodo Record Snapshot",
+  "description": "Thin wrapper validating that a `data/zenodo/<id>/metadata.json` snapshot carries the fields this repo depends on. Zenodo itself owns the canonical schema; we only assert the subset we rely on so drift is detected.",
+  "type": "object",
+  "required": ["id", "doi", "metadata", "files", "links"],
+  "properties": {
+    "id": {
+      "type": ["integer", "string"],
+      "description": "Zenodo record ID. Canonical form is integer in the API response; we keep as-is."
+    },
+    "doi": {
+      "type": "string",
+      "pattern": "^10\\.[0-9]{4,9}/.+$",
+      "description": "DOI. Typically 10.5281/zenodo.<id> when Zenodo minted it, but records imported/mirrored from elsewhere (e.g. Dryad, Nature, IOP) keep the original DOI — so we accept any valid DOI shape."
+    },
+    "conceptrecid": { "type": ["string", "integer"] },
+    "created": { "type": "string" },
+    "modified": { "type": "string" },
+    "metadata": {
+      "type": "object",
+      "required": ["title", "publication_date", "resource_type"],
+      "properties": {
+        "title": { "type": "string" },
+        "publication_date": { "type": "string" },
+        "description": { "type": ["string", "null"] },
+        "resource_type": {
+          "type": "object",
+          "properties": {
+            "title": { "type": "string" },
+            "type": { "type": "string" }
+          }
+        },
+        "creators": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": { "type": "string" },
+              "affiliation": { "type": ["string", "null"] },
+              "orcid": { "type": ["string", "null"] }
+            }
+          }
+        },
+        "keywords": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "license": {
+          "type": "object",
+          "properties": {
+            "id": { "type": "string" }
+          }
+        },
+        "related_identifiers": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "identifier": { "type": "string" },
+              "relation": { "type": "string" },
+              "scheme": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "files": {
+      "type": "array",
+      "description": "Zenodo's file listing. Each entry carries key, size, checksum, download links.",
+      "items": {
+        "type": "object",
+        "required": ["key", "size", "checksum"],
+        "properties": {
+          "id": { "type": "string" },
+          "key": { "type": "string" },
+          "size": { "type": "integer", "minimum": 0 },
+          "checksum": {
+            "type": "string",
+            "description": "md5:<hex> per Zenodo convention."
+          },
+          "links": {
+            "type": "object",
+            "properties": {
+              "self": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "links": {
+      "type": "object",
+      "properties": {
+        "self": { "type": "string" },
+        "self_html": { "type": "string" },
+        "doi": { "type": "string" }
+      }
+    },
+    "stats": { "type": "object" },
+    "updated": { "type": "string" },
+    "revision": { "type": ["integer", "string"] },
+    "status": { "type": "string" }
+  }
+}

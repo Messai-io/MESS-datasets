@@ -1,0 +1,17 @@
+{
+  "doi": "10.5281/zenodo.18385300",
+  "fetched_at": "2026-04-20T04:30:39+00:00",
+  "files": [
+    {
+      "checksum": "md5:832a67829cabe97b68812bf335b51c69",
+      "committed": false,
+      "download_url": "https://zenodo.org/api/records/18385300/files/Raw%20Data_Journal%20of%20Energy%20Storage.zip/content",
+      "key": "Raw Data_Journal of Energy Storage.zip",
+      "local_path": ".source/Raw Data_Journal of Energy Storage.zip",
+      "size": 3278140,
+      "skipped_reason": null
+    }
+  ],
+  "id": "18385300",
+  "source": "zenodo"
+}

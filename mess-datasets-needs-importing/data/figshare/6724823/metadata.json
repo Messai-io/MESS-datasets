@@ -1,0 +1,1151 @@
+{
+  "authors": [
+    {
+      "first_name": "Konstantin G.",
+      "full_name": "Konstantin G. Nikolaev",
+      "id": 5469929,
+      "is_active": false,
+      "last_name": "Nikolaev",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Yury E.",
+      "full_name": "Yury E. Ermolenko",
+      "id": 5469923,
+      "is_active": false,
+      "last_name": "Ermolenko",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Andreas",
+      "full_name": "Andreas Offenhäusser",
+      "id": 541774,
+      "is_active": false,
+      "last_name": "Offenhäusser",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Sergey S.",
+      "full_name": "Sergey S. Ermakov",
+      "id": 5469920,
+      "is_active": false,
+      "last_name": "Ermakov",
+      "orcid_id": "",
+      "url_name": "_"
+    },
+    {
+      "first_name": "Yulia G.",
+      "full_name": "Yulia G. Mourzina",
+      "id": 5469926,
+      "is_active": false,
+      "last_name": "Mourzina",
+      "orcid_id": "",
+      "url_name": "_"
+    }
+  ],
+  "categories": [
+    {
+      "id": 32,
+      "parent_id": 38,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Geochemistry"
+    },
+    {
+      "id": 4,
+      "parent_id": 38,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Biochemistry"
+    },
+    {
+      "id": 37,
+      "parent_id": 38,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Organic Chemistry"
+    },
+    {
+      "id": 294,
+      "parent_id": 142,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Medical Biochemistry: Proteins and Peptides (incl. Medical Proteomics)"
+    },
+    {
+      "id": 71,
+      "parent_id": 38,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Nuclear Chemistry"
+    },
+    {
+      "id": 296,
+      "parent_id": 142,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Medical Biochemistry and Metabolomics not elsewhere classified"
+    },
+    {
+      "id": 655,
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Analytical Biochemistry"
+    },
+    {
+      "id": 659,
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Cell Neurochemistry"
+    },
+    {
+      "id": 854,
+      "parent_id": 38,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Physical Organic Chemistry"
+    },
+    {
+      "id": 661,
+      "parent_id": 48,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Enzymes"
+    },
+    {
+      "id": 853,
+      "parent_id": 38,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Organic Green Chemistry"
+    },
+    {
+      "id": 869,
+      "parent_id": 38,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Environmental Chemistry (incl. Atmospheric Chemistry)"
+    },
+    {
+      "id": 856,
+      "parent_id": 38,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Catalysis and Mechanisms of Reactions"
+    },
+    {
+      "id": 819,
+      "parent_id": 38,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Electroanalytical Chemistry"
+    },
+    {
+      "id": 826,
+      "parent_id": 38,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Analytical Chemistry not elsewhere classified"
+    },
+    {
+      "id": 31,
+      "parent_id": 38,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Environmental Chemistry"
+    },
+    {
+      "id": 572,
+      "parent_id": 5,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Food Chemistry and Molecular Gastronomy (excl. Wine)"
+    },
+    {
+      "id": 69,
+      "parent_id": 38,
+      "path": "",
+      "source_id": "",
+      "taxonomy_id": 10,
+      "title": "Inorganic Chemistry"
+    }
+  ],
+  "citation": "Nikolaev, Konstantin G.; Ermolenko, Yury E.; Offenhäusser, Andreas; Ermakov, Sergey S.; Mourzina, Yulia G. (2018). Data_Sheet_1_Multisensor Systems by Electrochemical Nanowire Assembly for the Analysis of Aqueous Solutions.pdf. Frontiers. Dataset. https://doi.org/10.3389/fchem.2018.00256.s001",
+  "confidential_reason": "",
+  "created_date": "2018-06-29T13:42:59Z",
+  "custom_fields": [],
+  "defined_type": 3,
+  "defined_type_name": "dataset",
+  "description": "<p>The development of electrochemical multisensor systems is driven by the need for fast, miniature, inexpensive, analytical devices, and advanced interdisciplinary based on both chemometric and (nano)material approaches. A multicomponent analysis of complex mixtures in environmental and technological monitoring, biological samples, and cell culture requires chip-based multisensor systems with high-stability sensors. In this paper, we describe the development, characterization, and applications of chip-based nanoelectrochemical sensor arrays prepared by the directed electrochemical nanowire assembly (DENA) of noble metals and metal alloys to analyze aqueous solutions. A synergic action of the electrode transducer function and electrocatalytic activity of the nanostructured surface toward analytes is achieved in the assembled metal nanowire (NW) sensors. Various sensor nanomaterials (Pd, Ni, Au, and their multicomponent compositions) can be electrochemically assembled on a single chip without employing multiple cycles of photolithography process to realize multi-analyte sensing applications as well as spatial resolution of sensor analysis by this single-chip multisensor system. For multi-analyte electrochemical sensing, individual amperometric signals of two or more nanowires can be acquired, making use of the specific electrocatalytic surface properties of the individual nanowire sensors of the array toward analytes. To demonstrate the application of a new electrochemical multisensor platform, Pd-Au, Pd-Ni, Pd, and Au NW electrode arrays on a single chip were employed for the non-enzymatic analysis of hydrogen peroxide, glucose, and ethanol. The analytes are determined at low absolute values of the detection potentials with linear concentration ranges of 1.0 × 10<sup>−6</sup> − 1.0 × 10<sup>−3</sup> M (H<sub>2</sub>O<sub>2</sub>), 1.5 × 10<sup>−7</sup> − 2.0 × 10<sup>−3</sup> M (glucose), and 0.7 × 10<sup>−3</sup> − 3.0 × 10<sup>−2</sup> M (ethanol), detection limits of 2 × 10<sup>−7</sup> M (H<sub>2</sub>O<sub>2</sub>), 4 × 10<sup>−8</sup> M (glucose), and 5.2 × 10<sup>−4</sup> M (ethanol), and sensitivities of 18 μA M<sup>−1</sup> (H<sub>2</sub>O<sub>2</sub>), 178 μA M<sup>−1</sup> (glucose), and 28 μA M<sup>−1</sup> (ethanol), respectively. The sensors demonstrate a high level of stability due to the non-enzymatic detection mode. Based on the DENA-assembled nanowire electrodes of a compositional diversity, we propose a novel single-chip electrochemical multisensor platform, which is promising for acquiring complex analytical signals for advanced data processing with chemometric techniques aimed at the development of electronic tongue-type multisensor systems for flexible multi-analyte monitoring and healthcare applications.</p>",
+  "doi": "10.3389/fchem.2018.00256.s001",
+  "download_disabled": false,
+  "embargo_date": null,
+  "embargo_options": [],
+  "embargo_reason": "",
+  "embargo_title": "",
+  "embargo_type": null,
+  "figshare_url": "https://frontiersin.figshare.com/articles/dataset/Data_Sheet_1_Multisensor_Systems_by_Electrochemical_Nanowire_Assembly_for_the_Analysis_of_Aqueous_Solutions_pdf/6724823",
+  "files": [
+    {
+      "computed_md5": "0b71840679375099aab031d0fa45f245",
+      "download_url": "https://ndownloader.figshare.com/files/12260528",
+      "id": 12260528,
+      "is_link_only": false,
+      "mimetype": "application/pdf",
+      "name": "Data_Sheet_1_Multisensor Systems by Electrochemical Nanowire Assembly for the Analysis of Aqueous Solutions.pdf",
+      "size": 220684,
+      "supplied_md5": "0b71840679375099aab031d0fa45f245"
+    }
+  ],
+  "folder_structure": {},
+  "funding": null,
+  "funding_list": [],
+  "group_id": 11788,
+  "handle": "",
+  "has_linked_file": false,
+  "id": 6724823,
+  "is_confidential": false,
+  "is_embargoed": false,
+  "is_metadata_record": false,
+  "is_public": true,
+  "keywords": [
+    "electrochemical sensor",
+    "sensor array",
+    "metal nanowire assembly",
+    "multisensor system",
+    "non-enzymatic",
+    "glucose",
+    "ethanol",
+    "hydrogen peroxide"
+  ],
+  "license": {
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "value": 1
+  },
+  "metadata_reason": "",
+  "modified_date": "2023-06-03T04:21:50Z",
+  "published_date": "2018-06-29T13:42:59Z",
+  "references": [
+    "https://doi.org//10.1073/pnas.78.11.6858",
+    "https://doi.org//10.1016/j.bios.2004.09.030",
+    "https://doi.org//10.1016/0013-4686%2867%2980047-1",
+    "https://doi.org//10.1016/j.bios.2017.10.019",
+    "https://doi.org//10.1021/acs.analchem.7b04963",
+    "https://doi.org//10.1016/0013-4686%2892%2987065-8",
+    "https://doi.org//10.1016/0013-4686%2894%2985173-5",
+    "https://doi.org//10.1016/j.electacta.2013.09.040",
+    "https://doi.org//10.1002/elan.201400083",
+    "https://doi.org//10.1021/acs.chemrev.5b00324",
+    "https://doi.org//10.1016/j.electacta.2014.11.116",
+    "https://doi.org//10.1007/s00604-012-0904-4",
+    "https://doi.org//10.1007/s00604-013-1098-0",
+    "https://doi.org//10.1021/nl048240q",
+    "https://doi.org//10.1016/j.jcrysgro.2011.08.024",
+    "https://doi.org//10.1016/j.aca.2017.01.010",
+    "https://doi.org//10.1006/abio.1997.2293",
+    "https://doi.org//10.1070/RCR4605",
+    "https://doi.org//10.1016/S0022-0728%2871%2980040-2",
+    "https://doi.org//10.1039/C7RA02845H",
+    "https://doi.org//10.1021/acs.analchem.5b00059",
+    "https://doi.org//10.1016/j.talanta.2013.06.032",
+    "https://doi.org//10.1021/jp0714365",
+    "https://doi.org//10.1021/cr068069y",
+    "https://doi.org//10.1021/acs.jpcc.5b08423",
+    "https://doi.org//10.1063/1.4868518",
+    "https://doi.org//10.1002/smll.201201318",
+    "https://doi.org//10.2174/1573413711666150505223620",
+    "https://doi.org//10.1016/j.electacta.2014.11.194",
+    "https://doi.org//10.1021/nl1039956",
+    "https://doi.org//10.1016/j.snb.2012.09.106",
+    "https://doi.org//10.1002/chem.201100169",
+    "https://doi.org//10.1021/acs.analchem.7b01142",
+    "https://doi.org//10.1016/j.susc.2003.10.045",
+    "https://doi.org//10.1021/jp401764p",
+    "https://doi.org//10.1016/j.bios.2014.01.034",
+    "https://doi.org//10.1016/j.snb.2014.07.105",
+    "https://doi.org//10.1021/cm803492j",
+    "https://doi.org//10.1016/j.snb.2013.10.140",
+    "https://doi.org//10.1016/j.elecom.2007.06.036",
+    "https://doi.org//10.1021/ar500237c",
+    "https://doi.org//10.1021/acsnano.7b04898",
+    "https://doi.org//10.1021/ac00028a022",
+    "https://doi.org//10.1016/0302-4598%2886%2980023-X",
+    "https://doi.org//10.1126/science.125.3259.1185",
+    "https://doi.org//10.1016/j.snb.2016.03.151",
+    "https://doi.org//10.1063/1.2748625",
+    "https://doi.org//10.1002/adfm.201504506",
+    "https://doi.org//10.1134/S1061934817040104",
+    "https://doi.org//10.1007/s10008-017-3829-3",
+    "https://doi.org//10.1016/j.bioelechem.2015.05.004",
+    "https://doi.org//10.1088/0957-4484/18/17/175707",
+    "https://doi.org//10.1088/0957-4484/18/36/365302",
+    "https://doi.org//10.1016/j.snb.2016.07.045",
+    "https://doi.org//10.1016/j.talanta.2017.01.089",
+    "https://doi.org//10.1016/j.aca.2005.05.080",
+    "https://doi.org//10.1016/j.electacta.2010.04.069",
+    "https://doi.org//10.1016/j.aca.2013.09.048",
+    "https://doi.org//10.1038/299352a0",
+    "https://doi.org//10.1073/pnas.1602172113",
+    "https://doi.org//10.1007/BF00610805",
+    "https://doi.org//10.1016/j.jfda.2016.02.010",
+    "https://doi.org//10.1515/ntrev-2017-0160",
+    "https://doi.org//10.1016/j.bios.2016.10.062",
+    "https://doi.org//10.3390/s16060780",
+    "https://doi.org//10.1016/j.jelechem.2004.04.008",
+    "https://doi.org//10.1016/j.foodchem.2016.11.107",
+    "https://doi.org//10.1016/j.talanta.2015.05.041",
+    "https://doi.org//10.1039/c2ra22360k",
+    "https://doi.org//10.1063/1.2208431",
+    "https://doi.org//10.1016/j.msec.2016.04.009",
+    "https://doi.org//10.1016/j.elecom.2013.11.016",
+    "https://doi.org//10.1016/0022-0728%2885%2985085-3",
+    "https://doi.org//10.1134/S1061934810090029",
+    "https://doi.org//10.1351/pac200577111965",
+    "https://doi.org//10.1016/j.jpba.2017.11.076",
+    "https://doi.org//10.1021/jp800805e",
+    "https://doi.org//10.1002/adma.201600108",
+    "https://doi.org//10.1021/nl300427w",
+    "https://doi.org//10.1016/j.electacta.2013.03.100",
+    "https://doi.org//10.1002/asia.201402442",
+    "https://doi.org//10.3390/s8010290",
+    "https://doi.org//10.1021/acs.chemrev.5b00608",
+    "https://doi.org//10.1038/nmat3143",
+    "https://doi.org//10.1016/j.elecom.2012.11.013",
+    "https://doi.org//10.1166/sam.2016.2600",
+    "https://doi.org/10.3389/fchem.2018.00256"
+  ],
+  "related_materials": [
+    {
+      "id": 34784858,
+      "identifier": "https://doi.org//10.1073/pnas.78.11.6858",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1073/pnas.78.11.6858",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784861,
+      "identifier": "https://doi.org//10.1016/j.bios.2004.09.030",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.bios.2004.09.030",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784864,
+      "identifier": "https://doi.org//10.1016/0013-4686(67)80047-1",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/0013-4686(67)80047-1",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784867,
+      "identifier": "https://doi.org//10.1016/j.bios.2017.10.019",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.bios.2017.10.019",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784870,
+      "identifier": "https://doi.org//10.1021/acs.analchem.7b04963",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/acs.analchem.7b04963",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784873,
+      "identifier": "https://doi.org//10.1016/0013-4686(92)87065-8",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/0013-4686(92)87065-8",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784876,
+      "identifier": "https://doi.org//10.1016/0013-4686(94)85173-5",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/0013-4686(94)85173-5",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784879,
+      "identifier": "https://doi.org//10.1016/j.electacta.2013.09.040",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.electacta.2013.09.040",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784882,
+      "identifier": "https://doi.org//10.1002/elan.201400083",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/elan.201400083",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784885,
+      "identifier": "https://doi.org//10.1021/acs.chemrev.5b00324",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/acs.chemrev.5b00324",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784888,
+      "identifier": "https://doi.org//10.1016/j.electacta.2014.11.116",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.electacta.2014.11.116",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784891,
+      "identifier": "https://doi.org//10.1007/s00604-012-0904-4",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s00604-012-0904-4",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784894,
+      "identifier": "https://doi.org//10.1007/s00604-013-1098-0",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s00604-013-1098-0",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784897,
+      "identifier": "https://doi.org//10.1021/nl048240q",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/nl048240q",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784900,
+      "identifier": "https://doi.org//10.1016/j.jcrysgro.2011.08.024",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jcrysgro.2011.08.024",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784903,
+      "identifier": "https://doi.org//10.1016/j.aca.2017.01.010",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.aca.2017.01.010",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784906,
+      "identifier": "https://doi.org//10.1006/abio.1997.2293",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1006/abio.1997.2293",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784909,
+      "identifier": "https://doi.org//10.1070/RCR4605",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1070/RCR4605",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784912,
+      "identifier": "https://doi.org//10.1016/S0022-0728(71)80040-2",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/S0022-0728(71)80040-2",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784915,
+      "identifier": "https://doi.org//10.1039/C7RA02845H",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1039/C7RA02845H",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784918,
+      "identifier": "https://doi.org//10.1021/acs.analchem.5b00059",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/acs.analchem.5b00059",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784921,
+      "identifier": "https://doi.org//10.1016/j.talanta.2013.06.032",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.talanta.2013.06.032",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784924,
+      "identifier": "https://doi.org//10.1021/jp0714365",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/jp0714365",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784927,
+      "identifier": "https://doi.org//10.1021/cr068069y",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/cr068069y",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784930,
+      "identifier": "https://doi.org//10.1021/acs.jpcc.5b08423",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/acs.jpcc.5b08423",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784933,
+      "identifier": "https://doi.org//10.1063/1.4868518",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1063/1.4868518",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784936,
+      "identifier": "https://doi.org//10.1002/smll.201201318",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/smll.201201318",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784939,
+      "identifier": "https://doi.org//10.2174/1573413711666150505223620",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.2174/1573413711666150505223620",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784942,
+      "identifier": "https://doi.org//10.1016/j.electacta.2014.11.194",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.electacta.2014.11.194",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784945,
+      "identifier": "https://doi.org//10.1021/nl1039956",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/nl1039956",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784948,
+      "identifier": "https://doi.org//10.1016/j.snb.2012.09.106",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.snb.2012.09.106",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784951,
+      "identifier": "https://doi.org//10.1002/chem.201100169",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/chem.201100169",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784954,
+      "identifier": "https://doi.org//10.1021/acs.analchem.7b01142",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/acs.analchem.7b01142",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784957,
+      "identifier": "https://doi.org//10.1016/j.susc.2003.10.045",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.susc.2003.10.045",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784960,
+      "identifier": "https://doi.org//10.1021/jp401764p",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/jp401764p",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784963,
+      "identifier": "https://doi.org//10.1016/j.bios.2014.01.034",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.bios.2014.01.034",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784966,
+      "identifier": "https://doi.org//10.1016/j.snb.2014.07.105",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.snb.2014.07.105",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784969,
+      "identifier": "https://doi.org//10.1021/cm803492j",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/cm803492j",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784972,
+      "identifier": "https://doi.org//10.1016/j.snb.2013.10.140",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.snb.2013.10.140",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784975,
+      "identifier": "https://doi.org//10.1016/j.elecom.2007.06.036",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.elecom.2007.06.036",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784978,
+      "identifier": "https://doi.org//10.1021/ar500237c",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/ar500237c",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784981,
+      "identifier": "https://doi.org//10.1021/acsnano.7b04898",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/acsnano.7b04898",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784984,
+      "identifier": "https://doi.org//10.1021/ac00028a022",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/ac00028a022",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784987,
+      "identifier": "https://doi.org//10.1016/0302-4598(86)80023-X",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/0302-4598(86)80023-X",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784990,
+      "identifier": "https://doi.org//10.1126/science.125.3259.1185",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1126/science.125.3259.1185",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784993,
+      "identifier": "https://doi.org//10.1016/j.snb.2016.03.151",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.snb.2016.03.151",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784996,
+      "identifier": "https://doi.org//10.1063/1.2748625",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1063/1.2748625",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34784999,
+      "identifier": "https://doi.org//10.1002/adfm.201504506",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/adfm.201504506",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785002,
+      "identifier": "https://doi.org//10.1134/S1061934817040104",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1134/S1061934817040104",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785005,
+      "identifier": "https://doi.org//10.1007/s10008-017-3829-3",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/s10008-017-3829-3",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785008,
+      "identifier": "https://doi.org//10.1016/j.bioelechem.2015.05.004",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.bioelechem.2015.05.004",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785011,
+      "identifier": "https://doi.org//10.1088/0957-4484/18/17/175707",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1088/0957-4484/18/17/175707",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785014,
+      "identifier": "https://doi.org//10.1088/0957-4484/18/36/365302",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1088/0957-4484/18/36/365302",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785017,
+      "identifier": "https://doi.org//10.1016/j.snb.2016.07.045",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.snb.2016.07.045",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785020,
+      "identifier": "https://doi.org//10.1016/j.talanta.2017.01.089",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.talanta.2017.01.089",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785023,
+      "identifier": "https://doi.org//10.1016/j.aca.2005.05.080",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.aca.2005.05.080",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785026,
+      "identifier": "https://doi.org//10.1016/j.electacta.2010.04.069",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.electacta.2010.04.069",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785029,
+      "identifier": "https://doi.org//10.1016/j.aca.2013.09.048",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.aca.2013.09.048",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785032,
+      "identifier": "https://doi.org//10.1038/299352a0",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/299352a0",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785035,
+      "identifier": "https://doi.org//10.1073/pnas.1602172113",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1073/pnas.1602172113",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785038,
+      "identifier": "https://doi.org//10.1007/BF00610805",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1007/BF00610805",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785041,
+      "identifier": "https://doi.org//10.1016/j.jfda.2016.02.010",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jfda.2016.02.010",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785044,
+      "identifier": "https://doi.org//10.1515/ntrev-2017-0160",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1515/ntrev-2017-0160",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785047,
+      "identifier": "https://doi.org//10.1016/j.bios.2016.10.062",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.bios.2016.10.062",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785050,
+      "identifier": "https://doi.org//10.3390/s16060780",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3390/s16060780",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785053,
+      "identifier": "https://doi.org//10.1016/j.jelechem.2004.04.008",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jelechem.2004.04.008",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785056,
+      "identifier": "https://doi.org//10.1016/j.foodchem.2016.11.107",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.foodchem.2016.11.107",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785059,
+      "identifier": "https://doi.org//10.1016/j.talanta.2015.05.041",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.talanta.2015.05.041",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785062,
+      "identifier": "https://doi.org//10.1039/c2ra22360k",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1039/c2ra22360k",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785065,
+      "identifier": "https://doi.org//10.1063/1.2208431",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1063/1.2208431",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785068,
+      "identifier": "https://doi.org//10.1016/j.msec.2016.04.009",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.msec.2016.04.009",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785071,
+      "identifier": "https://doi.org//10.1016/j.elecom.2013.11.016",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.elecom.2013.11.016",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785074,
+      "identifier": "https://doi.org//10.1016/0022-0728(85)85085-3",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/0022-0728(85)85085-3",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785077,
+      "identifier": "https://doi.org//10.1134/S1061934810090029",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1134/S1061934810090029",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785080,
+      "identifier": "https://doi.org//10.1351/pac200577111965",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1351/pac200577111965",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785083,
+      "identifier": "https://doi.org//10.1016/j.jpba.2017.11.076",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.jpba.2017.11.076",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785086,
+      "identifier": "https://doi.org//10.1021/jp800805e",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/jp800805e",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785089,
+      "identifier": "https://doi.org//10.1002/adma.201600108",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/adma.201600108",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785092,
+      "identifier": "https://doi.org//10.1021/nl300427w",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/nl300427w",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785095,
+      "identifier": "https://doi.org//10.1016/j.electacta.2013.03.100",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.electacta.2013.03.100",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785098,
+      "identifier": "https://doi.org//10.1002/asia.201402442",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1002/asia.201402442",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785101,
+      "identifier": "https://doi.org//10.3390/s8010290",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.3390/s8010290",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785104,
+      "identifier": "https://doi.org//10.1021/acs.chemrev.5b00608",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1021/acs.chemrev.5b00608",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785107,
+      "identifier": "https://doi.org//10.1038/nmat3143",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1038/nmat3143",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785110,
+      "identifier": "https://doi.org//10.1016/j.elecom.2012.11.013",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1016/j.elecom.2012.11.013",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785113,
+      "identifier": "https://doi.org//10.1166/sam.2016.2600",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://doi.org//10.1166/sam.2016.2600",
+      "relation": "References",
+      "title": ""
+    },
+    {
+      "id": 34785116,
+      "identifier": "10.3389/fchem.2018.00256",
+      "identifier_type": "DOI",
+      "is_linkout": true,
+      "link": "https://doi.org/10.3389/fchem.2018.00256",
+      "relation": "IsSupplementTo",
+      "title": "Multisensor Systems by Electrochemical Nanowire Assembly for the Analysis of Aqueous Solutions"
+    }
+  ],
+  "resource_doi": "10.3389/fchem.2018.00256",
+  "resource_title": "Multisensor Systems by Electrochemical Nanowire Assembly for the Analysis of Aqueous Solutions",
+  "size": 220684,
+  "status": "public",
+  "tags": [
+    "electrochemical sensor",
+    "sensor array",
+    "metal nanowire assembly",
+    "multisensor system",
+    "non-enzymatic",
+    "glucose",
+    "ethanol",
+    "hydrogen peroxide"
+  ],
+  "thumb": "https://s3-eu-west-1.amazonaws.com/ppreviews-frontiersin-8483929402184328/12260528/thumb.png",
+  "timeline": {
+    "firstOnline": "2018-06-29T13:42:59",
+    "posted": "2018-06-29T13:42:59"
+  },
+  "title": "Data_Sheet_1_Multisensor Systems by Electrochemical Nanowire Assembly for the Analysis of Aqueous Solutions.pdf",
+  "url": "https://api.figshare.com/v2/articles/6724823",
+  "url_private_api": "https://api.figshare.com/v2/account/articles/6724823",
+  "url_private_html": "https://figshare.com/account/articles/6724823",
+  "url_public_api": "https://api.figshare.com/v2/articles/6724823",
+  "url_public_html": "https://frontiersin.figshare.com/articles/dataset/Data_Sheet_1_Multisensor_Systems_by_Electrochemical_Nanowire_Assembly_for_the_Analysis_of_Aqueous_Solutions_pdf/6724823",
+  "version": 1
+}
