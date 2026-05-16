@@ -1,0 +1,42 @@
+{
+  "doi": "10.57745/D1FHK9",
+  "doi_url": "https://doi.org/10.57745/D1FHK9",
+  "id": "D1FHK9",
+  "title": "20240909_BIOCTANE_INRAE_PUB1.3_V01",
+  "links": {
+    "html": "https://entrepot.recherche.data.gouv.fr/dataset.xhtml?persistentId=doi:10.57745/D1FHK9"
+  },
+  "metadata": {
+    "title": "20240909_BIOCTANE_INRAE_PUB1.3_V01",
+    "publication_date": "2024-11-23",
+    "license": {
+      "id": "etalab-2.0"
+    },
+    "creators": [
+      {
+        "name": "Eric Trably"
+      },
+      {
+        "name": "Nicolas Bernet"
+      },
+      {
+        "name": "Jose Antonio Magdalena Cadelo"
+      },
+      {
+        "name": "Maria Fernanda Perez Bernal"
+      }
+    ],
+    "keywords": ["dark fermentation", "biohydrogen", "bioelectrochemistry"],
+    "description": "Dataset containing experimental data supporting research on 'Microbial electrolysis cells as a tool to polish short chain -rich dark fermentation effluents for propionate production'. Includes dark fermentation reactor data at 3 OLR stages, two MEC reactors fed with DF effluent (chronoamperometry, cyclic voltammetry, HPLC metabolites, H2 yields, coulombic and cathodic efficiencies), bioanode enrichment data, and 16S rRNA OTU tables for bulk and electrode-attached communities. Raw 16S sequences: NCBI bioproject PRJNA1152534.",
+    "related_identifiers": [
+      {
+        "identifier": "PRJNA1152534",
+        "relation": "isDerivedFrom",
+        "scheme": "ncbi-bioproject"
+      }
+    ],
+    "publisher": "Recherche Data Gouv (INRAE)",
+    "project": "BIOCTANE (EU H2020)"
+  },
+  "fetched_at": "2026-05-16T03:19:13+00:00"
+}

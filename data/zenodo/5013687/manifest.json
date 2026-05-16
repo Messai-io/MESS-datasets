@@ -1,0 +1,78 @@
+{
+  "doi": "10.5281/zenodo.5013687",
+  "fetched_at": "2026-05-16T03:37:15+00:00",
+  "files": [
+    {
+      "checksum": "md5:a528e166f2053e0519b90be43c9f81d3",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/5013687/files/Figure 3A, B, and C Data.xlsx/content",
+      "key": "Figure 3A, B, and C Data.xlsx",
+      "local_path": "files/Figure 3A, B, and C Data.xlsx",
+      "size": 19841,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:db9e0f1a3d9a73a48ce683462c921440",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/5013687/files/Figure S1 Data.xlsx/content",
+      "key": "Figure S1 Data.xlsx",
+      "local_path": "files/Figure S1 Data.xlsx",
+      "size": 11884,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:da5119e91710fcf59366d235bd1399ca",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/5013687/files/Figure S2.xlsx/content",
+      "key": "Figure S2.xlsx",
+      "local_path": "files/Figure S2.xlsx",
+      "size": 29793,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:b6938cddec810855b13336e9024441ce",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/5013687/files/Figure S3.xlsx/content",
+      "key": "Figure S3.xlsx",
+      "local_path": "files/Figure S3.xlsx",
+      "size": 22419,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:159300298566cc31af1c85a4734006e2",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/5013687/files/Figure S4 Data.xlsx/content",
+      "key": "Figure S4 Data.xlsx",
+      "local_path": "files/Figure S4 Data.xlsx",
+      "size": 856061,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:7f3084a5a0d0218fdff245d54122c9bc",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/5013687/files/Figure S5.xlsx/content",
+      "key": "Figure S5.xlsx",
+      "local_path": "files/Figure S5.xlsx",
+      "size": 20030,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:b9c613504d6e30d49f82a9e2d2a9ad7c",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/5013687/files/Figure S6 Data.xlsx/content",
+      "key": "Figure S6 Data.xlsx",
+      "local_path": "files/Figure S6 Data.xlsx",
+      "size": 15108,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:586f0cfaefe5dcfe8359b7632548760a",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/5013687/files/Figure S7 Data.xlsx/content",
+      "key": "Figure S7 Data.xlsx",
+      "local_path": "files/Figure S7 Data.xlsx",
+      "size": 248962,
+      "skipped_reason": null
+    }
+  ]
+}

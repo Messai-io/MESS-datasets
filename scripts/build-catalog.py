@@ -180,9 +180,66 @@ def build_figshare_record(
     }
 
 
+def build_recherche_data_gouv_record(
+    rec_dir: Path,
+    prior: dict[str, dict[str, Any]],
+    yaml_entries: dict[str, dict[str, Any]],
+) -> dict[str, Any] | None:
+    """Build a catalog record for a Recherche Data Gouv (INRAE) dataset.
+
+    Expects the same {metadata.json, manifest.json, DATASHEET.md, files/}
+    layout as zenodo/figshare, with metadata.json shaped per the Zenodo
+    convention (`.metadata.title`, `.metadata.creators[].name`,
+    `.metadata.license.id`, etc.) so a single classification machinery
+    works across sources.
+    """
+    meta_path = rec_dir / "metadata.json"
+    manifest_path = rec_dir / "manifest.json"
+    if not meta_path.exists() or not manifest_path.exists():
+        return None
+    meta = json.loads(meta_path.read_text(encoding="utf-8"))
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    m = meta.get("metadata", {}) or {}
+    record_id = rec_dir.name
+    p = _resolve_classification(f"recherche-data-gouv:{record_id}", prior, yaml_entries)
+
+    paper_doi = None
+    for ri in m.get("related_identifiers") or []:
+        if (ri.get("relation") or "").lower() in {
+            "issupplementto", "isderivedfrom", "isdocumentedby", "cites"
+        } and (ri.get("scheme") or "").lower() == "doi":
+            paper_doi = ri.get("identifier")
+            break
+
+    creators = [
+        c.get("name") for c in (m.get("creators") or [])
+        if isinstance(c, dict) and c.get("name")
+    ]
+
+    return {
+        "source": "recherche-data-gouv",
+        "id": record_id,
+        "doi": meta.get("doi"),
+        "paper_doi": paper_doi,
+        "title": m.get("title") or meta.get("title") or "",
+        "publication_date": m.get("publication_date"),
+        "license": (m.get("license") or {}).get("id"),
+        "creators": creators,
+        "keywords": list(m.get("keywords") or []),
+        "files": summarize_files(manifest),
+        "mes_relevance": p.get("mes_relevance", None),
+        "mes_domains": p.get("mes_domains", []),
+        "data_kinds": p.get("data_kinds", []),
+        "related_slugs": p.get("related_slugs", {"parameters": [], "materials": []}),
+        "last_synced": manifest.get("fetched_at")
+        or datetime.now(timezone.utc).isoformat(timespec="seconds"),
+    }
+
+
 SOURCE_BUILDERS: dict[str, Callable[[Path, dict, dict], dict | None]] = {
     "zenodo": build_zenodo_record,
     "figshare": build_figshare_record,
+    "recherche-data-gouv": build_recherche_data_gouv_record,
 }
 
 

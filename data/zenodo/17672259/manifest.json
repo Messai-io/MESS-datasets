@@ -1,0 +1,24 @@
+{
+  "doi": "10.5281/zenodo.17672259",
+  "fetched_at": "2026-05-16T03:37:15+00:00",
+  "files": [
+    {
+      "checksum": "md5:e71b4c5c118ed54e11bb653ee3bb17e2",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/17672259/files/Data for GCA.xlsx/content",
+      "key": "Data for GCA.xlsx",
+      "local_path": "files/Data for GCA.xlsx",
+      "size": 308670,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:3a945ece3e41e6e506c024bd0699190e",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/17672259/files/MTP for GCA.xlsx/content",
+      "key": "MTP for GCA.xlsx",
+      "local_path": "files/MTP for GCA.xlsx",
+      "size": 12728,
+      "skipped_reason": null
+    }
+  ]
+}

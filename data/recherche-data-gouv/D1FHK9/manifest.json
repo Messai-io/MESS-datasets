@@ -1,0 +1,168 @@
+{
+  "doi": "10.57745/D1FHK9",
+  "fetched_at": "2026-05-16T03:19:13+00:00",
+  "files": [
+    {
+      "checksum": "md5:dfab9110027ceaa979cfd34fded69472",
+      "committed": true,
+      "download_url": "https://entrepot.recherche.data.gouv.fr/api/access/datafile/:persistentId?persistentId=doi:10.57745/D1FHK9/1. DF_continuous_pH7.xlsx",
+      "key": "1. DF_continuous_pH7.xlsx",
+      "local_path": "files/1. DF_continuous_pH7.xlsx",
+      "size": 132763,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:dc2d0c28506ebd963a879c2ab646ea48",
+      "committed": true,
+      "download_url": "https://entrepot.recherche.data.gouv.fr/api/access/datafile/:persistentId?persistentId=doi:10.57745/D1FHK9/1. DF_continuous_pH7_1.csv",
+      "key": "1. DF_continuous_pH7_1.csv",
+      "local_path": "files/1. DF_continuous_pH7_1.csv",
+      "size": 17283,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:4f289079d353229521cabb20132c11c2",
+      "committed": true,
+      "download_url": "https://entrepot.recherche.data.gouv.fr/api/access/datafile/:persistentId?persistentId=doi:10.57745/D1FHK9/1. DF_continuous_pH7_2.csv",
+      "key": "1. DF_continuous_pH7_2.csv",
+      "local_path": "files/1. DF_continuous_pH7_2.csv",
+      "size": 2285,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:c29dff352a6359b4bb88168c33a9ff1c",
+      "committed": true,
+      "download_url": "https://entrepot.recherche.data.gouv.fr/api/access/datafile/:persistentId?persistentId=doi:10.57745/D1FHK9/1. DF_continuous_pH7_3.csv",
+      "key": "1. DF_continuous_pH7_3.csv",
+      "local_path": "files/1. DF_continuous_pH7_3.csv",
+      "size": 6985,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:aa9fcb3473020d096c885ed69365be54",
+      "committed": true,
+      "download_url": "https://entrepot.recherche.data.gouv.fr/api/access/datafile/:persistentId?persistentId=doi:10.57745/D1FHK9/1. DF_continuous_pH7_4.png",
+      "key": "1. DF_continuous_pH7_4.png",
+      "local_path": "files/1. DF_continuous_pH7_4.png",
+      "size": 75918,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:6adab85e28639c4ebf0d675d823c34f8",
+      "committed": true,
+      "download_url": "https://entrepot.recherche.data.gouv.fr/api/access/datafile/:persistentId?persistentId=doi:10.57745/D1FHK9/2. MECs_R1R2_InocMix_Feed_DF_ORL60_pH7.xlsx",
+      "key": "2. MECs_R1R2_InocMix_Feed_DF_ORL60_pH7.xlsx",
+      "local_path": "files/2. MECs_R1R2_InocMix_Feed_DF_ORL60_pH7.xlsx",
+      "size": 883466,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:3a93c9e0c3f9cf16eb87b2a1078c21fc",
+      "committed": true,
+      "download_url": "https://entrepot.recherche.data.gouv.fr/api/access/datafile/:persistentId?persistentId=doi:10.57745/D1FHK9/2. MECs_R1R2_InocMix_Feed_DF_ORL60_pH7_1.csv",
+      "key": "2. MECs_R1R2_InocMix_Feed_DF_ORL60_pH7_1.csv",
+      "local_path": "files/2. MECs_R1R2_InocMix_Feed_DF_ORL60_pH7_1.csv",
+      "size": 5355,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:45ce4da6649eb85f3673074d5bb119b8",
+      "committed": true,
+      "download_url": "https://entrepot.recherche.data.gouv.fr/api/access/datafile/:persistentId?persistentId=doi:10.57745/D1FHK9/2. MECs_R1R2_InocMix_Feed_DF_ORL60_pH7_2.csv",
+      "key": "2. MECs_R1R2_InocMix_Feed_DF_ORL60_pH7_2.csv",
+      "local_path": "files/2. MECs_R1R2_InocMix_Feed_DF_ORL60_pH7_2.csv",
+      "size": 3973,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:4dbe30d53146cb98debafa148fe1bac4",
+      "committed": true,
+      "download_url": "https://entrepot.recherche.data.gouv.fr/api/access/datafile/:persistentId?persistentId=doi:10.57745/D1FHK9/2. MECs_R1R2_InocMix_Feed_DF_ORL60_pH7_3.csv",
+      "key": "2. MECs_R1R2_InocMix_Feed_DF_ORL60_pH7_3.csv",
+      "local_path": "files/2. MECs_R1R2_InocMix_Feed_DF_ORL60_pH7_3.csv",
+      "size": 238219,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:44eda6d3410905c8ed7c0fe1f8680e0b",
+      "committed": true,
+      "download_url": "https://entrepot.recherche.data.gouv.fr/api/access/datafile/:persistentId?persistentId=doi:10.57745/D1FHK9/2. MECs_R1R2_InocMix_Feed_DF_ORL60_pH7_4.csv",
+      "key": "2. MECs_R1R2_InocMix_Feed_DF_ORL60_pH7_4.csv",
+      "local_path": "files/2. MECs_R1R2_InocMix_Feed_DF_ORL60_pH7_4.csv",
+      "size": 195757,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:5d08162a5521267330943ee383505073",
+      "committed": true,
+      "download_url": "https://entrepot.recherche.data.gouv.fr/api/access/datafile/:persistentId?persistentId=doi:10.57745/D1FHK9/3. Enrichment.xlsx",
+      "key": "3. Enrichment.xlsx",
+      "local_path": "files/3. Enrichment.xlsx",
+      "size": 816382,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:6c10e3cf814123bcfca047c2d99bbbea",
+      "committed": true,
+      "download_url": "https://entrepot.recherche.data.gouv.fr/api/access/datafile/:persistentId?persistentId=doi:10.57745/D1FHK9/3. Enrichment_1.csv",
+      "key": "3. Enrichment_1.csv",
+      "local_path": "files/3. Enrichment_1.csv",
+      "size": 114457,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:d0d7b16b67bc34172c0b0c916bfb0dec",
+      "committed": true,
+      "download_url": "https://entrepot.recherche.data.gouv.fr/api/access/datafile/:persistentId?persistentId=doi:10.57745/D1FHK9/3. Enrichment_2.csv",
+      "key": "3. Enrichment_2.csv",
+      "local_path": "files/3. Enrichment_2.csv",
+      "size": 253019,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:685a5520db0214ad0b1c1b3223b0c875",
+      "committed": true,
+      "download_url": "https://entrepot.recherche.data.gouv.fr/api/access/datafile/:persistentId?persistentId=doi:10.57745/D1FHK9/4. OTUS N-Stat and MECs_R1R2.xlsx",
+      "key": "4. OTUS N-Stat and MECs_R1R2.xlsx",
+      "local_path": "files/4. OTUS N-Stat and MECs_R1R2.xlsx",
+      "size": 39051,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:1db92a0f5ba98fed901d20513f1b6933",
+      "committed": true,
+      "download_url": "https://entrepot.recherche.data.gouv.fr/api/access/datafile/:persistentId?persistentId=doi:10.57745/D1FHK9/4. OTUS N-Stat and MECs_R1R2_1.csv",
+      "key": "4. OTUS N-Stat and MECs_R1R2_1.csv",
+      "local_path": "files/4. OTUS N-Stat and MECs_R1R2_1.csv",
+      "size": 17408,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:c4e52670e74dc7974ee29d077aa9e2b6",
+      "committed": true,
+      "download_url": "https://entrepot.recherche.data.gouv.fr/api/access/datafile/:persistentId?persistentId=doi:10.57745/D1FHK9/4. OTUS N-Stat and MECs_R1R2_2.csv",
+      "key": "4. OTUS N-Stat and MECs_R1R2_2.csv",
+      "local_path": "files/4. OTUS N-Stat and MECs_R1R2_2.csv",
+      "size": 27086,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:0491b232945032b1aced52af56ef74d1",
+      "committed": true,
+      "download_url": "https://entrepot.recherche.data.gouv.fr/api/access/datafile/:persistentId?persistentId=doi:10.57745/D1FHK9/5. OTUs Continuous DF experiments.csv",
+      "key": "5. OTUs Continuous DF experiments.csv",
+      "local_path": "files/5. OTUs Continuous DF experiments.csv",
+      "size": 37569,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:6728ff28eb8cbe500571f14efc5f0bf2",
+      "committed": true,
+      "download_url": "https://entrepot.recherche.data.gouv.fr/api/access/datafile/:persistentId?persistentId=doi:10.57745/D1FHK9/5. OTUs Continuous DF experiments.xlsx",
+      "key": "5. OTUs Continuous DF experiments.xlsx",
+      "local_path": "files/5. OTUs Continuous DF experiments.xlsx",
+      "size": 37579,
+      "skipped_reason": null
+    }
+  ]
+}

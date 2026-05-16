@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-05-16T03:59:24+00:00",
+  "records": [
+    {
+      "creators": [
+        "Eric Trably",
+        "Nicolas Bernet",
+        "Jose Antonio Magdalena Cadelo",
+        "Maria Fernanda Perez Bernal"
+      ],
+      "data_kinds": ["experimental", "time_series", "genomic"],
+      "doi": "10.57745/D1FHK9",
+      "files": {
+        "committed_count": 18,
+        "count": 18,
+        "total_bytes": 2904555
+      },
+      "id": "D1FHK9",
+      "keywords": ["dark fermentation", "biohydrogen", "bioelectrochemistry"],
+      "last_synced": "2026-05-16T03:19:13+00:00",
+      "license": "etalab-2.0",
+      "mes_domains": ["mec", "mes_general", "wastewater"],
+      "mes_relevance": "core",
+      "paper_doi": null,
+      "publication_date": "2024-11-23",
+      "related_slugs": {
+        "materials": [],
+        "parameters": [
+          "coulombic_efficiency",
+          "cathodic_h2_recovery",
+          "h2_yield",
+          "h2_production_rate",
+          "current_density",
+          "cathode_potential",
+          "anode_potential",
+          "organic_loading_rate",
+          "volatile_fatty_acids",
+          "acetic_acid_concentration",
+          "butyrate_concentration",
+          "propionic_acid_concentration",
+          "cod_removal",
+          "ch4_content_biogas"
+        ]
+      },
+      "source": "recherche-data-gouv",
+      "title": "20240909_BIOCTANE_INRAE_PUB1.3_V01"
+    }
+  ]
+}

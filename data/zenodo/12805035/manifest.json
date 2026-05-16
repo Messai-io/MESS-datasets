@@ -1,0 +1,105 @@
+{
+  "doi": "10.5281/zenodo.12805035",
+  "fetched_at": "2026-05-16T03:37:15+00:00",
+  "files": [
+    {
+      "checksum": "md5:002aeb9565677308ab48b11015d341c1",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/12805035/files/Alkalinity.csv/content",
+      "key": "Alkalinity.csv",
+      "local_path": "files/Alkalinity.csv",
+      "size": 424,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:25f5f7695d3a6fd9b32b8eb36f59adba",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/12805035/files/Av_batch_biogas.csv/content",
+      "key": "Av_batch_biogas.csv",
+      "local_path": "files/Av_batch_biogas.csv",
+      "size": 824,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:2f016244b62e2483f3498860f8ac803b",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/12805035/files/Batch.csv/content",
+      "key": "Batch.csv",
+      "local_path": "files/Batch.csv",
+      "size": 399,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:7441863a62ef6bb94b59a91dbdc7db94",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/12805035/files/CH4.csv/content",
+      "key": "CH4.csv",
+      "local_path": "files/CH4.csv",
+      "size": 828,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:5c5fcefb43c0f13ca497d9198a6850be",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/12805035/files/CH4_Yield.csv/content",
+      "key": "CH4_Yield.csv",
+      "local_path": "files/CH4_Yield.csv",
+      "size": 829,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:f090b22c4ef5e11ce3eaf4411da0005b",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/12805035/files/COD_rem.csv/content",
+      "key": "COD_rem.csv",
+      "local_path": "files/COD_rem.csv",
+      "size": 836,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:c8365c193a5d3c84e659fbc265e15f45",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/12805035/files/Currents.csv/content",
+      "key": "Currents.csv",
+      "local_path": "files/Currents.csv",
+      "size": 2187916,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:8938a3fe8801004a6744fed2e7cc8c5d",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/12805035/files/TAN.csv/content",
+      "key": "TAN.csv",
+      "local_path": "files/TAN.csv",
+      "size": 489,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:689fae62ed75575c52e7c2882253baf7",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/12805035/files/VFA.csv/content",
+      "key": "VFA.csv",
+      "local_path": "files/VFA.csv",
+      "size": 460,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:95c1cc44d7f76ba2ee6cbad7aaa20017",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/12805035/files/coulomb.csv/content",
+      "key": "coulomb.csv",
+      "local_path": "files/coulomb.csv",
+      "size": 786,
+      "skipped_reason": null
+    },
+    {
+      "checksum": "md5:ada86c2f1f532ae40cb13fce2ac21e7a",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/12805035/files/olr.csv/content",
+      "key": "olr.csv",
+      "local_path": "files/olr.csv",
+      "size": 861,
+      "skipped_reason": null
+    }
+  ]
+}

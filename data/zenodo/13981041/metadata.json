@@ -1,0 +1,37 @@
+{
+  "doi": "10.5281/zenodo.13981041",
+  "doi_url": "https://doi.org/10.5281/zenodo.13981041",
+  "id": "13981041",
+  "title": "Ammonium and Phosphate Recovery in a Three Chambered Microbial Electrolysis Cell: Towards Obtaining Struvite from Livestock Manure",
+  "links": {
+    "html": "https://zenodo.org/records/13981041"
+  },
+  "metadata": {
+    "title": "Ammonium and Phosphate Recovery in a Three Chambered Microbial Electrolysis Cell: Towards Obtaining Struvite from Livestock Manure",
+    "publication_date": "2024-10-23",
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "creators": [
+      {
+        "name": "Miriam Cerrillo"
+      },
+      {
+        "name": "Laura Burgos"
+      },
+      {
+        "name": "Joan Noguerol"
+      },
+      {
+        "name": "Victor Riau"
+      },
+      {
+        "name": "August Bonmat\u00ed"
+      }
+    ],
+    "keywords": [],
+    "description": "Research data on recovering ammonium and phosphate through a three-chambered microbial electrolysis cell system, with the objective of producing struvite as a recoverable product from livestock manure.",
+    "related_identifiers": []
+  },
+  "fetched_at": "2026-05-16T03:37:15+00:00"
+}

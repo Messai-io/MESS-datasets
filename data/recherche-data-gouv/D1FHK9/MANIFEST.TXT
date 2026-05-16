@@ -1,0 +1,19 @@
+1. DF_continuous_pH7_1.csv (text/comma-separated-values) 17283 bytes.
+2. MECs_R1R2_InocMix_Feed_DF_ORL60_pH7.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 883466 bytes.
+4. OTUS N-Stat and MECs_R1R2.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 39051 bytes.
+3. Enrichment.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 816382 bytes.
+4. OTUS N-Stat and MECs_R1R2_1.csv (text/comma-separated-values) 17408 bytes.
+5. OTUs Continuous DF experiments.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 37579 bytes.
+1. DF_continuous_pH7_2.csv (text/comma-separated-values) 2285 bytes.
+2. MECs_R1R2_InocMix_Feed_DF_ORL60_pH7_4.csv (text/comma-separated-values) 195757 bytes.
+1. DF_continuous_pH7_4.png (image/png) 75918 bytes.
+5. OTUs Continuous DF experiments.csv (text/comma-separated-values) 37569 bytes.
+2. MECs_R1R2_InocMix_Feed_DF_ORL60_pH7_1.csv (text/comma-separated-values) 5355 bytes.
+1. DF_continuous_pH7_3.csv (text/comma-separated-values) 6985 bytes.
+1. DF_continuous_pH7.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 132763 bytes.
+Readme_metadata.txt (text/plain) 6044 bytes.
+2. MECs_R1R2_InocMix_Feed_DF_ORL60_pH7_2.csv (text/comma-separated-values) 3973 bytes.
+2. MECs_R1R2_InocMix_Feed_DF_ORL60_pH7_3.csv (text/comma-separated-values) 238219 bytes.
+3. Enrichment_2.csv (text/comma-separated-values) 253019 bytes.
+3. Enrichment_1.csv (text/comma-separated-values) 114457 bytes.
+4. OTUS N-Stat and MECs_R1R2_2.csv (text/comma-separated-values) 27086 bytes.

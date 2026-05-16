@@ -1,0 +1,45 @@
+{
+  "doi": "10.5281/zenodo.12805035",
+  "doi_url": "https://doi.org/10.5281/zenodo.12805035",
+  "id": "12805035",
+  "title": "Dataset of paper \"Bioelectrochemically-improved anaerobic digestion of fishery processing industrial wastewater\"",
+  "links": {
+    "html": "https://zenodo.org/records/12805035"
+  },
+  "metadata": {
+    "title": "Dataset of paper \"Bioelectrochemically-improved anaerobic digestion of fishery processing industrial wastewater\"",
+    "publication_date": "2024-07-24",
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "creators": [
+      {
+        "name": "Leitat Technological Center"
+      }
+    ],
+    "keywords": [
+      "biomethane",
+      "electromethanogenesis",
+      "energy recovery",
+      "fish waste",
+      "waste treatment",
+      "Horizon 2020",
+      "anaerobic digestion",
+      "bioelectrochemical systems"
+    ],
+    "description": "Research data documenting operation of a bioelectrochemically-improved anaerobic digester (AD-BES) processing genuine fishery processing wastewater. Supports publication in Journal of Water Process Engineering (DOI: 10.1016/j.jwpe.2024.105848).",
+    "related_identifiers": [
+      {
+        "identifier": "10.3030/957752",
+        "relation": "isPartOf",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.1016/j.jwpe.2024.105848",
+        "relation": "isPublishedIn",
+        "scheme": "doi"
+      }
+    ]
+  },
+  "fetched_at": "2026-05-16T03:37:15+00:00"
+}

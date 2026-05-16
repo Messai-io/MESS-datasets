@@ -1,0 +1,11 @@
+Alkalinity.csv -> Measured alkalinity expressed in grams per liters
+Av_batch_biogas -> Average  biogas production in each batch, expressed in liters per cubic meter of reactor per day
+Batch -> column 1: progressive batch number. Column 2: duration, expressed in days, for each batch 
+CH4 -> Percentage of methane measured in the biogas produced at the end of each batch
+CH4_Yield -> Final batch methane yield expressed in liters of methane produced per kilogram of COD added
+COD_rem -> percentage of COD removed (expressed in decimals)
+coulomb -> Average daily coulombs exchanged in each batch, expressed in Coulomb per day
+olr -> Organic loading rate for each batch expressed in kilogram of chemical oxygen demand added each day normalized for the reactor size in cubic meter
+TAN -> Total ammoniacal nitrogen expressed in grams per liters
+VFA -> Volatile fatty acids measured in each batch, expressed in grams per liter
+Currents -> progressive experimental day, total BES stack current expressed in milliampere and total BES stack current density expressed in Ampere per square meter of total geometrical electrode surface

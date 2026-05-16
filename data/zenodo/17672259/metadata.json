@@ -1,0 +1,31 @@
+{
+  "doi": "10.5281/zenodo.17672259",
+  "doi_url": "https://doi.org/10.5281/zenodo.17672259",
+  "id": "17672259",
+  "title": "Mineral transformations driven by Acidimicrobium sp. A6 increase the bioavailability of crystalline Fe oxides in co-cultures with Geobacter sulfurreducens",
+  "links": {
+    "html": "https://zenodo.org/records/17672259"
+  },
+  "metadata": {
+    "title": "Mineral transformations driven by Acidimicrobium sp. A6 increase the bioavailability of crystalline Fe oxides in co-cultures with Geobacter sulfurreducens",
+    "publication_date": "2025-11-21",
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "creators": [
+      {
+        "name": "Jinhee Park"
+      }
+    ],
+    "keywords": [
+      "Anaerobic ammonium oxidation",
+      "Redox process",
+      "Iron oxide",
+      "XANES",
+      "Microbial community"
+    ],
+    "description": "Numerical data used to generate all figures and tables in Park et al., 'Mineral transformations driven by Acidimicrobium sp. A6 increase the bioavailability of crystalline Fe oxides in co-cultures with Geobacter sulfurreducens.'",
+    "related_identifiers": []
+  },
+  "fetched_at": "2026-05-16T03:37:15+00:00"
+}

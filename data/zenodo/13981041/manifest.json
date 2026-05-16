@@ -1,0 +1,15 @@
+{
+  "doi": "10.5281/zenodo.13981041",
+  "fetched_at": "2026-05-16T03:37:15+00:00",
+  "files": [
+    {
+      "checksum": "md5:a33eb2e2aa162c8900ee530c5e353989",
+      "committed": true,
+      "download_url": "https://zenodo.org/api/records/13981041/files/Dataset struvite GEMBESH.xlsx/content",
+      "key": "Dataset struvite GEMBESH.xlsx",
+      "local_path": "files/Dataset struvite GEMBESH.xlsx",
+      "size": 494528,
+      "skipped_reason": null
+    }
+  ]
+}
